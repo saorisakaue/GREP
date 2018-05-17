@@ -1,8 +1,8 @@
-#DRUG
+# DRUG enrichment analysis
 ## Requirements
-python3
-scipy.stats
-argparse
+- python3
+- scipy.stats
+- argparse
 
 ## Usage
 ```bash
