@@ -1,6 +1,5 @@
 #!/usr/bin/python
 import scipy.stats
-import math
 import argparse
 # parse arguments
 parser = argparse.ArgumentParser()
