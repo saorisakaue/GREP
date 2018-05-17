@@ -61,6 +61,13 @@ if args.test == "ATC":
         if line[2] != "NA":
             ATC_targetgene.setdefault(line[0], []).append(line[2])
     ATC.close()
+    annot_atc = {}
+    ANNOT = open("./data/ATC_annotation.txt","r")
+    f = ANNOT.readlines()
+    for line in f:
+        line = line.rstrip().split("\t")
+        annot_atc[line[0]] = line[1]
+    ANNOT.close()
     largeATC_targetgene = {}
     for atc in ATC_targetgene.keys():
         large_group = atc[0]
@@ -69,7 +76,7 @@ if args.test == "ATC":
     target_analysis_genes = [gene for gene in target_gene if gene in all_genes]
     target_analysis_genes = list(set(target_analysis_genes))
     # analysis for large group
-    print("#Group\tOddsRatio\tFisherExactP",file = OUT1)
+    print("#Group\tGroupName\tOddsRatio\tFisherExactP",file = OUT1)
     largegroup = list(largeATC_targetgene.keys())
     largegroup.sort()
     for group in largegroup:
@@ -83,9 +90,9 @@ if args.test == "ATC":
         c = len(target_analysis_genes) - a
         d = len(all_genes) - len(target_analysis_genes) - b
         oddsratio, pvalue = scipy.stats.fisher_exact([[a, b], [c, d]],alternative="greater")
-        print("{0}\t{1}\t{2}".format(group,oddsratio, pvalue),file = OUT1)
+        print("{0}\t{1}\t{2}\t{3}".format(group,annot_atc[group],oddsratio, pvalue),file = OUT1)
     # analysis for detailed group
-    print("#Group\tOddsRatio\tFisherExactP",file = OUT2)
+    print("#Group\tGroupName\tOddsRatio\tFisherExactP",file = OUT2)
     detailedgroup = list(ATC_targetgene.keys())
     detailedgroup.sort()
     for group in detailedgroup:
@@ -97,6 +104,6 @@ if args.test == "ATC":
         c = len(target_analysis_genes) - a
         d = len(all_genes) - len(target_analysis_genes) - b
         oddsratio, pvalue = scipy.stats.fisher_exact([[a, b], [c, d]],alternative="greater")
-        print("{0}\t{1}\t{2}".format(group,oddsratio, pvalue),file = OUT2)
+        print("{0}\t{1}\t{2}\t{3}".format(group,annot_atc[group],oddsratio, pvalue),file = OUT2)
     OUT1.close()
     OUT2.close()
