@@ -1,15 +1,3 @@
-
-TTD - Therapeutic Targets Database Full Data Download File
-Version 6.1.01 (2017.10.04)
-Provided by BIDD   BioInformatic and Drug Design Group
-                   Department of Pharmacy
-                   National Unviersity of Singapore
-                   http://bidd.nus.edu.sg/group/bidd.htm
-Any question about data provided here, please contact with:
-Prof. Chen (csccyz@nus.edu.sg) and Prof. Zhu (zhufeng@cqu.edu.cn, http://idrb.cqu.edu.cn/Peoples-PI.php)
-
---------------------------------------------------------------------------------------------------------
-
 TTDDRUGID	LNM	Indication	ICD9	ICD10
 D00ABE	ALD-301	Ischemia	459.89	I99.8
 D00ABO	KW-2449	Acute myeloid leukemia	205	C92.0
@@ -7711,7 +7699,7 @@ D07POC	Erlotinib	Colon cancer; Glioma; Breast cancer; Head and neck cancer	140-1
 D07POC	Erlotinib	Non-small cell lung cancer		C33-C34
 D07POC	Erlotinib	Pancreatic cancer	140-199, 140-229, 157, 210-229	C25
 D07POC-D0EN0W	Erlotinib + Teprotumumab	Non-small cell lung cancer		C33-C34
-D07POC-D0JE2E	erlotinib + rosuvastatin	Squamous cell carcinoma; Non-small-cell lung cancer		D37C33-C34
+D07POC-D0JE2E	erlotinib + rosuvastatin	Squamous cell carcinoma; Non-small-cell lung cancer		D37, C33-C34
 D07POC-D0KK2E	eribulin mesylate + erlotinib	Non-small cell lung cancer		C33-C34
 D07POC-D0N5OV	cetuximab + erlotinib	Neoplasms		C00-D48
 D07POC-D0O5WP	Docetaxel + Erlotinib	Non-small cell lung cancer; Hepatocellular carcinoma	155	C33-C34, C22.0
@@ -12587,7 +12575,7 @@ D0F6DF	AB-3D3	Ovarian cancer	183	C56
 D0F6EO	Amoxicillin	Bacterial infections	001-009, 010-018, 020-027, 030-041, 080-088, 090-099, 100-104	A00-B99
 D0F6EO-D0M4HV-D0Z1ZM	Amoxicillin + Clarithromycin + Lansoprazole	Duodenal ulcers caused by H. pylori bacteria		K27
 D0F6EO-D0X7JN	Amoxicillin + Clavulanate	Community-acquired pneumonia	480-486, 770.0	J12-J18, P23
-D0F6EO-D0X7JN	Amoxicillin + Clavulanate	Sinusitis; Pneumonia; Ear infection; Bronchitis; Urinary tract infection; Skin infection		J01, J12-18, J20-J21, J32, J42, P23, H60-H95, N39.0, L00-L08
+D0F6EO-D0X7JN	Amoxicillin + Clavulanate	Sinusitis; Pneumonia; Ear infection; Bronchitis; Urinary tract infection; Skin infection		J01, J12-J18, J20-J21, J32, J42, P23, H60-H95, N39.0, L00-L08
 D0F6GR	Clentiazem	Angina pectoris	413	I20
 D0F6GU	PF-2400013	Schizophrenia	295	F20
 D0F6GV	Perospirone	Psychotic disorders	290-299	F20-F29
