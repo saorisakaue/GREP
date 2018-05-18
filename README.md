@@ -8,7 +8,7 @@ Both can be run in a few seconds!
 - scipy
 - argparse
 
-## installation
+## Installation
 ```{bash}
 git clone https://github.com/saorisakaue/GREP
 cd ./GREP
