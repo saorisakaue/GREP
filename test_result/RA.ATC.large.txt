@@ -1,0 +1,15 @@
+#Group	GroupName	OddsRatio	FisherExactP	TargetGene:DrugNames
+A	ALIMENTARY TRACT AND METABOLISM	0.4175084175084175	0.9073586755830944	PDE4A:theophylline,roflumilast,dipyridamole,ibudilast,drotaverine,trapidil,pentoxifylline,apremilast
+B	BLOOD AND BLOOD FORMING ORGANS	0.9292929292929293	0.6667409120704617	PDE4A:theophylline,roflumilast,dipyridamole,ibudilast,drotaverine,trapidil,pentoxifylline,apremilast
+C	CARDIOVASCULAR SYSTEM	1.1098790322580645	0.5228823014415673	SLC29A1:lidoflazine,dilazep	SLC12A5:bumetanide	PDE4A:theophylline,roflumilast,dipyridamole,ibudilast,drotaverine,trapidil,pentoxifylline,apremilast
+D	DERMATOLOGICALS	0.6980649872216137	0.7653438054311684	ICAM1:hyaluronic acid
+G	GENITO URINARY SYSTEM AND SEX HORMONES	0.0	1.0	
+H	SYSTEMIC HORMONAL PREPARATIONS, EXCL. SEX HORMONES AND INSULINS	0.0	1.0	
+J	ANTIINFECTIVES FOR SYSTEMIC USE	0.0	1.0	
+L	ANTINEOPLASTIC AND IMMUNOMODULATING AGENTS	3.7395833333333335	0.0016006128913749517	DNMT1:decitabine,azacitidine	PMEL:melanoma vaccine	IL6R:tocilizumab,sarilumab	C5:eculizumab	ERBB2:trastuzumab emtansine,masoprocol,trastuzumab,pertuzumab,lapatinib,afatinib	CTLA4:ipilimumab	CD28:belatacept	RPL3:omacetaxine mepesuccinate	IL2RA:daclizumab,denileukin diftitox,basiliximab,aldesleukin	PDE4A:theophylline,roflumilast,dipyridamole,ibudilast,drotaverine,trapidil,pentoxifylline,apremilast
+M	MUSCULO-SKELETAL SYSTEM	1.4580792682926829	0.41483225119808553	MMP9:glucosamine	ICAM1:hyaluronic acid
+N	NERVOUS SYSTEM	0.3700581978727674	0.9307597129367523	SIGMAR1:captodiame,pentazocine,naltrexone,dextromethorphan,dimemorfan
+P	ANTIPARASITIC PRODUCTS, INSECTICIDES AND REPELLENTS	0.0	1.0	
+R	RESPIRATORY SYSTEM	2.3784119106699753	0.15172093118332844	ICAM1:hyaluronic acid	SIGMAR1:captodiame,pentazocine,naltrexone,dextromethorphan,dimemorfan	PDE4A:theophylline,roflumilast,dipyridamole,ibudilast,drotaverine,trapidil,pentoxifylline,apremilast
+S	SENSORY ORGANS	0.7069475240206947	0.7611710488316614	ICAM1:hyaluronic acid
+V	VARIOUS	0.0	1.0	

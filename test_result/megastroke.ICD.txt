@@ -1,0 +1,264 @@
+#Group	GroupName	OddsRatio	FisherExactP	TargetGene:DrugNames
+A00-A09	Intestinal infectious diseases	1.8572825024437927	0.2408255874112827	ACACB:acetyl coa carboxylase inhibitors, bayer	MPO:e-101	TACR2:slv-332,dnk-333,ibodutant
+A15-A19	Tuberculosis	1.962474645030426	0.2884178856803736	ACACB:acetyl coa carboxylase inhibitors, bayer	MPO:e-101
+A20-A28	Certain zoonotic bacterial diseases	2.153163152053274	0.2550297693966116	ACACB:acetyl coa carboxylase inhibitors, bayer	MPO:e-101
+A30-A49	Other bacterial diseases	1.4251675353685778	0.4252009299261961	ACACB:acetyl coa carboxylase inhibitors, bayer	MPO:e-101
+A50-A64	Infections with a predominantly sexual mode of transmission	1.8950980392156862	0.3017588826066355	ACACB:acetyl coa carboxylase inhibitors, bayer	MPO:e-101
+A65-A69	Other spirochaetal diseases	2.153163152053274	0.2550297693966116	ACACB:acetyl coa carboxylase inhibitors, bayer	MPO:e-101
+A70-A74	Other diseases caused by chlamydiae	2.153163152053274	0.2550297693966116	ACACB:acetyl coa carboxylase inhibitors, bayer	MPO:e-101
+A75-A79	Rickettsioses	2.1957013574660635	0.2483628342570694	ACACB:acetyl coa carboxylase inhibitors, bayer	MPO:e-101
+A80-A89	Viral infections of the central nervous system	2.1957013574660635	0.2483628342570694	ACACB:acetyl coa carboxylase inhibitors, bayer	MPO:e-101
+A92-A99	Arthropod-borne viral fevers and viral haemorrhagic fevers	2.1957013574660635	0.2483628342570694	ACACB:acetyl coa carboxylase inhibitors, bayer	MPO:e-101
+B00-B09	Viral infections characterized by skin and mucous membrane lesions	1.7174688057040999	0.34153917780897386	ACACB:acetyl coa carboxylase inhibitors, bayer	MPO:e-101
+B15-B19	Viral hepatitis	2.9890625	0.05877775715502721	MMP3:rs-130830	ACACB:acetyl coa carboxylase inhibitors, bayer	MMP13:rs-130830	MPO:e-101
+B20-B24	Human immunodeficiency virus (HIV) disease	0.9973502914679385	0.6054610015148396	ACACB:acetyl coa carboxylase inhibitors, bayer	MPO:e-101
+B25-B34	Other viral diseases	1.0266884531590414	0.5904084117089847	ACACB:acetyl coa carboxylase inhibitors, bayer	MPO:e-101
+B35-B49	Mycoses	1.8020541549953315	0.3217073199885269	ACACB:acetyl coa carboxylase inhibitors, bayer	MPO:e-101
+B50-B64	Protozoal diseases	2.0158562367864694	0.20765128047670428	ACACB:acetyl coa carboxylase inhibitors, bayer	MMP13:curcumin	MPO:e-101
+B65-B83	Helminthiases	1.7174688057040999	0.34153917780897386	ACACB:acetyl coa carboxylase inhibitors, bayer	MPO:e-101
+B85-B89	Pediculosis, acariasis and other infestations	1.7447963800904978	0.3349441778931755	ACACB:acetyl coa carboxylase inhibitors, bayer	MPO:e-101
+B90-B94	Sequelae of infectious and parasitic diseases	2.1957013574660635	0.2483628342570694	ACACB:acetyl coa carboxylase inhibitors, bayer	MPO:e-101
+B95-B98	Bacterial, viral and other infectious agents	2.0346638655462184	0.2750606311666006	ACACB:acetyl coa carboxylase inhibitors, bayer	MPO:e-101
+B99-B99	Other infectious diseases	2.1957013574660635	0.2483628342570694	ACACB:acetyl coa carboxylase inhibitors, bayer	MPO:e-101
+C00-C14	Malignant neoplasms of lip, oral cavity and pharynx	0.9630325814536341	0.6024853839664468	LPA:mg-1102	PLG:smtp-0	MMP12:mmp-12 inhibitors,v85546	MPO:inv-311	EDNRA:a-216546	MMP13:pd-156,curcumin	CTLA4:del 60 tetramer,tremelimumab,ipilimumab	HDAC9:valproic acid
+C15-C26	Malignant neoplasms of digestive organs	1.2223834865344299	0.35679387543847557	LPA:mg-1102	ACACB:metformin	PLG:smtp-0	MMP12:marimastat	EDNRA:a-216546	MMP3:marimastat	MMP13:marimastat,curcumin	CTLA4:del 60 tetramer,tremelimumab	HDAC9:valproic acid,panobinostat	RNF43:rnf43-721
+C30-C39	Malignant neoplasms of respiratory and intrathoracic organs	1.1203501094091903	0.4493006624399234	LPA:mg-1102	LDLR:porfimer sodium	PLG:smtp-0	MMP12:marimastat,neovastat	EDNRA:a-216546	MMP3:marimastat	MMP13:marimastat,curcumin	CTLA4:del 60 tetramer,tremelimumab,ipilimumab	HDAC9:valproic acid
+C40-C41	Malignant neoplasms of bone and articular cartilage	0.7698296836982969	0.7806503910911364	LPA:mg-1102	PLG:smtp-0	EDNRA:a-216546	MMP13:curcumin	CTLA4:del 60 tetramer,tremelimumab	HDAC9:valproic acid,panobinostat
+C43-C44	Melanoma and other malignant neoplasms of skin	0.9336188436830836	0.6320797188868482	LPA:mg-1102	PLG:smtp-0	MMP12:mmp-12 inhibitors,v85546	MPO:inv-311	EDNRA:a-216546	MMP13:pd-156,curcumin	CTLA4:del 60 tetramer,ipilimumab,tremelimumab	HDAC9:valproic acid
+C45-C49	Malignant neoplasms of mesothelial and soft tissue	0.7604819277108433	0.7890437119955968	LPA:mg-1102	PLG:smtp-0	EDNRA:a-216546	MMP13:curcumin	CTLA4:del 60 tetramer,ipilimumab,tremelimumab	HDAC9:valproic acid
+C50-C50	Malignant neoplasm of breast	0.8747899831986559	0.6880460965879426	LPA:mg-1102	ACACB:metformin	PLG:smtp-0	EDNRA:a-216546	MMP13:curcumin	CTLA4:del 60 tetramer,ipilimumab,tremelimumab	HDAC9:valproic acid
+C51-C58	Malignant neoplasms of female genital organs	0.7184331797235023	0.825820741148259	LPA:mg-1102	PLG:smtp-0	EDNRA:zibotentan,a-216546	MMP13:curcumin	CTLA4:del 60 tetramer,tremelimumab	HDAC9:valproic acid
+C60-C63	Malignant neoplasms of male genital organs	0.8372506571826195	0.7247333396120507	BMPR2:aa-123	LPA:mg-1102	PLG:smtp-0	EDNRA:zibotentan,atrasentan,ym-598,a-216546	MMP13:curcumin	CTLA4:del 60 tetramer,tremelimumab,ipilimumab	HDAC9:valproic acid
+C64-C68	Malignant neoplasms of urinary tract	0.8773857257417803	0.685505057088247	LPA:mg-1102	PLG:smtp-0	MMP12:neovastat	EDNRA:a-216546	MMP13:curcumin	CTLA4:del 60 tetramer,tremelimumab,ipilimumab	HDAC9:valproic acid
+C69-C72	Malignant neoplasms of eye, brain and other parts of central nervous system	0.7490476190476191	0.7992148676614415	LPA:mg-1102	PLG:smtp-0	EDNRA:a-216546	MMP13:curcumin	CTLA4:del 60 tetramer,tremelimumab	HDAC9:valproic acid
+C73-C75	Malignant neoplasms of thyroid and other endocrine glands	0.7628019323671498	0.7869667917705895	LPA:mg-1102	PLG:smtp-0	EDNRA:a-216546	MMP13:curcumin	CTLA4:del 60 tetramer,tremelimumab	HDAC9:valproic acid
+C76-C80	Malignant neoplasms of ill-defined, secondary and unspecified sites	0.8065656565656566	0.747136081579054	LPA:mg-1102	PLG:smtp-0	EDNRA:a-216546	MMP13:curcumin	CTLA4:del 60 tetramer,tremelimumab	HDAC9:valproic acid
+C81-C96	Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue	0.8946395563770795	0.6747215767994409	LPA:mg-1102	PLG:smtp-0	MMP12:neovastat	EDNRA:a-216546	TRPV4:phorbol 12-myristate 13-acetate	MMP13:curcumin	CTLA4:del 60 tetramer,ipilimumab,tremelimumab	PDE3A:theophylline,aminophylline	HDAC9:valproic acid,panobinostat
+C97-C97	Malignant neoplasms of independent (primary) multiple sites	0.806030603060306	0.7214130805160688	CTLA4:tremelimumab	EDNRA:a-216546	HDAC9:valproic acid
+D00-D09	In situ neoplasms	0.7179383116883117	0.7856448995609736	CTLA4:tremelimumab	EDNRA:a-216546	HDAC9:valproic acid
+D10-D36	Benign neoplasms	0.6577761081893313	0.8290436931032175	CTLA4:tremelimumab	EDNRA:atrasentan,a-216546	HDAC9:valproic acid
+D37-D48	Neoplasms of uncertain or unknown behaviour	0.6968379446640316	0.8009884868734264	CTLA4:tremelimumab	EDNRA:a-216546	HDAC9:valproic acid,panobinostat
+D50-D53	Nutritional anaemias	1.5531746031746032	0.487460012184584	PDE3A:theophylline
+D55-D59	Haemolytic anaemias	1.5983673469387756	0.4780315811371893	PDE3A:theophylline
+D60-D64	Aplastic and other anaemias	1.5104247104247104	0.49672278304883444	PDE3A:theophylline
+D65-D69	Coagulation defects, purpura and other haemorrhagic conditions	2.5464052287581698	0.2020827165101807	F11:isis-fxi	HDAC9:panobinostat
+D70-D77	Other diseases of blood and blood-forming organs	3.2907563025210083	0.13860806340173834	PDE3A:anagrelide	HDAC9:panobinostat
+D80-D89	Certain disorders involving the immune mechanism	0.9204761904761904	0.6699955525871844	CD28:anti-cd28
+E00-E07	Disorders of thyroid gland	0.0	1.0	
+E10-E14	Diabetes mellitus	1.2485851726089416	0.3987748931077087	CD28:tgn-1412,fr-104,belatacept	ACACB:pf-05175157,metformin	CTLA4:gx-c4	EDNRA:avosentan	HDAC9:panobinostat
+E15-E16	Other disorders of glucose regulation and pancreatic internal secretion	0.0	1.0	
+E20-E35	Disorders of other endocrine glands	0.41284606866002216	0.9097596277856717	ACACB:metformin
+E40-E46	Malnutrition	0.0	1.0	
+E50-E64	Other nutritional deficiencies	0.0	1.0	
+E65-E68	Obesity and other hyperalimentation	0.6744268077601411	0.7765024550676504	ACACB:axokine,acetyl coa carboxylase inhibitors,metformin
+E70-E90	Metabolic disorders	0.7785714285714286	0.7304865305089572	BGLAP:gallium nitrate	ACACB:metformin
+F00-F09	Organic, including symptomatic, mental disorders	0.8474725274725274	0.6991231669057315	DAO:sep-227900
+F10-F19	Mental and behavioural disorders due to psychoactive substance use	0.518956043956044	0.8548623063462875	ALDH2:disulfiram,cvt-10216,gs-6637
+F20-F29	Schizophrenia, schizotypal and delusional disorders	0.641344537815126	0.7925915450877772	ACACB:metformin
+F30-F39	Mood [affective] disorders	1.2611940298507462	0.44306785164479634	TACR2:saredutant,sr 144190,gr-159897	CAMK2D:abio 09-01	HDAC9:valproic acid
+F40-F48	Neurotic, stress-related and somatoform disorders	2.950617283950617	0.060914438992025505	ALDH2:disulfiram	TACR2:saredutant,sr 144190,gr-159897	CAMK2D:abio 09-01	HDAC9:valproic acid
+F50-F59	Behavioural syndromes associated with physiological disturbances and physical factors	0.0	1.0	
+F60-F69	Disorders of adult personality and behaviour	0.0	1.0	
+F70-F79	Mental retardation	0.0	1.0	
+F80-F89	Disorders of psychological development	0.0	1.0	
+F90-F98	Behavioural and emotional disorders with onset usually occurring in childhood and adolescence	0.0	1.0	
+F99-F99	Unspecified mental disorder	0.0	1.0	
+G00-G09	Inflammatory diseases of the central nervous system	0.0	1.0	
+G10-G14	Systemic atrophies primarily affecting the central nervous system	0.0	1.0	
+G20-G26	Extrapyramidal and movement disorders	1.0471698113207548	0.5801509721391922	ACACB:ac-8632	MPO:azd-3241
+G30-G32	Other degenerative diseases of the nervous system	1.4033742331288344	0.3437286149534829	F11:alpha-ketothiazole analogue 36	MMP13:compound 1	MMP12:compound 1	PLG:plasminogen concentrate
+G35-G37	Demyelinating diseases of the central nervous system	1.791346153846154	0.21068481494306618	MMP3:bb-1101	MMP13:compound 1	MMP12:compound 1	MPO:azd5904
+G40-G47	Episodic and paroxysmal disorders	0.37816326530612243	0.9269325918436115	HDAC9:valproic acid
+G50-G59	Nerve, nerve root and plexus disorders	0.0	1.0	
+G60-G64	Polyneuropathies and other disorders of the peripheral nervous system	0.8104929895974672	0.7181862054583429	MMP13:compound 1	MMP12:compound 1	TACR2:men-10207
+G70-G73	Diseases of myoneural junction and muscle	0.0	1.0	
+G80-G83	Cerebral palsy and other paralytic syndromes	0.0	1.0	
+G90-G99	Other disorders of the nervous system	0.7972370766488414	0.7277853826810963	MMP13:compound 1	MMP12:compound 1	TACR2:men-10207
+H00-H06	Disorders of eyelid, lacrimal system and orbit	0.0	1.0	
+H10-H13	Disorders of conjunctiva	0.0	1.0	
+H15-H22	Disorders of sclera, cornea, iris and ciliary body	1.4315018315018315	0.514762613127081	MMP3:galardin
+H25-H28	Disorders of lens	0.0	1.0	
+H30-H36	Disorders of choroid and retina	1.9282153539381854	0.29509137952929904	KLKB1:ecallantide	PLG:retinostat
+H40-H42	Glaucoma	0.0	1.0	
+H43-H45	Disorders of vitreous body and globe	0.0	1.0	
+H46-H48	Disorders of optic nerve and visual pathways	0.0	1.0	
+H49-H52	Disorders of ocular muscles, binocular movement, accommodation and refraction	0.0	1.0	
+H53-H54	Visual disturbances and blindness	0.0	1.0	
+H55-H59	Other disorders of eye and adnexa	0.0	1.0	
+H60-H62	Diseases of external ear	0.0	1.0	
+H65-H75	Diseases of middle ear and mastoid	14.207142857142857	0.08570248920791235	PLG:bis-triazole derivative 10
+H80-H83	Diseases of inner ear	0.0	1.0	
+H90-H95	Other disorders of ear	0.0	1.0	
+I00-I02	Acute rheumatic fever	1.5043137254901962	0.39994053835115784	PDE3A:emd-53998	EDNRA:macitentan,mx-6120
+I05-I09	Chronic rheumatic heart diseases	1.5043137254901962	0.39994053835115784	PDE3A:emd-53998	EDNRA:macitentan,mx-6120
+I10-I15	Hypertensive diseases	0.9624735729386892	0.6127644379437104	ACACB:metformin	PDE3A:emd-53998	EDNRA:50-235,bq-518,ps433540,bms-182874,pd-145065,bq-123,macitentan,fr139317,mx-6120,pd-155080
+I20-I25	Ischaemic heart diseases	2.0519774011299434	0.09907696772503505	LPA:isis-apo(a)	PLG:anistreplase,tenecteplase,troplasminogen alfa,urokinase,ranolazine,reteplase	FGA:tenecteplase,anistreplase,reteplase	EDNRA:macitentan,mx-6120,sparsentan	MMP3:pg-530742	PDE3A:cilostazol,emd-53998
+I26-I28	Pulmonary heart disease and diseases of pulmonary circulation	2.2476190476190476	0.12417237772568784	PDE3A:aminophylline,emd-53998	FGA:alteplase	PLG:urokinase,streptokinase,alteplase	EDNRA:pf-1228305,edonentan hydrate,sitaxsentan,bosentan,bq-123,macitentan,j-104132,lu302146,enrasentan,ambrisentan,mx-6120,tbc 11251 (tbc),bms-193884
+I30-I52	Other forms of heart disease	1.2745786516853932	0.4065533519101512	ATP2A2:mydicar	PDE3A:enoximone,bemoradan,milrinone,emd-53998,vesnarinone,las-31180,amrinone	PLG:ranolazine	EDNRA:macitentan,mx-6120,sb-209670
+I60-I69	Cerebrovascular diseases	2.1680691912108463	0.10456381621072681	MMP3:batimastat	ALDH2:ald-401	PDE3A:cilostazol,emd-53998	PLG:m5,desmoteplase	EDNRA:macitentan,clazosentan,97-139
+I70-I79	Diseases of arteries, arterioles and capillaries	2.8033609777389787	0.022966726290276664	FGB:anti-inhibitor coagulant complex	PLG:urokinase,textilinin,antifibrinolytic agents	MMP12:way-644,rxp-470	FGA:anti-inhibitor coagulant complex	EDNRA:macitentan	PDE3A:cilostazol,emd-53998	SELPLG:ro-4905417
+I80-I89	Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified	2.8661538461538463	0.02978180389638094	F11:fxi-as1	FGB:anti-inhibitor coagulant complex	PLG:urokinase,textilinin,antifibrinolytic agents	FGA:anti-inhibitor coagulant complex	EDNRA:macitentan	PDE3A:emd-53998
+I95-I99	Other and unspecified disorders of the circulatory system	0.8716153127917834	0.6747083560701603	PDE3A:emd-53998	EDNRA:zd-1611,macitentan,tbc-3711,darusentan
+J00-J06	Acute upper respiratory infections	0.9532019704433498	0.6575923875892229	KCNK3:doxapram
+J09-J18	Influenza and pneumonia	1.5983673469387756	0.4780315811371893	KCNK3:doxapram
+J20-J22	Other acute lower respiratory infections	2.4472049689440993	0.350871691625043	KCNK3:doxapram
+J30-J39	Other diseases of upper respiratory tract	0.7966873706004141	0.7206108215923883	KCNK3:doxapram
+J40-J47	Chronic lower respiratory diseases	2.0710125448028673	0.11932815556361737	KCNK3:doxapram	PDE3A:theophylline,aminophylline	MMP12:azd1236,pup-1,mmp-408	TACR2:men-10627,cs-003,ave-5883,fk-224,dnk-333,zd-7944,men13510	MPO:azd5904
+J60-J70	Lung diseases due to external agents	3.530357142857143	0.26328321452912495	KCNK3:doxapram
+J80-J84	Other respiratory diseases principally affecting the interstitium	1.4315018315018315	0.514762613127081	KCNK3:doxapram
+J85-J86	Suppurative and necrotic conditions of lower respiratory tract	3.530357142857143	0.26328321452912495	KCNK3:doxapram
+J90-J94	Other diseases of pleura	3.530357142857143	0.26328321452912495	KCNK3:doxapram
+J95-J99	Other diseases of the respiratory system	2.8185714285714285	0.3146493994785845	KCNK3:doxapram
+K00-K14	Diseases of oral cavity, salivary glands and jaws	0.0	1.0	
+K20-K31	Diseases of oesophagus, stomach and duodenum	1.133527696793003	0.5959387951654908	TACR2:nepadutant
+K35-K38	Diseases of appendix	0.0	1.0	
+K40-K46	Hernia	0.0	1.0	
+K50-K52	Noninfective enteritis and colitis	0.0	1.0	
+K55-K64	Other diseases of intestines	0.8341991341991342	0.7046410303767564	TACR2:slv-332,nepadutant,dnk-333,ibodutant
+K65-K67	Diseases of peritoneum	0.0	1.0	
+K70-K77	Diseases of liver	1.4064613072877536	0.37929010014610554	MMP13:pd-156	MMP12:mmp-12 inhibitors,v85546	MPO:inv-311
+K80-K87	Disorders of gallbladder, biliary tract and pancreas	3.2907563025210083	0.13860806340173834	KLKB1:gabexate	PLG:gabexate
+K90-K93	Other diseases of the digestive system	0.0	1.0	
+L00-L08	Infections of the skin and subcutaneous tissue	0.0	1.0	
+L10-L14	Bullous disorders	0.0	1.0	
+L20-L30	Dermatitis and eczema	0.0	1.0	
+L40-L45	Papulosquamous disorders	0.0	1.0	
+L50-L54	Urticaria and erythema	0.0	1.0	
+L55-L59	Radiation-related disorders of the skin and subcutaneous tissue	0.0	1.0	
+L60-L75	Disorders of skin appendages	0.7514677103718199	0.7406035416842371	ACACB:qlt-091382
+L80-L99	Other disorders of the skin and subcutaneous tissue	0.0	1.0	
+M00-M03	Infectious arthropathies	1.5713094245204338	0.31950526948497826	MMP13:pd-156	MMP12:mmp-12 inhibitors,v85546	MPO:inv-311
+M05-M14	Inflammatory polyarthropathies	2.3731259370314843	0.046436402901939865	MMP12:mmp-12 inhibitors,v85546	MAPKAPK5:glpg-0259	MPO:inv-311	MMP3:ro-319790	MMP13:pd-156,apratastat	CTLA4:ctla-4-xten	CAMK2D:rimacalib
+M15-M19	Arthrosis	1.806201550387597	0.2069127161316359	MMP3:pg-530742	MMP13:mmp-13 inhibitors,pd-156	MMP12:mmp-12 inhibitors,v85546	MPO:inv-311
+M20-M25	Other joint disorders	2.203271028037383	0.13040759149183423	BMPR2:aa-166	MMP13:pd-156	MMP12:mmp-12 inhibitors,v85546	MPO:inv-311
+M30-M36	Systemic connective tissue disorders	0.0	1.0	
+M40-M43	Deforming dorsopathies	0.0	1.0	
+M45-M49	Spondylopathies	2.239907727797001	0.24170474053219357	MMP3:pg-530742	MMP13:mmp-13 inhibitors
+M50-M54	Other dorsopathies	0.0	1.0	
+M60-M63	Disorders of muscles	0.0	1.0	
+M65-M68	Disorders of synovium and tendon	0.0	1.0	
+M70-M79	Other soft tissue disorders	0.0	1.0	
+M80-M85	Disorders of bone density and structure	0.0	1.0	
+M86-M90	Other osteopathies	0.0	1.0	
+M91-M94	Chondropathies	0.0	1.0	
+M95-M99	Other disorders of the musculoskeletal system and connective tissue	0.0	1.0	
+N00-N08	Glomerular diseases	1.4699248120300752	0.5058227226824984	BMPR2:aa-204
+N10-N16	Renal tubulo-interstitial diseases	1.696969696969697	0.45866618350146915	BMPR2:aa-204
+N17-N19	Renal failure	1.045822102425876	0.6245684599529291	BMPR2:aa-184,aa-204
+N20-N23	Urolithiasis	1.696969696969697	0.45866618350146915	BMPR2:aa-204
+N25-N29	Other disorders of kidney and ureter	0.9695562435500515	0.6201119835825988	ACACB:metformin	BMPR2:aa-204
+N30-N39	Other diseases of urinary system	0.9365617433414044	0.6638495825372484	TACR2:azd-5106,uk-224671,uk-290795,sr 144190
+N40-N51	Diseases of male genital organs	0.0	1.0	
+N60-N64	Disorders of breast	0.0	1.0	
+N70-N77	Inflammatory diseases of female pelvic organs	0.0	1.0	
+N80-N98	Noninflammatory disorders of female genital tract	1.133527696793003	0.5959387951654908	PLG:xp-21510
+N99-N99	Other disorders of the genitourinary system	0.0	1.0	
+O00-O08	Pregnancy with abortive outcome	0.0	1.0	
+O10-O16	Oedema, proteinuria and hypertensive disorders in pregnancy, childbirth and the puerperium	0.0	1.0	
+O20-O29	Other maternal disorders predominantly related to pregnancy	0.0	1.0	
+O30-O48	Maternal care related to the fetus and amniotic cavity and possible delivery problems	0.0	1.0	
+O60-O75	Complications of labour and delivery	6.298412698412698	0.16424692633711252	EDNRA:hjp-272
+O80-O84	Delivery	0.0	1.0	
+O85-O92	Complications predominantly related to the puerperium	7.089285714285714	0.14908205201695515	PLG:urokinase
+O94-O99	Other obstetric conditions, not elsewhere classified	0.0	1.0	
+P00-P04	Fetus and newborn affected by maternal factors and by complications of pregnancy, labour and delivery	nan	1.0	
+P05-P08	Disorders related to length of gestation and fetal growth	9.461904761904762	0.11794555349639706	EDNRA:hjp-272
+P10-P15	Birth trauma	56.91428571428571	0.035179249987614306	EDNRA:clazosentan
+P20-P29	Respiratory and cardiovascular disorders specific to the perinatal period	0.0	1.0	
+P35-P39	Infections specific to the perinatal period	0.0	1.0	
+P50-P61	Haemorrhagic and haematological disorders of fetus and newborn	2.8185714285714285	0.3146493994785845	HDAC9:panobinostat
+P70-P74	Transitory endocrine and metabolic disorders specific to fetus and newborn	0.0	1.0	
+P75-P78	Digestive system disorders of fetus and newborn	11.36	0.10196469789787109	TACR2:nepadutant
+P80-P83	Conditions involving the integument and temperature regulation of fetus and newborn	nan	1.0	
+P90-P96	Other disorders originating in the perinatal period	0.0	1.0	
+Q00-Q07	Congenital malformations of the nervous system	0.0	1.0	
+Q10-Q18	Congenital malformations of eye, ear, face and neck	0.0	1.0	
+Q20-Q28	Congenital malformations of the circulatory system	0.0	1.0	
+Q30-Q34	Congenital malformations of the respiratory system	0.0	1.0	
+Q35-Q37	Cleft lip and cleft palate	0.0	1.0	
+Q38-Q45	Other congenital malformations of the digestive system	0.0	1.0	
+Q50-Q56	Congenital malformations of genital organs	0.0	1.0	
+Q60-Q64	Congenital malformations of the urinary system	0.0	1.0	
+Q65-Q79	Congenital malformations and deformations of the musculoskeletal system	0.0	1.0	
+Q80-Q89	Other congenital malformations	0.0	1.0	
+Q90-Q99	Chromosomal abnormalities, not elsewhere classified	0.0	1.0	
+R00-R09	Symptoms and signs involving the circulatory and respiratory systems	1.3272108843537416	0.540649121817012	PDE3A:oxtriphylline
+R10-R19	Symptoms and signs involving the digestive system and abdomen	2.2858823529411763	0.23505790254769152	PDE3A:theophylline	TACR2:nepadutant
+R20-R23	Symptoms and signs involving the skin and subcutaneous tissue	0.9204761904761904	0.6699955525871844	KCNK3:halothane
+R25-R29	Symptoms and signs involving the nervous and musculoskeletal systems	5.148051948051948	0.19379244061179565	EDNRA:clazosentan
+R30-R39	Symptoms and signs involving the urinary system	1.2093167701863354	0.5730846521141826	TACR2:azd-5106,uk-224671,uk-290795
+R40-R46	Symptoms and signs involving cognition, perception, emotional state and behaviour	1.3602787456445993	0.532173144567137	DAO:sep-227900
+R47-R49	Symptoms and signs involving speech and voice	nan	1.0	
+R50-R69	General symptoms and signs	0.8406007751937985	0.7027342796647345	MMP13:compound 1	MMP12:compound 1	TACR2:men-10207	PLG:aminocaproic acid,tranexamic acid
+R70-R79	Abnormal findings on examination of blood, without diagnosis	0.0	1.0	
+R80-R82	Abnormal findings on examination of urine, without diagnosis	0.0	1.0	
+R83-R89	Abnormal findings on examination of other body fluids, substances and tissues, without diagnosis	nan	1.0	
+R90-R94	Abnormal findings on diagnostic imaging and in function studies, without diagnosis	nan	1.0	
+R95-R99	Ill-defined and unknown causes of mortality	nan	1.0	
+S00-S09	Injuries to the head	2.249142857142857	0.3739784764814026	EDNRA:clazosentan
+S10-S19	Injuries to the neck	0.0	1.0	
+S20-S29	Injuries to the thorax	0.0	1.0	
+S30-S39	Injuries to the abdomen, lower back, lumbar spine and pelvis	0.0	1.0	
+S40-S49	Injuries to the shoulder and upper arm	0.0	1.0	
+S50-S59	Injuries to the elbow and forearm	0.0	1.0	
+S60-S69	Injuries to the wrist and hand	0.0	1.0	
+S70-S79	Injuries to the hip and thigh	0.0	1.0	
+S80-S89	Injuries to the knee and lower leg	0.0	1.0	
+S90-S99	Injuries to the ankle and foot	0.0	1.0	
+T00-T07	Injuries involving multiple body regions	0.0	1.0	
+T08-T14	Injuries to unspecified part of trunk, limb or body region	2.344047619047619	0.3625268632461409	EDNRA:sb-234551
+T15-T19	Effects of foreign body entering through natural orifice	0.0	1.0	
+T20-T25	Burns and corrosions of external body surface, specified by site	0.0	1.0	
+T26-T28	Burns and corrosions confined to eye and internal organs	0.0	1.0	
+T29-T32	Burns and corrosions of multiple and unspecified body regions	0.0	1.0	
+T33-T35	Frostbite	0.0	1.0	
+T36-T50	Poisoning by drugs, medicaments and biological substances	0.0	1.0	
+T51-T65	Toxic effects of substances chiefly nonmedicinal as to source	0.0	1.0	
+T66-T78	Other and unspecified effects of external causes	1.2017710309930423	0.5092275645184507	PDE3A:theophylline	SELPLG:abgn-168
+T79-T79	Certain early complications of trauma	3.3210084033613447	0.2764650258005134	PLG:urokinase
+T80-T88	Complications of surgical and medical care, not elsewhere classified	1.025925925925926	0.6314117690390468	CD28:belatacept
+T90-T98	Sequelae of injuries, of poisoning and of other consequences of external causes	0.0	1.0	
+U00-U49	Provisional assignment of new diseases of uncertain etiology or emergency use	nan	1.0	
+U82-U85	Resistance to antimicrobial and antineoplastic drugs	nan	1.0	
+V01-V09	Pedestrian injured in transport accident	nan	1.0	
+V10-V19	Pedal cyclist injured in transport accident	nan	1.0	
+V20-V29	Motorcycle rider injured in transport accident	nan	1.0	
+V30-V39	Occupant of three-wheeled motor vehicle injured in transport accident	nan	1.0	
+V40-V49	Car occupant injured in transport accident	nan	1.0	
+V50-V59	Occupant of pick-up truck or van injured in transport accident	nan	1.0	
+V60-V69	Occupant of heavy transport vehicle injured in transport accident	nan	1.0	
+V70-V79	Bus occupant injured in transport accident	nan	1.0	
+V80-V89	Other land transport accidents	nan	1.0	
+V90-V94	Water transport accidents	nan	1.0	
+V95-V97	Air and space transport accidents	nan	1.0	
+V98-V99	Other and unspecified transport accidents	nan	1.0	
+W00-W19	Falls	nan	1.0	
+W20-W49	Exposure to inanimate mechanical forces	nan	1.0	
+W50-W64	Exposure to animate mechanical forces	nan	1.0	
+W65-W74	Accidental drowning and submersion	nan	1.0	
+W75-W84	Other accidental threats to breathing	nan	1.0	
+W85-W99	Exposure to electric current, radiation and extreme ambient air temperature and pressure	0.0	1.0	
+X00-X09	Exposure to smoke, fire and flames	nan	1.0	
+X10-X19	Contact with heat and hot substances	nan	1.0	
+X20-X29	Contact with venomous animals and plants	nan	1.0	
+X30-X39	Exposure to forces of nature	nan	1.0	
+X40-X49	Accidental poisoning by and exposure to noxious substances	nan	1.0	
+X50-X57	Overexertion, travel and privation	nan	1.0	
+X58-X59	Accidental exposure to other and unspecified factors	nan	1.0	
+X60-X84	Intentional self-harm	nan	1.0	
+X85-Y09	Assault	nan	1.0	
+Y10-Y34	Event of undetermined intent	nan	1.0	
+Y35-Y36	Legal intervention and operations of war	nan	1.0	
+Y40-Y59	Drugs, medicaments and biological substances causing adverse effects in therapeutic use	nan	1.0	
+Y60-Y69	Misadventures to patients during surgical and medical care	nan	1.0	
+Y70-Y82	Medical devices associated with adverse incidents in diagnostic and therapeutic use	nan	1.0	
+Y83-Y84	Surgical and other medical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure	nan	1.0	
+Y85-Y89	Sequelae of external causes of morbidity and mortality	nan	1.0	
+Y90-Y98	Supplementary factors related to causes of morbidity and mortality classified elsewhere	nan	1.0	
+Z00-Z13	Persons encountering health services for examination and investigation	0.0	1.0	
+Z20-Z29	Persons with potential health hazards related to communicable diseases	0.0	1.0	
+Z30-Z39	Persons encountering health services in circumstances related to reproduction	0.0	1.0	
+Z40-Z54	Persons encountering health services for specific procedures and health care	0.0	1.0	
+Z55-Z65	Persons with potential health hazards related to socioeconomic and psychosocial circumstances	0.0	1.0	
+Z70-Z76	Persons encountering health services in other circumstances	0.0	1.0	
+Z80-Z99	Persons with potential health hazards related to family and personal history and certain conditions influencing health status	0.0	1.0	

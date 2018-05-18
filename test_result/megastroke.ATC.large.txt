@@ -1,0 +1,15 @@
+#Group	GroupName	OddsRatio	FisherExactP	TargetGene:DrugNames
+A	ALIMENTARY TRACT AND METABOLISM	0.8160667251975418	0.7076001488153763	ACACB:metformin	TRPV4:citric acid
+B	BLOOD AND BLOOD FORMING ORGANS	5.287042099507928	0.004721436181224572	PDE3A:anagrelide,cilostazol,theophylline,milrinone,aminophylline,trapidil,enoximone,amrinone	PLG:streptokinase,reteplase,urokinase,melagatran,ranolazine,tenecteplase,aminocaproic acid,anistreplase,alteplase,tranexamic acid	F11:conestat alfa	KLKB1:ecallantide,conestat alfa	FGA:reteplase,alteplase,anistreplase,tenecteplase
+C	CARDIOVASCULAR SYSTEM	1.4418238993710693	0.327034895762871	PDE3A:anagrelide,cilostazol,theophylline,milrinone,aminophylline,trapidil,enoximone,amrinone	EDNRA:sitaxentan,bosentan,macitentan,ambrisentan	ATP2A2:gallopamil	PLG:streptokinase,reteplase,urokinase,melagatran,ranolazine,tenecteplase,aminocaproic acid,anistreplase,alteplase,tranexamic acid
+D	DERMATOLOGICALS	0.0	1.0	
+G	GENITO URINARY SYSTEM AND SEX HORMONES	0.0	1.0	
+H	SYSTEMIC HORMONAL PREPARATIONS, EXCL. SEX HORMONES AND INSULINS	0.0	1.0	
+J	ANTIINFECTIVES FOR SYSTEMIC USE	0.0	1.0	
+L	ANTINEOPLASTIC AND IMMUNOMODULATING AGENTS	1.753921568627451	0.16142809106665187	CD28:belatacept	PDE3A:anagrelide,cilostazol,theophylline,milrinone,aminophylline,trapidil,enoximone,amrinone	LDLR:porfimer sodium	HDAC9:valproic acid,belinostat,panobinostat	CDK6:palbociclib	CTLA4:ipilimumab
+M	MUSCULO-SKELETAL SYSTEM	0.0	1.0	
+N	NERVOUS SYSTEM	1.1250762660158633	0.5136948767884858	KCNK3:doxapram,halothane	ALDH2:disulfiram	HDAC9:valproic acid,belinostat,panobinostat
+P	ANTIPARASITIC PRODUCTS, INSECTICIDES AND REPELLENTS	1.4699248120300752	0.5058227226824984	ALDH2:disulfiram
+R	RESPIRATORY SYSTEM	1.4251675353685778	0.4252009299261961	PDE3A:anagrelide,cilostazol,theophylline,milrinone,aminophylline,trapidil,enoximone,amrinone	KCNK3:doxapram,halothane
+S	SENSORY ORGANS	1.3885257806826434	0.43764022977512823	PLG:streptokinase,reteplase,urokinase,melagatran,ranolazine,tenecteplase,aminocaproic acid,anistreplase,alteplase,tranexamic acid	FGA:reteplase,alteplase,anistreplase,tenecteplase
+V	VARIOUS	0.0	1.0	
