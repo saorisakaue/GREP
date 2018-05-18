@@ -1,4 +1,3 @@
-
 # GREP: Genome for REPositioning drugs
 You can use any gene list to test whether those genes are enriched in certain drug categories.
 You are able to know potential drugs that target genes you want to examine.
@@ -8,6 +7,12 @@ Both can be run in a few seconds!
 - python3
 - scipy
 - argparse
+
+## installation
+```{bash}
+git clone https://github.com/saorisakaue/GREP
+cd ./GREP
+```
 
 ## Usage
 ```bash
