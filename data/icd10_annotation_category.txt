@@ -1,0 +1,263 @@
+A00-A09	Intestinal infectious diseases	A00	A01	A02	A03	A04	A05	A06	A07	A08
+A15-A19	Tuberculosis	A15-A19
+A20-A28	Certain zoonotic bacterial diseases	A20	A21	A22	A23	A24	A25	A26	A27	A28
+A30-A49	Other bacterial diseases	A30	A31	A32	A33-A35	A36	A37	A38	A39	A40	A41	A42	A43	A44	A46	A48	A49
+A50-A64	Infections with a predominantly sexual mode of transmission	A50-A53	A54	A55	A56	A57	A58	A59	A60	A63
+A65-A69	Other spirochaetal diseases	A65	A66	A67	A68	A69
+A70-A74	Other diseases caused by chlamydiae	A70	A71
+A75-A79	Rickettsioses	A75	A77	A78	A79
+A80-A89	Viral infections of the central nervous system	A80	A81	A82	A83	A84	A85	A87
+A92-A99	Arthropod-borne viral fevers and viral haemorrhagic fevers	A92	A93	A95	A96	A97	A98
+B00-B09	Viral infections characterized by skin and mucous membrane lesions	B00	B01	B02	B03	B04	B05	B06	B07	B08
+B15-B19	Viral hepatitis	B15	B16	B17	B18
+B20-B24	Human immunodeficiency virus (HIV) disease	B20-B24	B20	B24
+B25-B34	Other viral diseases	B25	B26	B27	B30	B33	B34
+B35-B49	Mycoses	B35	B36	B37	B38	B39	B40	B41	B42	B43	B44	B45	B46	B47	B48
+B50-B64	Protozoal diseases	B50	B51	B52	B53	B55	B56	B57	B58	B59	B60
+B65-B83	Helminthiases	B65	B66	B67	B68	B69	B70	B71	B72	B73	B74	B75	B76	B77	B78	B79	B80	B81	B83
+B85-B89	Pediculosis, acariasis and other infestations	B85	B86	B87	B88
+B90-B94	Sequelae of infectious and parasitic diseases	NONE
+B95-B98	Bacterial, viral and other infectious agents	B95	B96	B97
+B99-B99	Other infectious diseases	NONE
+C00-C14	Malignant neoplasms of lip, oral cavity and pharynx	C00-C06	C08	C09	C10	C11
+C15-C26	Malignant neoplasms of digestive organs	C15	C16	C17	C18-C20	C21	C22	C23	C25	C26
+C30-C39	Malignant neoplasms of respiratory and intrathoracic organs	C32	C34	C38
+C40-C41	Malignant neoplasms of bone and articular cartilage	C41
+C43-C44	Melanoma and other malignant neoplasms of skin	C43	C44
+C45-C49	Malignant neoplasms of mesothelial and soft tissue	C45	C46	C47	C48	C49
+C50-C50	Malignant neoplasm of breast	C50
+C51-C58	Malignant neoplasms of female genital organs	C51	C53	C54	C56	C57	C58
+C60-C63	Malignant neoplasms of male genital organs	C60	C61	C62
+C64-C68	Malignant neoplasms of urinary tract	C64	C67
+C69-C72	Malignant neoplasms of eye, brain and other parts of central nervous system	C69	C71	C72
+C73-C75	Malignant neoplasms of thyroid and other endocrine glands	C73	C74	C75
+C76-C80	Malignant neoplasms of ill-defined, secondary and unspecified sites	C76
+C81-C96	Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue	C81	C82	C83	C84	C88	C90	C91	C92	C94	C96
+C97-C97	Malignant neoplasms of independent (primary) multiple sites	NONE
+D00-D09	In situ neoplasms	D09
+D10-D36	Benign neoplasms	D12	D13	D18	D21	D23	D25	D30	D31	D32	D33	D36
+D37-D48	Neoplasms of uncertain or unknown behaviour	D43	D44	D45	D46	D47	D48
+D50-D53	Nutritional anaemias	D50	D51	D52	D53
+D55-D59	Haemolytic anaemias	D55	D56	D57	D58	D59
+D60-D64	Aplastic and other anaemias	D60	D61	D64
+D65-D69	Coagulation defects, purpura and other haemorrhagic conditions	D65	D66	D67	D68	D69
+D70-D77	Other diseases of blood and blood-forming organs	D70	D71	D72	D74	D75	D76
+D80-D89	Certain disorders involving the immune mechanism	D80	D81	D82	D84	D86	D89
+E00-E07	Disorders of thyroid gland	E03	E05	E06	E07
+E10-E14	Diabetes mellitus	E10	E11	E13	E14
+E15-E16	Other disorders of glucose regulation and pancreatic internal secretion	E16
+E20-E35	Disorders of other endocrine glands	E20	E21	E22	E23	E24	E25	E26	E27	E28	E29	E30	E31	E34
+E40-E46	Malnutrition	NONE
+E50-E64	Other nutritional deficiencies	E50	E51	E52	E53	E54	E56	E60
+E65-E68	Obesity and other hyperalimentation	E66	E67
+E70-E90	Metabolic disorders	E70	E71	E72	E73	E74	E75	E76	E77	E78	E79	E80	E83	E84	E85	E88
+F00-F09	Organic, including symptomatic, mental disorders	F01
+F10-F19	Mental and behavioural disorders due to psychoactive substance use	F10
+F20-F29	Schizophrenia, schizotypal and delusional disorders	F20
+F30-F39	Mood [affective] disorders	F31	F32	F33
+F40-F48	Neurotic, stress-related and somatoform disorders	F40	F41	F42	F45	F48
+F50-F59	Behavioural syndromes associated with physiological disturbances and physical factors	F50	F51
+F60-F69	Disorders of adult personality and behaviour	F63
+F70-F79	Mental retardation	F78	F79
+F80-F89	Disorders of psychological development	F80	F84
+F90-F98	Behavioural and emotional disorders with onset usually occurring in childhood and adolescence	F90	F95	F98
+F99-F99	Unspecified mental disorder	NONE
+G00-G09	Inflammatory diseases of the central nervous system	G00	G03	G04
+G10-G14	Systemic atrophies primarily affecting the central nervous system	G10	G11	G12
+G20-G26	Extrapyramidal and movement disorders	G20	G21	G23	G24	G25
+G30-G32	Other degenerative diseases of the nervous system	G30	G31
+G35-G37	Demyelinating diseases of the central nervous system	G35	G36
+G40-G47	Episodic and paroxysmal disorders	G40	G43	G44	G47
+G50-G59	Nerve, nerve root and plexus disorders	G53	G54	G56
+G60-G64	Polyneuropathies and other disorders of the peripheral nervous system	G60	G61	G62
+G70-G73	Diseases of myoneural junction and muscle	G70	G71	G72	G73
+G80-G83	Cerebral palsy and other paralytic syndromes	G80
+G90-G99	Other disorders of the nervous system	G90	G91	G93	G95	G96	G98
+H00-H06	Disorders of eyelid, lacrimal system and orbit	H01	H02	H04
+H10-H13	Disorders of conjunctiva	H10
+H15-H22	Disorders of sclera, cornea, iris and ciliary body	H16	H18	H19	H20
+H25-H28	Disorders of lens	H26
+H30-H36	Disorders of choroid and retina	H30	H31	H35
+H40-H42	Glaucoma	H40
+H43-H45	Disorders of vitreous body and globe	NONE
+H46-H48	Disorders of optic nerve and visual pathways	H46	H47
+H49-H52	Disorders of ocular muscles, binocular movement, accommodation and refraction	H49	H50	H52
+H53-H54	Visual disturbances and blindness	H53
+H55-H59	Other disorders of eye and adnexa	H55
+H60-H62	Diseases of external ear	NONE
+H65-H75	Diseases of middle ear and mastoid	NONE
+H80-H83	Diseases of inner ear	H81
+H90-H95	Other disorders of ear	H90	H91
+I00-I02	Acute rheumatic fever	I02
+I05-I09	Chronic rheumatic heart diseases	NONE
+I10-I15	Hypertensive diseases	I10	I11	I13	I15
+I20-I25	Ischaemic heart diseases	I20	I21	I25
+I26-I28	Pulmonary heart disease and diseases of pulmonary circulation	I27
+I30-I52	Other forms of heart disease	I34	I39	I40	I42	I43	I45	I47	I48	I49	I50	I51
+I60-I69	Cerebrovascular diseases	I67
+I70-I79	Diseases of arteries, arterioles and capillaries	I70	I71	I73	I74	I78
+I80-I89	Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified	I80	I81	I82	I88	I89
+I95-I99	Other and unspecified disorders of the circulatory system	NONE
+J00-J06	Acute upper respiratory infections	J02	J03
+J09-J18	Influenza and pneumonia	J09	J10	J12	J13	J14	J15	J16
+J20-J22	Other acute lower respiratory infections	J20	J21
+J30-J39	Other diseases of upper respiratory tract	J30	J32
+J40-J47	Chronic lower respiratory diseases	J43	J44	J45	J47
+J60-J70	Lung diseases due to external agents	J67
+J80-J84	Other respiratory diseases principally affecting the interstitium	J84
+J85-J86	Suppurative and necrotic conditions of lower respiratory tract	NONE
+J90-J94	Other diseases of pleura	J93
+J95-J99	Other diseases of the respiratory system	J98
+K00-K14	Diseases of oral cavity, salivary glands and jaws	K00	K02	K05	K06	K10
+K20-K31	Diseases of oesophagus, stomach and duodenum	K20	K21	K22	K27
+K35-K38	Diseases of appendix	NONE
+K40-K46	Hernia	NONE
+K50-K52	Noninfective enteritis and colitis	K50	K51	K52
+K55-K64	Other diseases of intestines	K58	K59	K63
+K65-K67	Diseases of peritoneum	NONE
+K70-K77	Diseases of liver	K72	K74	K75	K76
+K80-K87	Disorders of gallbladder, biliary tract and pancreas	K80	K81	K83	K85	K86
+K90-K93	Other diseases of the digestive system	K90	K91
+L00-L08	Infections of the skin and subcutaneous tissue	L04
+L10-L14	Bullous disorders	L10	L12	L13
+L20-L30	Dermatitis and eczema	L20	L21	L23
+L40-L45	Papulosquamous disorders	L40	L42	L43	L44
+L50-L54	Urticaria and erythema	L50	L51	L52
+L55-L59	Radiation-related disorders of the skin and subcutaneous tissue	NONE
+L60-L75	Disorders of skin appendages	L60	L63	L67	L70	L72	L73	L74
+L80-L99	Other disorders of the skin and subcutaneous tissue	L80	L81	L85	L90	L93	L94
+M00-M03	Infectious arthropathies	M00
+M05-M14	Inflammatory polyarthropathies	M05	M06	M08	M10	M11
+M15-M19	Arthrosis	NONE
+M20-M25	Other joint disorders	M24
+M30-M36	Systemic connective tissue disorders	M30	M31	M32	M33	M34	M35
+M40-M43	Deforming dorsopathies	NONE
+M45-M49	Spondylopathies	M45	M48
+M50-M54	Other dorsopathies	NONE
+M60-M63	Disorders of muscles	M60	M61
+M65-M68	Disorders of synovium and tendon	NONE
+M70-M79	Other soft tissue disorders	M72	M79
+M80-M85	Disorders of bone density and structure	M80	M85
+M86-M90	Other osteopathies	M87	M88	M89
+M91-M94	Chondropathies	M91	M94
+M95-M99	Other disorders of the musculoskeletal system and connective tissue	NONE
+N00-N08	Glomerular diseases	N00	N01	N02	N04	N05	N07	N08
+N10-N16	Renal tubulo-interstitial diseases	N11	N16
+N17-N19	Renal failure	N19
+N20-N23	Urolithiasis	N20
+N25-N29	Other disorders of kidney and ureter	N25
+N30-N39	Other diseases of urinary system	N30	N34	N37	N39
+N40-N51	Diseases of male genital organs	N46
+N60-N64	Disorders of breast	N64
+N70-N77	Inflammatory diseases of female pelvic organs	N76
+N80-N98	Noninflammatory disorders of female genital tract	N80	N97	N98
+N99-N99	Other disorders of the genitourinary system	NONE
+O00-O08	Pregnancy with abortive outcome	O01
+O10-O16	Oedema, proteinuria and hypertensive disorders in pregnancy, childbirth and the puerperium	NONE
+O20-O29	Other maternal disorders predominantly related to pregnancy	Maternal
+O30-O48	Maternal care related to the fetus and amniotic cavity and possible delivery problems	NONE
+O60-O75	Complications of labour and delivery	NONE
+O80-O84	Delivery	NONE
+O85-O92	Complications predominantly related to the puerperium	O92
+O94-O99	Other obstetric conditions, not elsewhere classified	NONE
+P00-P04	Fetus and newborn affected by maternal factors and by complications of pregnancy, labour and delivery	NONE
+P05-P08	Disorders related to length of gestation and fetal growth	NONE
+P10-P15	Birth trauma	NONE
+P20-P29	Respiratory and cardiovascular disorders specific to the perinatal period	P22	P28	P29
+P35-P39	Infections specific to the perinatal period	P36	P35
+P50-P61	Haemorrhagic and haematological disorders of fetus and newborn	NONE
+P70-P74	Transitory endocrine and metabolic disorders specific to fetus and newborn	P70
+P75-P78	Digestive system disorders of fetus and newborn	P78
+P80-P83	Conditions involving the integument and temperature regulation of fetus and newborn	NONE
+P90-P96	Other disorders originating in the perinatal period	P94
+Q00-Q07	Congenital malformations of the nervous system	Q02	Q03	Q04	Q05	Q06	Q07
+Q10-Q18	Congenital malformations of eye, ear, face and neck	Q10	Q11	Q12	Q13	Q14	Q15	Q18
+Q20-Q28	Congenital malformations of the circulatory system	Q20	Q21	Q22	Q23	Q25	Q27	Q28
+Q30-Q34	Congenital malformations of the respiratory system	NONE
+Q35-Q37	Cleft lip and cleft palate	Q35	Q36	Q37
+Q38-Q45	Other congenital malformations of the digestive system	Q38	Q42	Q43	Q44	Q45
+Q50-Q56	Congenital malformations of genital organs	Q51	Q54	Q55	Q56
+Q60-Q64	Congenital malformations of the urinary system	Q60	Q62	Q61	Q64
+Q65-Q79	Congenital malformations and deformations of the musculoskeletal system	Q65	Q66	Q67	Q68	Q69	Q70	Q71	Q72	Q73	Q74	Q75	Q76	Q77	Q78	Q79
+Q80-Q89	Other congenital malformations	Q80	Q81	Q82	Q84	Q85	Q87	Q89
+Q90-Q99	Chromosomal abnormalities, not elsewhere classified	Q90	Q91	Q92	Q93	Q97	Q99
+R00-R09	Symptoms and signs involving the circulatory and respiratory systems	R06
+R10-R19	Symptoms and signs involving the digestive system and abdomen	NONE
+R20-R23	Symptoms and signs involving the skin and subcutaneous tissue	NONE
+R25-R29	Symptoms and signs involving the nervous and musculoskeletal systems	NONE
+R30-R39	Symptoms and signs involving the urinary system	NONE
+R40-R46	Symptoms and signs involving cognition, perception, emotional state and behaviour	R31
+R47-R49	Symptoms and signs involving speech and voice	R48
+R50-R69	General symptoms and signs	R50	R56	R59
+R70-R79	Abnormal findings on examination of blood, without diagnosis	NONE
+R80-R82	Abnormal findings on examination of urine, without diagnosis	R82
+R83-R89	Abnormal findings on examination of other body fluids, substances and tissues, without diagnosis	NONE
+R90-R94	Abnormal findings on diagnostic imaging and in function studies, without diagnosis	NONE
+R95-R99	Ill-defined and unknown causes of mortality	NONE
+S00-S09	Injuries to the head	NONE
+S10-S19	Injuries to the neck	NONE
+S20-S29	Injuries to the thorax	NONE
+S30-S39	Injuries to the abdomen, lower back, lumbar spine and pelvis	NONE
+S40-S49	Injuries to the shoulder and upper arm	NONE
+S50-S59	Injuries to the elbow and forearm	NONE
+S60-S69	Injuries to the wrist and hand	NONE
+S70-S79	Injuries to the hip and thigh	NONE
+S80-S89	Injuries to the knee and lower leg	NONE
+S90-S99	Injuries to the ankle and foot	NONE
+T00-T07	Injuries involving multiple body regions	NONE
+T08-T14	Injuries to unspecified part of trunk, limb or body region	NONE
+T15-T19	Effects of foreign body entering through natural orifice	NONE
+T20-T25	Burns and corrosions of external body surface, specified by site	NONE
+T26-T28	Burns and corrosions confined to eye and internal organs	NONE
+T29-T32	Burns and corrosions of multiple and unspecified body regions	NONE
+T33-T35	Frostbite	NONE
+T36-T50	Poisoning by drugs, medicaments and biological substances	NONE
+T51-T65	Toxic effects of substances chiefly nonmedicinal as to source	NONE
+T66-T78	Other and unspecified effects of external causes	T69
+T79-T79	Certain early complications of trauma	NONE
+T80-T88	Complications of surgical and medical care, not elsewhere classified	T86
+T90-T98	Sequelae of injuries, of poisoning and of other consequences of external causes	NONE
+V01-V09	Pedestrian injured in transport accident	NONE
+V10-V19	Pedal cyclist injured in transport accident	NONE
+V20-V29	Motorcycle rider injured in transport accident	NONE
+V30-V39	Occupant of three-wheeled motor vehicle injured in transport accident	NONE
+V40-V49	Car occupant injured in transport accident	NONE
+V50-V59	Occupant of pick-up truck or van injured in transport accident	NONE
+V60-V69	Occupant of heavy transport vehicle injured in transport accident	NONE
+V70-V79	Bus occupant injured in transport accident	NONE
+V80-V89	Other land transport accidents	NONE
+V90-V94	Water transport accidents	NONE
+V95-V97	Air and space transport accidents	NONE
+V98-V99	Other and unspecified transport accidents	NONE
+W00-W19	Falls	NONE
+W20-W49	Exposure to inanimate mechanical forces	NONE
+W50-W64	Exposure to animate mechanical forces	NONE
+W65-W74	Accidental drowning and submersion	NONE
+W75-W84	Other accidental threats to breathing	NONE
+W85-W99	Exposure to electric current, radiation and extreme ambient air temperature and pressure	NONE
+X00-X09	Exposure to smoke, fire and flames	NONE
+X10-X19	Contact with heat and hot substances	NONE
+X20-X29	Contact with venomous animals and plants	NONE
+X30-X39	Exposure to forces of nature	NONE
+X40-X49	Accidental poisoning by and exposure to noxious substances	NONE
+X50-X57	Overexertion, travel and privation	NONE
+X58-X59	Accidental exposure to other and unspecified factors	NONE
+X60-X84	Intentional self-harm	NONE
+X85-Y09	Assault	NONE
+Y10-Y34	Event of undetermined intent	NONE
+Y35-Y36	Legal intervention and operations of war	NONE
+Y40-Y59	Drugs, medicaments and biological substances causing adverse effects in therapeutic use	NONE
+Y60-Y69	Misadventures to patients during surgical and medical care	NONE
+Y70-Y82	Medical devices associated with adverse incidents in diagnostic and therapeutic use	NONE
+Y83-Y84	Surgical and other medical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure	NONE
+Y85-Y89	Sequelae of external causes of morbidity and mortality	NONE
+Y90-Y98	Supplementary factors related to causes of morbidity and mortality classified elsewhere	NONE
+Z00-Z13	Persons encountering health services for examination and investigation	NONE
+Z20-Z29	Persons with potential health hazards related to communicable diseases	NONE
+Z30-Z39	Persons encountering health services in circumstances related to reproduction	NONE
+Z40-Z54	Persons encountering health services for specific procedures and health care	NONE
+Z55-Z65	Persons with potential health hazards related to socioeconomic and psychosocial circumstances	NONE
+Z70-Z76	Persons encountering health services in other circumstances	NONE
+Z80-Z99	Persons with potential health hazards related to family and personal history and certain conditions influencing health status	Z80
+U00-U49	Provisional assignment of new diseases of uncertain etiology or emergency use	U04	U06
+U82-U85	Resistance to antimicrobial and antineoplastic drugs	U82	U83	U84
