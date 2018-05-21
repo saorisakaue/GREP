@@ -18,7 +18,7 @@ cd ./GREP
 
 ## Usage
 ```bash
-python3 ./script/main.py --genelist [list_of_genes] --out [output prefix]  --test [ATC or ICD]
+python ./script/main.py --genelist [list_of_genes] --out [output prefix]  --test [ATC or ICD]
 ```
 
 `./example/megastroke.genes` can be used as genes identified by megastroke consortium.
