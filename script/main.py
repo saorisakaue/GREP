@@ -29,7 +29,7 @@ parser.add_argument('--test', '-t', default=None, type=str, choices=['ATC', 'ICD
     help='Test mode : select from ATC or ICD.',
     required=True)
 parser.add_argument('--emitDrugname', '-e', default=False, action='store_true',
-    help='If you want to know drug names target of which overlapped with your genes, set True. [Default = False]',
+    help='If you want to know drug names target of which overlapped with your genes, set this flag.',
     required=False)
 
 
