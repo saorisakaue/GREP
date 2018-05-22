@@ -18,7 +18,7 @@ cd ./GREP
 
 ## Usage
 ```bash
-python ./script/main.py --genelist [list_of_genes] --out [output prefix]  --test [ATC or ICD]
+python grep.py --genelist [list_of_genes] --out [output prefix]  --test [ATC or ICD]
 ```
 
 `./example/megastroke.genes` can be used as genes identified by megastroke consortium.
@@ -31,6 +31,6 @@ python ./script/main.py --genelist [list_of_genes] --out [output prefix]  --test
 
 `--test`, `-t`:  Choose from 'ATC' or 'ICD' according to the drug categorization. [Required]
 
-`--emitDrugname`, `-e`:  If you want to know drug names target of which overlapped with your genes, set this flag (without any arguments after that). [Default = False]
+`--output-drug-name`, `-d`:  If you want to know drug names target of which overlapped with your genes, set this flag (without any arguments after that).[Optional][Default = False]
 
-`--all`, `-a`: A list of all genes in the scope of your analysis if available. This will be used as background genes. [Default = None]
+`--background`, `-b`: A list of all genes in the scope of your analysis if available. This will be used as background genes.[Optional][Default = None]
