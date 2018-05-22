@@ -7,7 +7,7 @@ import pandas as pd
 
 # consts
 BASEDIR = os.path.dirname(__file__)
-DATADIR = os.path.normpath(os.path.join(BASEDIR, '..', 'data'))
+DATADIR = os.path.normpath(os.path.join(BASEDIR, 'data'))
 ALL_GENES_FNAME = os.path.join(DATADIR, 'DrugBank_TTD_target_genelist.txt')
 ATC_TARGETS_FNAME = os.path.join(DATADIR, 'DrugBank_TTD_targets_by_ATC_v2.txt')
 ATC_ANNOT_FNAME = os.path.join(DATADIR, 'ATC_annotation.txt')
@@ -34,7 +34,7 @@ parser.add_argument('--output-drug-name', '-d', default=False, action='store_tru
 
 
 # fisher exact test function
-def grep(target, key, annot, emitDrugname=False):
+def grep(target, key, annot, out_drug=False):
     group = target[key].iloc[0]
     this_group_genes = target.TargetGene.unique()
     joined_genes = np.intersect1d(target_gene, this_group_genes)
@@ -46,7 +46,7 @@ def grep(target, key, annot, emitDrugname=False):
     oddsratio, pvalue = scipy.stats.fisher_exact([[a, b], [c, d]], alternative="greater")
 
     out_cols = ['#Group', 'GroupName', 'OddsRatio', 'FisherExactP']
-    if emitDrugname:
+    if out_drug:
         out_cols.append('TargetGene:DrugNames')
         gene_druglist = target[target.TargetGene.isin(joined_genes)].groupby('TargetGene').apply(
             lambda x: x.TargetGene.iloc[0] + ':' + ','.join(x.Drug.unique()))
@@ -63,8 +63,8 @@ if __name__ == '__main__':
     target_gene = pd.read_csv(args.genelist, header=None)[0].unique()
     all_genes = pd.read_table(ALL_GENES_FNAME, header=None)[0]
 
-    if args.all is not None:
-        all_defined = pd.read_csv(args.all, header=None)[0].unique()
+    if args.background is not None:
+        all_defined = pd.read_csv(args.background, header=None)[0].unique()
         all_genes = np.intersect1d(all_genes, all_defined)
     target_analysis_genes = np.intersect1d(all_genes, target_gene)
 
@@ -77,13 +77,13 @@ if __name__ == '__main__':
         # analysis for large group
         ATC.groupby('large').apply(
             grep, annot=ATC_ANNOT, key='large',
-            emitDrugname=args.emitDrugname).to_csv(
+            out_drug=args.output_drug_name).to_csv(
                 args.out + ".ATC.large.txt", index=False, sep='\t')
 
         # analysis for detailed group
         ATC.groupby('Code').apply(
             grep, annot=ATC_ANNOT, key='Code',
-            emitDrugname=args.emitDrugname).to_csv(
+            out_drug=args.output_drug_name).to_csv(
                 args.out + ".ATC.detail.txt", index=False, sep='\t')
 
     elif args.test == "ICD":
@@ -104,5 +104,5 @@ if __name__ == '__main__':
 
         ICD.groupby('large').apply(
             grep, annot=ICD_ANNOT, key='large',
-            emitDrugname=args.emitDrugname).to_csv(
+            out_drug=args.output_drug_name).to_csv(
                 args.out + ".ICD.txt", index=False, sep='\t')
