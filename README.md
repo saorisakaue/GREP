@@ -1,3 +1,5 @@
+*** data directory is under develoment ***
+
 # GREP: Genome for REPositioning drugs
 You can use any gene list to test whether those genes are enriched in certain drug categories.
 You are able to know potential drugs that target genes you want to examine.
