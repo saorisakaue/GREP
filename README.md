@@ -1,21 +1,28 @@
 *** data directory is under develoment ***
 
-# GREP: Genome for REPositioning drugs
+# GREP: Genome for REPositioning drugs `v1.0.0`
 You can use any gene list to test whether those genes are enriched in certain drug categories.
 You are able to know potential drugs that target genes you want to examine.
 Both can be run in a few seconds!
 
+## Overview
+
 ## Requirements
-- python
+`GREP` is a commandline `python` software, and the following modules are required.
 - scipy
 - argparse
 - numpy
 - pandas
 
 ## Installation
+In order to get started with `GREP`, you can clone this repo by the following commands,
 ```{bash}
 git clone https://github.com/saorisakaue/GREP
 cd ./GREP
+```
+Or, you can also use `pip` to install
+```{bash}
+under dev
 ```
 
 ## Usage
