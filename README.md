@@ -33,7 +33,7 @@ currently under development
 ## Usage
 An example basic command is as follows;
 ```bash
-$ python grep.py --genelist ./example/megastroke.genes --output my_GREP_test  --test ATC --output-drug-name
+$ python grep.py --genelist ./example/megastroke.genes --out my_GREP_test  --test ATC --output-drug-name
 ```
 
 ### Prepare your input
@@ -46,7 +46,7 @@ Please have a look at `./example/` directory for example gene sets.
 | Option name | Descriptions | Required | Default |
 |:-----------:|:------------|:------------:|:------------|
 | `--genelist`, `-g` | Input your list of genes as a text file with one column. | Yes | None |
-| `--output`, `-o` | An output prefix. | Yes | None |
+| `--out`, `-o` | An output prefix. | Yes | None |
 | `--test`, `-t` | Choose from `ATC` or `ICD` for a drug indication categorization system. | Yes | None |
 | `--output-drug-name`, `-d` | If you want to know the drug names targeting your genes, set this flag (without any arguments after that). | No | False |
 | `--background`, `-b` | A list of all genes in the scope of your analysis if available. This will be used as background genes. | No | All the genes targeted by the drugs in the database |
