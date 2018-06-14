@@ -1,9 +1,12 @@
 # GREP: Genome for REPositioning drugs `v1.0.0`
-You can use any gene list to test whether those genes are enriched in certain drug categories.
-You are able to know potential drugs that target genes you want to examine.
+GREP can quantify an enrichment of the user-defined set of genes in the target of clinical indication categories and capture potentially repositionable drugs targeting the gene set.
 Both can be run in a few seconds!
 
 ## Overview
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/saorisakaue/GREP/images/images/forWeb_Overview.png" width=50%>
+</div>
 
 ## Requirements
 `GREP` is a commandline `python` software, and the following modules are required.
