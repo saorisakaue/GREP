@@ -29,12 +29,16 @@ under dev
 ```
 
 ## Usage
+A basic command is as follows;
 ```bash
 python grep.py --genelist [list_of_genes] --out [output prefix]  --test [ATC or ICD]
 ```
 
-`./example/megastroke.genes` can be used as genes identified by megastroke consortium.
-`./example/RA_trans.genes` can be used as genes identified in RA meta-analysis by Okada et al.
+### Prepare your input
+Make a text file with one column, which contains gene sets by HUGO gene symbol.
+Please refer to `./example/` directory for example genesets. 
+- `./example/megastroke.genes` can be used as genes identified by MEGASTROKE consortium (Nat Genet 2018).
+- `./example/RA_trans.genes` can be used as genes identified in RA meta-analysis by Okada et al (Nature 2014).
 
 ### Options
 `--genelist`, `-g`:  Input your list of genes. Text file with one column. [Required]
