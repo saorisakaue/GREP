@@ -8,7 +8,7 @@ Both can be run in a few seconds!
 <img src="https://raw.githubusercontent.com/saorisakaue/GREP/images/images/forWeb_Overview.png" width=60%>
 </div>
 
-The user input is a gene list from any source of genomic studies, and GREP tells you (i) what kind of disease categories are pharmaco-genetically associated with the gene set and (ii) what kind of medications can have a potential for being repositioned to another indication.
+The user input is a gene list from any source of genomic studies. GREP tells you (i) what kind of disease categories are pharmaco-genetically associated with the gene set and (ii) what kind of medications can have a potential for being repositioned to another indication.
 
 ## Requirements
 `GREP` is a command line python software, and the following modules are required.
@@ -37,7 +37,7 @@ $ python grep.py --genelist ./example/megastroke.genes --output my_GREP_test  --
 
 ### Prepare your input
 Make a text file with one column, which contains gene sets by [HGNC](https://www.genenames.org/) gene symbol.
-Please refer to `./example/` directory for example genesets. 
+Please have a look at `./example/` directory for example gene sets. 
 - `./example/megastroke.genes` can be used as genes identified by MEGASTROKE consortium (Nat Genet 2018).
 - `./example/RA_trans.genes` can be used as genes identified in RA meta-analysis by Okada et al (Nature 2014).
 
@@ -47,7 +47,7 @@ Please refer to `./example/` directory for example genesets.
 | `--genelist`, `-g` | Input your list of genes as a text file with one column. | Yes | None |
 | `--output`, `-o` | An output prefix. | Yes | None |
 | `--test`, `-t` | Choose from `ATC` or `ICD` for a drug indication categorization system. | Yes | None |
-| `--output-drug-name`, `-d` | If you want to know drug names target of which overlapped with your genes, set this flag (without any arguments after that). | No | False |
+| `--output-drug-name`, `-d` | If you want to know the drug names targeting your genes, set this flag (without any arguments after that). | No | False |
 | `--background`, `-b` | A list of all genes in the scope of your analysis if available. This will be used as background genes. | No | All the genes targeted by the drugs in the database |
 
 - *ATC*; The Anatomical Therapeutic Chemical (ATC) Classification System is used for the classification of active ingredients of drugs according to the organ or system on which they act and their therapeutic, pharmacological and chemical properties. Large annotation has 14 anatomical categories, which are further categorized into 85 detailed classes in total. Drug-category information was retrieved from [KEGG DRUG](https://www.genome.jp/kegg/drug/)  website.
