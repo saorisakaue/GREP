@@ -11,7 +11,7 @@ Both can be run in a few seconds!
 The user input is a gene list from any source of genomic studies, and GREP tells you (i) what kind of disease categories are pharmaco-genetically associated with the gene set and (ii) what kind of medications can have a potential for being repositioned to another indication.
 
 ## Requirements
-`GREP` is a command line `python` software, and the following modules are required.
+`GREP` is a command line python software, and the following modules are required.
 - scipy
 - argparse
 - numpy
@@ -25,13 +25,13 @@ $ cd ./GREP
 ```
 Or, you can also use `pip` to install
 ```{bash}
-under dev
+currently under development
 ```
 
 ## Usage
-A basic command is as follows;
+An example basic command is as follows;
 ```bash
-$ python grep.py --genelist [list_of_genes] --out [output prefix]  --test [ATC or ICD]
+$ python grep.py --genelist ./example/megastroke.genes --output my_GREP_test  --test ATC --output-drug-name
 ```
 
 ### Prepare your input
@@ -41,19 +41,20 @@ Please refer to `./example/` directory for example genesets.
 - `./example/RA_trans.genes` can be used as genes identified in RA meta-analysis by Okada et al (Nature 2014).
 
 ### Options
-`--genelist`, `-g`:  Input your list of genes. Text file with one column. [Required]
+| Option name | Descriptions | Required | Default |
+|:-----------:|:------------|:------------:|:------------|
+| `--genelist`, `-g` | Input your list of genes as a text file with one column. | Yes | None |
+| `--output`, `-o` | An output prefix. | Yes | None |
+| `--test`, `-t` | Choose from `ATC` or `ICD` for a drug indication categorization system. | Yes | None |
+| `--output-drug-name`, `-d` | If you want to know drug names target of which overlapped with your genes, set this flag (without any arguments after that). | No | False |
+| `--background`, `-b` | A list of all genes in the scope of your analysis if available. This will be used as background genes. | No | All the genes targeted by the drugs in the database |
 
-`--output`, `-o`:  This will be used as an output prefix. [Required]
+- ATC; The Anatomical Therapeutic Chemical (ATC) Classification System is used for the classification of active ingredients of drugs according to the organ or system on which they act and their therapeutic, pharmacological and chemical properties. Large annotation has 14 anatomical categories, which are further categorized into 85 detailed classes in total.
+- ICD; 
 
-`--test`, `-t`:  Choose from `ATC` or `ICD` according to the drug categorization. [Required]
-
-`--output-drug-name`, `-d`:  If you want to know drug names target of which overlapped with your genes, set this flag (without any arguments after that).[Optional][Default = False]
-
-`--background`, `-b`: A list of all genes in the scope of your analysis if available. This will be used as background genes.[Optional][Default = None]
-
-### Output
-The above command outputs two text files for `ATC` analysis, and one file for `ICD` analysis.
-The example output;
+### Output files
+The above command generates two text files for `ATC` analysis, and one file for `ICD` analysis.
+Below is an example output from ATC analysis.
 
 ## Licence
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/3.0/88x31.png" /></a><br />
