@@ -39,8 +39,8 @@ $ python grep.py --genelist ./example/megastroke.genes --out my_GREP_test  --tes
 ### Prepare your input
 Make a text file with one column, which contains genes by [HGNC](https://www.genenames.org/) gene symbol.
 Please have a look at `./example/` directory for example gene sets. 
-- `./example/megastroke.genes` can be used as genes identified by MEGASTROKE consortium (Nat Genet 2018).
-- `./example/RA_trans.genes` can be used as genes identified in RA meta-analysis by Okada et al (Nature 2014).
+- `./example/megastroke.genes` can be used as genes identified by MEGASTROKE consortium ([*Nat Genet* 2018](https://www.nature.com/articles/s41588-018-0058-3)).
+- `./example/RA_trans.genes` can be used as genes identified in RA meta-analysis by Okada et al ([*Nature* 2014](https://www.nature.com/articles/nature12873)).
 
 ### Options
 | Option name | Descriptions | Required | Default |
