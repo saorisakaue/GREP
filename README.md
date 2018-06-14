@@ -11,7 +11,7 @@ Both can be run in a few seconds!
 The user input is a gene list from any source of genomic studies. GREP tells you (i) what kind of disease categories are pharmaco-genetically associated with the gene set and (ii) what kind of medications can have a potential for being repositioned to another indication.
 
 ## Requirements
-`GREP` is a command line python software, and the following modules are required.
+`GREP` is a command line python software, and the following libraries are required.
 - scipy
 - argparse
 - numpy
