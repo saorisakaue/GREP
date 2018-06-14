@@ -11,7 +11,7 @@ Both can be run in a few seconds!
 The user input is a gene list from any source of genomic studies, and GREP tells you (i) what kind of disease categories are pharmaco-genetically associated with the gene set and (ii) what kind of medications can have a potential for being repositioned to another indication.
 
 ## Requirements
-`GREP` is a commandline `python` software, and the following modules are required.
+`GREP` is a command line `python` software, and the following modules are required.
 - scipy
 - argparse
 - numpy
@@ -20,8 +20,8 @@ The user input is a gene list from any source of genomic studies, and GREP tells
 ## Installation
 In order to get started with `GREP`, you can clone this repo by the following commands,
 ```{bash}
-git clone https://github.com/saorisakaue/GREP
-cd ./GREP
+$ git clone https://github.com/saorisakaue/GREP
+$ cd ./GREP
 ```
 Or, you can also use `pip` to install
 ```{bash}
@@ -31,7 +31,7 @@ under dev
 ## Usage
 A basic command is as follows;
 ```bash
-python grep.py --genelist [list_of_genes] --out [output prefix]  --test [ATC or ICD]
+$ python grep.py --genelist [list_of_genes] --out [output prefix]  --test [ATC or ICD]
 ```
 
 ### Prepare your input
