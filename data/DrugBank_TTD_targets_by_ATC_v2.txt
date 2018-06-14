@@ -1,0 +1,6382 @@
+A01	sodium fluoride	NA	NA
+A01	sodium monofluorophosphate	NA	NA
+A01	olaflur	NA	NA
+A01	stannous fluoride	NA	NA
+A01	hydrogen peroxide	PTPN1	P18031
+A01	chlorhexidine	NA	NA
+A01	amphotericin b	NA	NA
+A01	polynoxylin	NA	NA
+A01	domiphen	NA	NA
+A01	oxyquinoline	METAP2	P50579
+A01	neomycin	NA	NA
+A01	miconazole	NA	NA
+A01	natamycin	NA	NA
+A01	various	NA	NA
+A01	hexetidine	NA	NA
+A01	tetracycline	NA	NA
+A01	benzoxonium chloride	NA	NA
+A01	tibezonium iodide	NA	NA
+A01	mepartricin	NA	NA
+A01	metronidazole	NA	NA
+A01	clotrimazole	KCNN4	O15554
+A01	clotrimazole	CXCR2	P25025
+A01	sodium perborate	NA	NA
+A01	chlortetracycline	NA	NA
+A01	doxycycline	NA	NA
+A01	minocycline	NA	NA
+A01	triamcinolone	NR3C1	P04150
+A01	dexamethasone	NR3C1	P04150
+A01	hydrocortisone	NR3C1	P04150
+A01	hydrocortisone	ANXA1	P04083
+A01	epinephrine	ADRA1B	P35368
+A01	epinephrine	ADRA2A	P08913
+A01	epinephrine	ADRA1A	P35348
+A01	epinephrine	ADRB2	P07550
+A01	epinephrine	ADRA2B	P18089
+A01	epinephrine	ADRB1	P08588
+A01	benzydamine	NA	NA
+A01	acetylsalicylic acid	PTGS1	P23219
+A01	acetylsalicylic acid	PTGS2	P35354
+A01	adrenalone	NA	NA
+A01	amlexanox	NA	NA
+A01	becaplermin	PDGFRB	P09619
+A02	magnesium carbonate	NA	NA
+A02	magnesium oxide	NA	NA
+A02	magnesium peroxide	NA	NA
+A02	magnesium hydroxide	NA	NA
+A02	magnesium silicate	NA	NA
+A02	aluminium hydroxide	NA	NA
+A02	algeldrate	NA	NA
+A02	aluminium phosphate	NA	NA
+A02	dihydroxialumini sodium carbonate	NA	NA
+A02	aluminium acetoacetate	NA	NA
+A02	aloglutamol	NA	NA
+A02	aluminium glycinate	NA	NA
+A02	calcium carbonate	NA	NA
+A02	calcium silicate	NA	NA
+A02	magaldrate	NA	NA
+A02	almagate	NA	NA
+A02	hydrotalcite	NA	NA
+A02	almasilate	NA	NA
+A02	cimetidine	HRH2	P25021
+A02	ranitidine	HRH2	P25021
+A02	famotidine	HRH2	P25021
+A02	nizatidine	HRH2	P25021
+A02	niperotidine	NA	NA
+A02	roxatidine	NA	NA
+A02	ranitidine bismuth citrate	NA	NA
+A02	lafutidine	NA	NA
+A02	misoprostol	PTGIR	P43119
+A02	misoprostol	PTGER2	P43116
+A02	misoprostol	PTGER3	P43115
+A02	enprostil	NA	NA
+A02	omeprazole	ATP4B	P51164
+A02	omeprazole	ATP4A	P20648
+A02	pantoprazole	ATP4B	P51164
+A02	pantoprazole	ATP4A	P20648
+A02	lansoprazole	ATP4B	P51164
+A02	lansoprazole	ATP4A	P20648
+A02	rabeprazole	ATP4A	P20648
+A02	esomeprazole	ATP4B	P51164
+A02	esomeprazole	ATP4A	P20648
+A02	dexlansoprazole	ATP4B	P51164
+A02	dexlansoprazole	ATP4A	P20648
+A02	dexrabeprazole	NA	NA
+A02	carbenoxolone	HSD11B1	P28845
+A02	sucralfate	EGF	P01133
+A02	sucralfate	FGF2	P09038
+A02	pirenzepine	CHRM1	P11229
+A02	methiosulfonium chloride	NA	NA
+A02	bismuth subcitrate	NA	NA
+A02	proglumide	CCKAR	P32238
+A02	gefarnate	NA	NA
+A02	sulglicotide	NA	NA
+A02	acetoxolone	NA	NA
+A02	zolimidine	NA	NA
+A02	troxipide	NA	NA
+A02	bismuth subnitrate	NA	NA
+A02	alginic acid	NA	NA
+A03	oxyphencyclimine	CHRM1	P11229
+A03	oxyphencyclimine	CHRM2	P08172
+A03	oxyphencyclimine	CHRM4	P08173
+A03	oxyphencyclimine	CHRM3	P20309
+A03	camylofin	NA	NA
+A03	mebeverine	CHRM4	P08173
+A03	trimebutine	CACNA1C	Q13936
+A03	trimebutine	KCNMB4	Q86W47
+A03	trimebutine	KCNN3	Q9UGI6
+A03	trimebutine	OPRM1	P35372
+A03	trimebutine	KCNMB3	Q9NPA1
+A03	trimebutine	CACNB3	P54284
+A03	trimebutine	KCNMB2	Q9Y691
+A03	trimebutine	KCNN1	Q92952
+A03	trimebutine	CACNA1S	Q13698
+A03	trimebutine	KCNN4	O15554
+A03	trimebutine	CACNB4	O00305
+A03	trimebutine	KCNN2	Q9H2S1
+A03	trimebutine	CACNB1	Q02641
+A03	trimebutine	CACNA1F	O60840
+A03	trimebutine	CACNB2	Q08289
+A03	trimebutine	KCNMB1	Q16558
+A03	trimebutine	KCNMA1	Q12791
+A03	trimebutine	CACNA1D	Q01668
+A03	rociverine	NA	NA
+A03	dicycloverine	NA	NA
+A03	dihexyverine	NA	NA
+A03	difemerine	NA	NA
+A03	piperidolate	NA	NA
+A03	benzilone	NA	NA
+A03	glycopyrronium	CHRM1	P11229
+A03	oxyphenonium	CHRM1	P11229
+A03	penthienate	NA	NA
+A03	propantheline	CHRM1	P11229
+A03	otilonium bromide	NA	NA
+A03	methantheline	HRH2	P25021
+A03	methantheline	CHRM4	P08173
+A03	tridihexethyl	CHRM1	P11229
+A03	tridihexethyl	CHRM2	P08172
+A03	tridihexethyl	CHRM4	P08173
+A03	tridihexethyl	CHRM3	P20309
+A03	isopropamide	CHRM3	P20309
+A03	hexocyclium	CHRM1	P11229
+A03	hexocyclium	CHRM3	P20309
+A03	poldine	NA	NA
+A03	mepenzolate	CHRM1	P11229
+A03	mepenzolate	CHRM4	P08173
+A03	mepenzolate	CHRM3	P20309
+A03	bevonium	NA	NA
+A03	pipenzolate	NA	NA
+A03	diphemanil	NA	NA
+A03	(2-benzhydryloxyethyl)diethyl-methylammonium iodide	NA	NA
+A03	tiemonium iodide	NA	NA
+A03	prifinium bromide	NA	NA
+A03	timepidium bromide	NA	NA
+A03	fenpiverinium	NA	NA
+A03	dimethylaminopropionylphenothiazine	NA	NA
+A03	nicofetamide	NA	NA
+A03	tiropramide	NA	NA
+A03	papaverine	PDE4B	Q07343
+A03	papaverine	PDE5A	O76074
+A03	drotaverine	PDE4A	P27815
+A03	moxaverine	NA	NA
+A03	alosetron	HTR3A	P46098
+A03	cilansetron	HTR3A	P46098
+A03	fenpiprane	NA	NA
+A03	diisopromine	NA	NA
+A03	chlorbenzoxamine	NA	NA
+A03	pinaverium	CACNA1S	Q13698
+A03	fenoverine	NA	NA
+A03	idanpramine	NA	NA
+A03	proxazole	NA	NA
+A03	alverine	HTR1A	P08908
+A03	trepibutone	NA	NA
+A03	isometheptene	SLC18A2	Q05940
+A03	isometheptene	ADRA1A	P35348
+A03	caroverine	NA	NA
+A03	phloroglucinol	NA	NA
+A03	silicones	NA	NA
+A03	valethamate	NA	NA
+A03	trimethyldiphenylpropylamine	NA	NA
+A03	atropine	CHRM1	P11229
+A03	atropine	CHRM5	P08912
+A03	atropine	CHRM4	P08173
+A03	atropine	CHRM2	P08172
+A03	atropine	CHRM3	P20309
+A03	hyoscyamine	CHRM1	P11229
+A03	hyoscyamine	CHRM2	P08172
+A03	hyoscyamine	CHRM4	P08173
+A03	belladonna total alkaloids	NA	NA
+A03	butylscopolamine	CHRM5	P08912
+A03	methylatropine	NA	NA
+A03	methylscopolamine	CHRM2	P08172
+A03	fentonium	NA	NA
+A03	cimetropium bromide	CHRM4	P08173
+A03	metoclopramide	CHRM1	P11229
+A03	metoclopramide	DRD2	P14416
+A03	cisapride	HTR4	Q13639
+A03	cisapride	HTR3A	P46098
+A03	cisapride	HTR2A	P28223
+A03	domperidone	DRD3	P35462
+A03	domperidone	DRD2	P14416
+A03	bromopride	DRD2	P14416
+A03	alizapride	DRD2	P14416
+A03	clebopride	ACHE	P22303
+A03	clebopride	DRD2	P14416
+A03	itopride	NA	NA
+A03	cinitapride	HTR1A	P08908
+A03	cinitapride	HTR2A	P28223
+A04	ondansetron	HTR3A	P46098
+A04	granisetron	HTR3A	P46098
+A04	tropisetron	HTR3A	P46098
+A04	dolasetron	HTR3A	P46098
+A04	palonosetron	HTR3A	P46098
+A04	scopolamine	CHRM1	P11229
+A04	scopolamine	CHRM2	P08172
+A04	cerium oxalate	NA	NA
+A04	chlorobutanol	NA	NA
+A04	metopimazine	NA	NA
+A04	dronabinol	CNR1	P21554
+A04	nabilone	CNR1	P21554
+A04	nabilone	CNR2	P34972
+A04	aprepitant	TACR1	P25103
+A04	casopitant	TACR1	P25103
+A04	rolapitant	TACR1	P25103
+A05	chenodeoxycholic acid	NA	NA
+A05	ursodeoxycholic acid	SLC23A2	Q9UGH3
+A05	ursodeoxycholic acid	AKR1C2	P52895
+A05	ursodeoxycholic acid	BLVRA	P53004
+A05	cholic acid	PLA2G1B	P04054
+A05	cholic acid	CES1	P23141
+A05	cholic acid	FECH	P22830
+A05	obeticholic acid	NR1H4	Q96RI1
+A05	nicotinyl methylamide	NA	NA
+A05	piprozolin	NA	NA
+A05	hymecromone	NA	NA
+A05	cyclobutyrol	NA	NA
+A05	arginine glutamate	NA	NA
+A05	silymarin	ALOX5	P09917
+A05	citiolone	NA	NA
+A05	epomediol	NA	NA
+A05	ornithine oxoglurate	NA	NA
+A05	tidiacic arginine	NA	NA
+A05	glycyrrhizic acid	NA	NA
+A06	liquid paraffin	NA	NA
+A06	docusate sodium	NA	NA
+A06	oxyphenisatine	NA	NA
+A06	bisacodyl	NA	NA
+A06	dantron	NA	NA
+A06	phenolphthalein	NA	NA
+A06	castor oil	NA	NA
+A06	senna glycosides	NA	NA
+A06	cascara	NA	NA
+A06	sodium picosulfate	NA	NA
+A06	bisoxatin	NA	NA
+A06	ispaghula seeds)	NA	NA
+A06	ethulose	NA	NA
+A06	sterculia	NA	NA
+A06	linseed	NA	NA
+A06	methylcellulose	NA	NA
+A06	triticum fibre)	NA	NA
+A06	polycarbophil calcium	NA	NA
+A06	magnesium carbonate	NA	NA
+A06	magnesium oxide	NA	NA
+A06	magnesium peroxide	NA	NA
+A06	magnesium sulfate	NA	NA
+A06	lactulose	NA	NA
+A06	lactitol	NA	NA
+A06	sodium sulfate	CA2	P00918
+A06	sodium sulfate	CA1	P00915
+A06	pentaerithrityl	NA	NA
+A06	macrogol	NA	NA
+A06	mannitol	NA	NA
+A06	sodium phosphate	NA	NA
+A06	sorbitol	NA	NA
+A06	magnesium citrate	NA	NA
+A06	sodium tartrate	NA	NA
+A06	sodium phosphate	NA	NA
+A06	bisacodyl	NA	NA
+A06	glycerol	NA	NA
+A06	oil	NA	NA
+A06	sorbitol	NA	NA
+A06	methylnaltrexone bromide	OPRM1	P35372
+A06	alvimopan	OPRM1	P35372
+A06	naloxegol	OPRM1	P35372
+A06	naloxone	OPRK1	P41145
+A06	naloxone	OPRD1	P41143
+A06	naloxone	OPRM1	P35372
+A06	glycerol	NA	NA
+A06	carbon dioxide producing drugs	NA	NA
+A06	lubiprostone	CLCN2	P51788
+A06	linaclotide	GUCY2C	P25092
+A06	prucalopride	HTR4	Q13639
+A06	tegaserod	HTR4	Q13639
+A07	neomycin	NA	NA
+A07	nystatin	NA	NA
+A07	natamycin	NA	NA
+A07	streptomycin	NA	NA
+A07	polymyxin b	NA	NA
+A07	paromomycin	NA	NA
+A07	amphotericin b	NA	NA
+A07	kanamycin	NA	NA
+A07	vancomycin	NA	NA
+A07	colistin	NA	NA
+A07	rifaximin	NA	NA
+A07	fidaxomicin	NA	NA
+A07	phthalylsulfathiazole	NA	NA
+A07	sulfaguanidine	NA	NA
+A07	succinylsulfathiazole	NA	NA
+A07	miconazole	NA	NA
+A07	broxyquinoline	NA	NA
+A07	acetarsol	NA	NA
+A07	nifuroxazide	NA	NA
+A07	nifurzide	NA	NA
+A07	medicinal charcoal	NA	NA
+A07	pectin	NA	NA
+A07	kaolin	NA	NA
+A07	crospovidone	NA	NA
+A07	attapulgite	NA	NA
+A07	diosmectite	NA	NA
+A07	diphenoxylate	OPRM1	P35372
+A07	opium	NA	NA
+A07	loperamide	OPRK1	P41145
+A07	loperamide	OPRD1	P41143
+A07	loperamide	OPRM1	P35372
+A07	difenoxin	NA	NA
+A07	loperamide oxide	NA	NA
+A07	eluxadoline	OPRK1	P41145
+A07	eluxadoline	OPRD1	P41143
+A07	eluxadoline	OPRM1	P35372
+A07	prednisolone	NR3C1	P04150
+A07	hydrocortisone	NR3C1	P04150
+A07	hydrocortisone	ANXA1	P04083
+A07	prednisone	NR3C1	P04150
+A07	betamethasone	NR3C1	P04150
+A07	tixocortol	NA	NA
+A07	budesonide	NR3C1	P04150
+A07	beclometasone	NA	NA
+A07	cromoglicic acid	KCNMA1	Q12791
+A07	sulfasalazine	ALOX5	P09917
+A07	sulfasalazine	PTGS1	P23219
+A07	sulfasalazine	PPARG	P37231
+A07	sulfasalazine	PTGS2	P35354
+A07	mesalazine	ALOX5	P09917
+A07	mesalazine	PTGS1	P23219
+A07	mesalazine	PPARG	P37231
+A07	mesalazine	PTGS2	P35354
+A07	olsalazine	IFNG	P01579
+A07	olsalazine	TPMT	P51580
+A07	balsalazide	ALOX5	P09917
+A07	balsalazide	PTGS1	P23219
+A07	balsalazide	PPARG	P37231
+A07	balsalazide	PTGS2	P35354
+A07	lactic acid producing organisms	NA	NA
+A07	saccharomyces boulardii	NA	NA
+A07	albumin tannate	NA	NA
+A07	ceratonia	NA	NA
+A07	calcium compounds	NA	NA
+A07	racecadotril	NA	NA
+A08	phentermine	MAOB	P27338
+A08	phentermine	SLC6A3	Q01959
+A08	phentermine	SLC6A4	P31645
+A08	phentermine	MAOA	P21397
+A08	phentermine	SLC6A2	P23975
+A08	fenfluramine	HTR2B	P41595
+A08	fenfluramine	SLC6A4	P31645
+A08	fenfluramine	HTR2C	P28335
+A08	amfepramone	SLC6A4	P31645
+A08	amfepramone	SLC6A2	P23975
+A08	dexfenfluramine	SLC6A4	P31645
+A08	mazindol	SLC6A3	Q01959
+A08	mazindol	SLC6A4	P31645
+A08	mazindol	SLC6A2	P23975
+A08	etilamfetamine	NA	NA
+A08	cathine	NA	NA
+A08	clobenzorex	NA	NA
+A08	mefenorex	NA	NA
+A08	sibutramine	SLC6A3	Q01959
+A08	sibutramine	SLC6A4	P31645
+A08	sibutramine	SLC6A2	P23975
+A08	lorcaserin	HTR2C	P28335
+A08	orlistat	PNLIP	P16233
+A08	orlistat	LIPF	P07098
+A08	orlistat	FASN	P49327
+A08	rimonabant	CNR1	P21554
+A09	diastase	NA	NA
+A09	multienzymes protease etc.)	NA	NA
+A09	pepsin	NA	NA
+A09	tilactase	NA	NA
+A09	glutamic acid hydrochloride	NA	NA
+A09	betaine hydrochloride	NA	NA
+A09	hydrochloric acid	NA	NA
+A09	citric acid	TRPV4	Q9HBA0
+A09	citric acid	PKD2L1	Q9P0L9
+A10	insulin	NA	NA
+A10	insulin	NA	NA
+A10	insulin	NA	NA
+A10	insulin lispro	INSR	P06213
+A10	insulin aspart	INSR	P06213
+A10	insulin glulisine	INSR	P06213
+A10	insulin	NA	NA
+A10	insulin	NA	NA
+A10	insulin	NA	NA
+A10	insulin lispro	INSR	P06213
+A10	insulin	NA	NA
+A10	insulin	NA	NA
+A10	insulin	NA	NA
+A10	insulin lispro	INSR	P06213
+A10	insulin aspart	INSR	P06213
+A10	insulin	NA	NA
+A10	insulin	NA	NA
+A10	insulin	NA	NA
+A10	insulin glargine	INSR	P06213
+A10	insulin detemir	INSR	P06213
+A10	insulin degludec	INSR	P06213
+A10	insulin degludec	INS	P01308
+A10	insulin	NA	NA
+A10	phenformin	PRKAA1	Q13131
+A10	metformin	ACACB	O00763
+A10	metformin	PRKAB1	Q9Y478
+A10	buformin	NA	NA
+A10	glibenclamide	NA	NA
+A10	chlorpropamide	KCNJ10	P78508
+A10	chlorpropamide	ABCC8	Q09428
+A10	tolbutamide	ABCC9	O60706
+A10	tolbutamide	ABCC8	Q09428
+A10	glibornuride	NA	NA
+A10	tolazamide	KCNJ10	P78508
+A10	tolazamide	ABCC8	Q09428
+A10	tolazamide	KCNJ11	Q14654
+A10	carbutamide	NA	NA
+A10	glipizide	KCNJ10	P78508
+A10	glipizide	ABCC8	Q09428
+A10	gliquidone	KCNJ8	Q15842
+A10	gliquidone	KCNJ10	P78508
+A10	gliquidone	ABCC8	Q09428
+A10	gliclazide	ABCC8	Q09428
+A10	metahexamide	NA	NA
+A10	glisoxepide	KCNJ8	Q15842
+A10	glisoxepide	KCNJ10	P78508
+A10	glimepiride	ABCC9	O60706
+A10	glimepiride	KCNJ1	P48048
+A10	glimepiride	ABCC8	Q09428
+A10	glimepiride	KCNJ11	Q14654
+A10	acetohexamide	KCNJ1	P48048
+A10	glymidine	NA	NA
+A10	acarbose	AMY2A	P04746
+A10	acarbose	MGAM	O43451
+A10	acarbose	GAA	P10253
+A10	acarbose	SI	P14410
+A10	miglitol	MGAM	O43451
+A10	miglitol	GAA	P10253
+A10	miglitol	GANAB	Q14697
+A10	miglitol	GANC	Q8TET4
+A10	voglibose	MGAM	O43451
+A10	troglitazone	PPARG	P37231
+A10	rosiglitazone	PPARG	P37231
+A10	pioglitazone	PPARG	P37231
+A10	sitagliptin	DPP4	P27487
+A10	vildagliptin	DPP4	P27487
+A10	saxagliptin	DPP4	P27487
+A10	alogliptin	DPP4	P27487
+A10	linagliptin	DPP4	P27487
+A10	gemigliptin	DPP4	P27487
+A10	exenatide	GLP1R	P43220
+A10	liraglutide	GLP1R	P43220
+A10	lixisenatide	GLP1R	P43220
+A10	albiglutide	GLP1R	P43220
+A10	dulaglutide	GLP1R	P43220
+A10	dapagliflozin	SLC5A2	P31639
+A10	canagliflozin	SLC5A2	P31639
+A10	empagliflozin	SLC5A2	P31639
+A10	guar gum	NA	NA
+A10	repaglinide	ABCC9	O60706
+A10	repaglinide	ABCC8	Q09428
+A10	nateglinide	ABCC8	Q09428
+A10	pramlintide	CALCR	P30988
+A10	pramlintide	RAMP1	O60894
+A10	pramlintide	RAMP3	O60896
+A10	pramlintide	GLP1R	P43220
+A10	pramlintide	RAMP2	O60895
+A10	benfluorex	NA	NA
+A10	mitiglinide	KCNJ10	P78508
+A10	mitiglinide	ABCC8	Q09428
+A10	tolrestat	AKR1B1	P15121
+A11	retinol a)	NA	NA
+A11	betacarotene	NA	NA
+A11	ergocalciferol	VDR	P11473
+A11	dihydrotachysterol	VDR	P11473
+A11	alfacalcidol	VDR	P11473
+A11	calcitriol	VDR	P11473
+A11	colecalciferol	NA	NA
+A11	calcifediol	VDR	P11473
+A11	thiamine b1)	NA	NA
+A11	sulbutiamine	NA	NA
+A11	benfotiamine	NA	NA
+A11	ascorbic acid c)	NA	NA
+A11	nicotinamide	PARP1	P09874
+A11	pyridoxine b6)	NA	NA
+A11	tocopherol e)	NA	NA
+A11	riboflavin b2)	NA	NA
+A11	biotin	NA	NA
+A11	pyridoxal phosphate	ABAT	P80404
+A11	inositol	NA	NA
+A11	tocofersolan	NA	NA
+A11	dexpanthenol	CHRM3	P20309
+A11	calcium pantothenate	NA	NA
+A11	pantethine	NA	NA
+A12	calcium phosphate	CASR	P41180
+A12	calcium glubionate	NA	NA
+A12	calcium gluconate	NA	NA
+A12	calcium carbonate	NA	NA
+A12	calcium lactate	NA	NA
+A12	calcium lactate gluconate	NA	NA
+A12	calcium chloride	NA	NA
+A12	calcium glycerylphosphate	NA	NA
+A12	calcium citrate lysine complex	NA	NA
+A12	calcium glucoheptonate	NA	NA
+A12	calcium pangamate	NA	NA
+A12	calcium citrate	CASR	P41180
+A12	calcium salts in combination)	NA	NA
+A12	calcium laevulate	NA	NA
+A12	potassium chloride	SLC12A1	Q13621
+A12	potassium citrate	NA	NA
+A12	potassium hydrogentartrate	NA	NA
+A12	potassium hydrogencarbonate	NA	NA
+A12	potassium gluconate	NA	NA
+A12	sodium chloride	NA	NA
+A12	sodium sulfate	CA2	P00918
+A12	sodium sulfate	CA1	P00915
+A12	zinc sulfate	NA	NA
+A12	zinc gluconate	NA	NA
+A12	zinc protein complex	NA	NA
+A12	magnesium chloride	NA	NA
+A12	magnesium sulfate	NA	NA
+A12	magnesium gluconate	NA	NA
+A12	magnesium citrate	NA	NA
+A12	magnesium aspartate	NA	NA
+A12	magnesium lactate	NA	NA
+A12	magnesium levulinate	NA	NA
+A12	magnesium pidolate	NA	NA
+A12	magnesium orotate	NA	NA
+A12	magnesium oxide	NA	NA
+A12	magnesium salts in combination)	NA	NA
+A12	sodium fluoride	NA	NA
+A12	sodium monofluorophosphate	NA	NA
+A12	sodium selenate	NA	NA
+A12	sodium selenite	NA	NA
+A14	androstanolone	NA	NA
+A14	stanozolol	NA	NA
+A14	metandienone	NA	NA
+A14	metenolone	NA	NA
+A14	oxymetholone	AR	P10275
+A14	quinbolone	NA	NA
+A14	prasterone	G6PD	P11413
+A14	oxandrolone	AR	P10275
+A14	norethandrolone	NA	NA
+A14	nandrolone	AR	P10275
+A14	ethylestrenol	AR	P10275
+A14	oxabolone cipionate	NA	NA
+A16	levocarnitine	NA	NA
+A16	ademetionine	NA	NA
+A16	glutamine	NA	NA
+A16	mercaptamine	NA	NA
+A16	carglumic acid	CPS1	P31327
+A16	betaine	NA	NA
+A16	metreleptin	LEPR	P48357
+A16	alglucerase	NA	NA
+A16	imiglucerase	NA	NA
+A16	agalsidase alfa	NA	NA
+A16	agalsidase beta	NA	NA
+A16	laronidase	NA	NA
+A16	sacrosidase	NA	NA
+A16	alglucosidase alfa	M6PR	P20645
+A16	galsulfase	PLIN3	O60664
+A16	galsulfase	ARSB	P15848
+A16	idursulfase	IDS	P22304
+A16	velaglucerase alfa	GBA	P04062
+A16	taliglucerase alfa	GBA	P04062
+A16	elosulfasealfa	NA	NA
+A16	asfotasealfa	NA	NA
+A16	sebelipasealfa	NA	NA
+A16	thioctic acid	PTGS2	P35354
+A16	thioctic acid	ACHE	P22303
+A16	anethole trithione	NA	NA
+A16	sodium phenylbutyrate	NA	NA
+A16	nitisinone	HPD	P32754
+A16	zinc acetate	NA	NA
+A16	miglustat	UGCG	Q16739
+A16	sapropterin	NOS3	P29474
+A16	sapropterin	TPH1	P17752
+A16	sapropterin	TH	P07101
+A16	sapropterin	PAH	P00439
+A16	teduglutide	GLP2R	O95838
+A16	glycerol phenylbutyrate	NA	NA
+A16	eliglustat	UGCG	Q16739
+A16	sodium benzoate	NA	NA
+A16	trientine	NA	NA
+A16	uridine triacetate	NA	NA
+B01	dicoumarol	VKORC1	Q9BQB6
+B01	phenindione	VKORC1	Q9BQB6
+B01	warfarin	VKORC1	Q9BQB6
+B01	phenprocoumon	VKORC1	Q9BQB6
+B01	acenocoumarol	VKORC1	Q9BQB6
+B01	ethyl biscoumacetate	NA	NA
+B01	clorindione	NA	NA
+B01	diphenadione	NA	NA
+B01	tioclomarol	NA	NA
+B01	fluindione	NA	NA
+B01	heparin	SERPINC1	P01008
+B01	heparin	F10	P00742
+B01	antithrombin iii	NA	NA
+B01	dalteparin	VEGFA	P15692
+B01	dalteparin	SERPINC1	P01008
+B01	dalteparin	TFPI	P10646
+B01	enoxaparin	SERPINC1	P01008
+B01	enoxaparin	F10	P00742
+B01	nadroparin	SERPINC1	P01008
+B01	parnaparin	NA	NA
+B01	reviparin	NA	NA
+B01	danaparoid	F10	P00742
+B01	tinzaparin	SERPINC1	P01008
+B01	sulodexide	SERPIND1	P05546
+B01	sulodexide	SERPINC1	P01008
+B01	bemiparin	NA	NA
+B01	ditazole	NA	NA
+B01	cloricromen	NA	NA
+B01	picotamide	NA	NA
+B01	clopidogrel	P2RY12	Q9H244
+B01	ticlopidine	P2RY12	Q9H244
+B01	ticlopidine	PTAFR	P25105
+B01	acetylsalicylic acid	PTGS1	P23219
+B01	acetylsalicylic acid	PTGS2	P35354
+B01	dipyridamole	PDE5A	O76074
+B01	dipyridamole	PDE10A	Q9Y233
+B01	dipyridamole	PDE4A	P27815
+B01	dipyridamole	ADA	P00813
+B01	carbasalate calcium	NA	NA
+B01	epoprostenol	PTGIS	Q16647
+B01	epoprostenol	P2RY12	Q9H244
+B01	epoprostenol	PTGIR	P43119
+B01	indobufen	NA	NA
+B01	iloprost	PTGIR	P43119
+B01	iloprost	PTGER1	P34995
+B01	iloprost	PTGER2	P43116
+B01	abciximab	ITGB3	P05106
+B01	abciximab	ITGA2B	P08514
+B01	aloxiprin	NA	NA
+B01	eptifibatide	ITGB3	P05106
+B01	eptifibatide	ITGA2B	P08514
+B01	tirofiban	ITGB3	P05106
+B01	tirofiban	ITGA2B	P08514
+B01	triflusal	PDE10A	Q9Y233
+B01	triflusal	NFKB1	P19838
+B01	triflusal	PTGS1	P23219
+B01	triflusal	NOS2	P35228
+B01	beraprost	NA	NA
+B01	treprostinil	PTGIR	P43119
+B01	treprostinil	P2RY12	Q9H244
+B01	treprostinil	PPARD	Q03181
+B01	prasugrel	P2RY12	Q9H244
+B01	cilostazol	PDE3A	Q14432
+B01	ticagrelor	P2RY12	Q9H244
+B01	cangrelor	P2RY12	Q9H244
+B01	vorapaxar	F2R	P25116
+B01	selexipag	PTGIR	P43119
+B01	streptokinase	PLG	P00747
+B01	alteplase	PLG	P00747
+B01	alteplase	FGA	P02671
+B01	anistreplase	PLG	P00747
+B01	anistreplase	FGA	P02671
+B01	urokinase	PLAUR	Q03405
+B01	urokinase	SERPINE1	P05121
+B01	urokinase	SERPINB2	P05120
+B01	urokinase	PLG	P00747
+B01	urokinase	PLAU	P00749
+B01	urokinase	PLAT	P00750
+B01	fibrinolysin	NA	NA
+B01	brinase	NA	NA
+B01	reteplase	PLG	P00747
+B01	reteplase	FGA	P02671
+B01	saruplase	PLAU	P00749
+B01	ancrod	PROC	P04070
+B01	drotrecogin alfa	F5	P12259
+B01	drotrecogin alfa	F8	P00451
+B01	tenecteplase	PLG	P00747
+B01	tenecteplase	FGA	P02671
+B01	protein c	NA	NA
+B01	desirudin	NA	NA
+B01	lepirudin	F2	P00734
+B01	argatroban	F2	P00734
+B01	melagatran	F2	P00734
+B01	melagatran	PRSS1	P07477
+B01	melagatran	F10	P00742
+B01	melagatran	PLG	P00747
+B01	ximelagatran	F2	P00734
+B01	bivalirudin	F2	P00734
+B01	dabigatran etexilate	F2	P00734
+B01	rivaroxaban	F10	P00742
+B01	apixaban	F10	P00742
+B01	edoxaban	F10	P00742
+B01	defibrotide	NA	NA
+B01	dermatan sulfate	NA	NA
+B01	fondaparinux	NA	NA
+B02	aminocaproic acid	PLAT	P00750
+B02	aminocaproic acid	PLG	P00747
+B02	tranexamic acid	PLG	P00747
+B02	aminomethylbenzoic acid	NA	NA
+B02	aprotinin	NA	NA
+B02	alfa1 antitrypsin	NA	NA
+B02	camostat	NA	NA
+B02	phytomenadione	NA	NA
+B02	menadione	GGCX	P38435
+B02	menadione	VKORC1	Q9BQB6
+B02	menadione	VKORC1L1	Q8N0U8
+B02	menadione	AOX1	Q06278
+B02	human fibrinogen	NA	NA
+B02	absorbable gelatin sponge	NA	NA
+B02	oxidized cellulose	NA	NA
+B02	tetragalacturonic acid hydroxymethylester	NA	NA
+B02	adrenalone	NA	NA
+B02	thrombin	NA	NA
+B02	collagen	NA	NA
+B02	calcium alginate	NA	NA
+B02	epinephrine	ADRA1B	P35368
+B02	epinephrine	ADRA2A	P08913
+B02	epinephrine	ADRA1A	P35348
+B02	epinephrine	ADRB2	P07550
+B02	epinephrine	ADRA2B	P18089
+B02	epinephrine	ADRB1	P08588
+B02	fibrinogen, human	NA	NA
+B02	coagulation factor viii	NA	NA
+B02	factor viii inhibitor bypassing activity	NA	NA
+B02	coagulation factor ix	F10	P00742
+B02	coagulation factor vii	NA	NA
+B02	coagulation factor xiii	NA	NA
+B02	eptacog alfa	NA	NA
+B02	von willebrand factor	NA	NA
+B02	catridecacog	NA	NA
+B02	coagulation factor x	NA	NA
+B02	susoctocogalfa	NA	NA
+B02	thrombin	NA	NA
+B02	etamsylate	NA	NA
+B02	carbazochrome	NA	NA
+B02	batroxobin	NA	NA
+B02	romiplostim	MPL	P40238
+B02	eltrombopag	MPL	P40238
+B03	ferrous glycine sulfate	NA	NA
+B03	ferrous fumarate	NA	NA
+B03	ferrous gluconate	NA	NA
+B03	ferrous carbonate	NA	NA
+B03	ferrous chloride	NA	NA
+B03	ferrous succinate	NA	NA
+B03	ferrous sulfate	NA	NA
+B03	ferrous tartrate	NA	NA
+B03	ferrous aspartate	NA	NA
+B03	ferrous ascorbate	NA	NA
+B03	ferrous iodine	NA	NA
+B03	ferric sodium citrate	NA	NA
+B03	saccharated iron oxide	NA	NA
+B03	sodium feredetate	NA	NA
+B03	ferric hydroxide	NA	NA
+B03	ferric oxide polymaltose complexes	NA	NA
+B03	chondroitin sulfate-iron complex	NA	NA
+B03	ferric acetyl transferrin	NA	NA
+B03	ferric proteinsuccinylate	NA	NA
+B03	ferric maltol	NA	NA
+B03	ferrous amino acid complex	NA	NA
+B03	ferrous fumarate	NA	NA
+B03	ferrous sulfate	NA	NA
+B03	ferric oxide polymaltose complexes	NA	NA
+B03	cyanocobalamin	MUT	P22033
+B03	cyanocobalamin	MTR	Q99707
+B03	cyanocobalamin tannin complex	NA	NA
+B03	hydroxocobalamin	MUT	P22033
+B03	hydroxocobalamin	MTR	Q99707
+B03	cobamamide	NA	NA
+B03	mecobalamin	NA	NA
+B03	folic acid	FOLR2	P14207
+B03	folic acid	FOLR3	P41439
+B03	erythropoietin	EPOR	P19235
+B03	darbepoetin alfa	EPOR	P19235
+B03	methoxy polyethylene glycol-epoetin beta	EPOR	P19235
+B03	peginesatide	EPOR	P19235
+B05	albumin	NA	NA
+B05	other plasma protein fractions	NA	NA
+B05	fluorocarbon blood substitutes	NA	NA
+B05	dextran	NA	NA
+B05	gelatin agents	NA	NA
+B05	hydroxyethylstarch	NA	NA
+B05	hemoglobin crosfumaril	NA	NA
+B05	hemoglobin raffimer	HBB	P68871
+B05	hemoglobin raffimer	HBA2	P69905
+B05	hemoglobin glutamer	NA	NA
+B05	erythrocytes	NA	NA
+B05	thrombocytes	NA	NA
+B05	blood plasma	NA	NA
+B05	stem cells from umbilical cord blood	NA	NA
+B05	amino acids	NA	NA
+B05	fat emulsions	NA	NA
+B05	carbohydrates	NA	NA
+B05	protein hydrolysates	NA	NA
+B05	electrolytes	NA	NA
+B05	electrolytes with carbohydrates	NA	NA
+B05	trometamol	NA	NA
+B05	mannitol	NA	NA
+B05	carbamide	NA	NA
+B05	cetylpyridinium	NA	NA
+B05	chlorhexidine	NA	NA
+B05	nitrofural	NA	NA
+B05	sulfamethizole	NA	NA
+B05	taurolidine	NA	NA
+B05	mandelic acid	NA	NA
+B05	noxytiolin	NA	NA
+B05	ethacridine lactate	NA	NA
+B05	neomycin	NA	NA
+B05	sodium chloride	NA	NA
+B05	sodium citrate	CA4	P22748
+B05	magnesium citrate	NA	NA
+B05	sodium bicarbonate	CACNA1H	O95180
+B05	glucose	NA	NA
+B05	sorbitol	NA	NA
+B05	glycine	GRIN2A	Q12879
+B05	mannitol	NA	NA
+B05	potassium chloride	SLC12A1	Q13621
+B05	sodium bicarbonate	CACNA1H	O95180
+B05	sodium chloride	NA	NA
+B05	ammonium chloride	NA	NA
+B05	magnesium sulfate	NA	NA
+B05	potassium phosphate, incl. comb. with other potassium salts	NA	NA
+B05	calcium chloride	NA	NA
+B05	sodium acetate	NA	NA
+B05	sodium phosphate	NA	NA
+B05	magnesium phosphate	NA	NA
+B05	magnesium chloride	NA	NA
+B05	zinc chloride	NA	NA
+B05	hydrochloric acid	NA	NA
+B05	sodium glycerophosphate	NA	NA
+B05	potassium lactate	NA	NA
+B05	cardioplegia solutions	NA	NA
+B05	potassium acetate	NA	NA
+B05	arginine hydrochloride	NA	NA
+B05	alanyl glutamine	NA	NA
+B05	lysine	NA	NA
+B05	trometamol	NA	NA
+B06	hyaluronidase	NA	NA
+B06	chymotrypsin	NA	NA
+B06	trypsin	NA	NA
+B06	desoxyribonuclease	NA	NA
+B06	hematin	NA	NA
+B06	c1-inhibitor	NA	NA
+B06	icatibant	BDKRB2	P30411
+B06	ecallantide	KLKB1	P03952
+B06	conestat alfa	KLKB1	P03952
+B06	conestat alfa	F11	P03951
+B06	conestat alfa	C1S	P09871
+B06	conestat alfa	F2	P00734
+B06	conestat alfa	C1R	P00736
+B06	conestat alfa	PLAT	P00750
+B06	conestat alfa	F12	P00748
+C01	acetyldigitoxin	ATP1A1	P05023
+C01	acetyldigoxin	NA	NA
+C01	digitalis leaves	NA	NA
+C01	digitoxin	ATP1B3	P54709
+C01	digitoxin	ATP1B1	P05026
+C01	digitoxin	ATP1A2	P50993
+C01	digitoxin	ATP1B2	P14415
+C01	digitoxin	ATP1A3	P13637
+C01	digitoxin	ATP1A1	P05023
+C01	digoxin	ATP1B3	P54709
+C01	digoxin	ATP1B1	P05026
+C01	digoxin	ATP1A2	P50993
+C01	digoxin	ATP1B2	P14415
+C01	digoxin	ATP1A3	P13637
+C01	digoxin	ATP1A1	P05023
+C01	lanatoside c	NA	NA
+C01	deslanoside	ATP1A1	P05023
+C01	metildigoxin	NA	NA
+C01	gitoformate	NA	NA
+C01	proscillaridin	NA	NA
+C01	g-strophanthin	NA	NA
+C01	cymarin	NA	NA
+C01	peruvoside	NA	NA
+C01	quinidine	SCN5A	Q14524
+C01	procainamide	NA	NA
+C01	disopyramide	SCN5A	Q14524
+C01	sparteine	NA	NA
+C01	ajmaline	SCN5A	Q14524
+C01	prajmaline	NA	NA
+C01	lorajmine	NA	NA
+C01	hydroquinidine	NA	NA
+C01	lidocaine	SCN10A	Q9Y5Y9
+C01	lidocaine	SCN9A	Q15858
+C01	lidocaine	SCN5A	Q14524
+C01	mexiletine	SCN5A	Q14524
+C01	tocainide	SCN5A	Q14524
+C01	aprindine	SCN5A	Q14524
+C01	propafenone	KCNH2	Q12809
+C01	propafenone	SCN5A	Q14524
+C01	flecainide	SCN5A	Q14524
+C01	flecainide	SCN4A	P35499
+C01	lorcainide	NA	NA
+C01	encainide	SCN5A	Q14524
+C01	ethacizine	NA	NA
+C01	amiodarone	KCNH2	Q12809
+C01	amiodarone	ADRB1	P08588
+C01	amiodarone	CACNA2D2	Q9NY47
+C01	bretylium tosilate	NA	NA
+C01	bunaftine	NA	NA
+C01	dofetilide	KCNK2	O95069
+C01	dofetilide	KCNH2	Q12809
+C01	dofetilide	KCNJ12	Q14500
+C01	ibutilide	CACNA1C	Q13936
+C01	ibutilide	KCNH2	Q12809
+C01	ibutilide	CACNB1	Q02641
+C01	tedisamil	KCNA7	Q96RP8
+C01	dronedarone	KCNA5	P22460
+C01	moracizine	NA	NA
+C01	cibenzoline	NA	NA
+C01	vernakalant	KCNA5	P22460
+C01	vernakalant	SCN5A	Q14524
+C01	vernakalant	KCND3	Q9UK17
+C01	etilefrine	NA	NA
+C01	isoprenaline	ADRB2	P07550
+C01	isoprenaline	ADRB1	P08588
+C01	isoprenaline	ADRB3	P13945
+C01	norepinephrine	ADRA1B	P35368
+C01	norepinephrine	ADRA2C	P18825
+C01	norepinephrine	ADRA2A	P08913
+C01	norepinephrine	ADRA1A	P35348
+C01	norepinephrine	ADRB2	P07550
+C01	norepinephrine	ADRA1D	P25100
+C01	norepinephrine	ADRB3	P13945
+C01	norepinephrine	ADRA2B	P18089
+C01	norepinephrine	ADRB1	P08588
+C01	dopamine	DRD5	P21918
+C01	dopamine	SLC6A3	Q01959
+C01	dopamine	DRD1	P21728
+C01	dopamine	DBH	P09172
+C01	dopamine	DRD2	P14416
+C01	dopamine	DRD4	P21917
+C01	dopamine	DRD3	P35462
+C01	norfenefrine	NA	NA
+C01	phenylephrine	DRD2	P14416
+C01	phenylephrine	ADRA1B	P35368
+C01	phenylephrine	ADRA1D	P25100
+C01	phenylephrine	ADRA1A	P35348
+C01	dobutamine	ADRB1	P08588
+C01	oxedrine	NA	NA
+C01	metaraminol	DRD2	P14416
+C01	metaraminol	ADRA1A	P35348
+C01	methoxamine	ADRA1B	P35368
+C01	methoxamine	ADRA1A	P35348
+C01	mephentermine	ADRA1B	P35368
+C01	mephentermine	ADRA2C	P18825
+C01	mephentermine	ADRA2A	P08913
+C01	mephentermine	ADRA1A	P35348
+C01	mephentermine	DRD2	P14416
+C01	mephentermine	ADRA1D	P25100
+C01	mephentermine	ADRA2B	P18089
+C01	dimetofrine	NA	NA
+C01	prenalterol	ADRB3	P13945
+C01	dopexamine	DRD2	P14416
+C01	gepefrine	NA	NA
+C01	ibopamine	NA	NA
+C01	midodrine	ADRA1B	P35368
+C01	midodrine	ADRA1A	P35348
+C01	octopamine	F10	P00742
+C01	fenoldopam	DRD5	P21918
+C01	fenoldopam	DRD1	P21728
+C01	cafedrine	NA	NA
+C01	arbutamine	ADRB1	P08588
+C01	theodrenaline	NA	NA
+C01	epinephrine	ADRA1B	P35368
+C01	epinephrine	ADRA2A	P08913
+C01	epinephrine	ADRA1A	P35348
+C01	epinephrine	ADRB2	P07550
+C01	epinephrine	ADRA2B	P18089
+C01	epinephrine	ADRB1	P08588
+C01	amezinium metilsulfate	NA	NA
+C01	ephedrine	DRD2	P14416
+C01	droxidopa	ADRA1B	P35368
+C01	droxidopa	ADRA2C	P18825
+C01	droxidopa	ADRA2A	P08913
+C01	droxidopa	ADRA1A	P35348
+C01	droxidopa	ADRB2	P07550
+C01	droxidopa	ADRA1D	P25100
+C01	droxidopa	ADRB3	P13945
+C01	droxidopa	ADRA2B	P18089
+C01	droxidopa	ADRB1	P08588
+C01	amrinone	PDE3A	Q14432
+C01	milrinone	PDE3A	Q14432
+C01	enoximone	PDE3A	Q14432
+C01	bucladesine	NA	NA
+C01	angiotensinamide	NA	NA
+C01	xamoterol	ADRB1	P08588
+C01	xamoterol	ADRB3	P13945
+C01	levosimendan	KCNJ8	Q15842
+C01	levosimendan	TNNC1	P63316
+C01	levosimendan	KCNJ11	Q14654
+C01	glyceryl trinitrate	NA	NA
+C01	methylpropylpropanediol dinitrate	NA	NA
+C01	pentaerithrityl tetranitrate	NA	NA
+C01	propatylnitrate	NA	NA
+C01	isosorbide dinitrate	NPR1	P16066
+C01	trolnitrate	NA	NA
+C01	eritrityl tetranitrate	NA	NA
+C01	isosorbide mononitrate	GUCY1A2	P33402
+C01	tenitramine	NA	NA
+C01	flosequinan	NA	NA
+C01	itramin tosilate	NA	NA
+C01	prenylamine	NA	NA
+C01	oxyfedrine	NA	NA
+C01	benziodarone	NA	NA
+C01	carbocromen	NA	NA
+C01	hexobendine	NA	NA
+C01	etafenone	NA	NA
+C01	heptaminol	NA	NA
+C01	imolamine	NA	NA
+C01	dilazep	SLC29A1	Q99808
+C01	trapidil	PDE4D	Q08499
+C01	trapidil	PDE1A	P54750
+C01	trapidil	PDE3A	Q14432
+C01	trapidil	PDE4B	Q07343
+C01	trapidil	PDE3B	Q13370
+C01	trapidil	PDE1B	Q01064
+C01	trapidil	PDE1C	Q14123
+C01	trapidil	PDE5A	O76074
+C01	trapidil	PDE11A	Q9HCR9
+C01	trapidil	PDE7A	Q13946
+C01	trapidil	PDE8A	O60658
+C01	trapidil	PDE10A	Q9Y233
+C01	trapidil	PDE2A	O00408
+C01	trapidil	PDE6C	P51160
+C01	trapidil	PDE4C	Q08493
+C01	trapidil	PDE6A	P16499
+C01	trapidil	PDE9A	O76083
+C01	trapidil	PDE4A	P27815
+C01	trapidil	PDE6B	P35913
+C01	trapidil	PDE7B	Q9NP56
+C01	trapidil	PDE8B	O95263
+C01	molsidomine	NA	NA
+C01	efloxate	NA	NA
+C01	cinepazet	NA	NA
+C01	cloridarol	NA	NA
+C01	nicorandil	ABCC9	O60706
+C01	linsidomine	NA	NA
+C01	nesiritide	NPR1	P16066
+C01	serelaxin	NA	NA
+C01	alprostadil	TBXA2R	P21731
+C01	alprostadil	PTGER1	P34995
+C01	alprostadil	PTGER2	P43116
+C01	camphora	NA	NA
+C01	indometacin	NA	NA
+C01	crataegus glycosides	NA	NA
+C01	creatinolfosfate	NA	NA
+C01	fosfocreatine	NA	NA
+C01	fructose	FHIT	P49789
+C01	ubidecarenone	NA	NA
+C01	adenosine	ADORA1	P30542
+C01	adenosine	ADORA2A	P29274
+C01	adenosine	ADORA2B	P29275
+C01	adenosine	ADORA3	P0DMS8
+C01	tiracizine	NA	NA
+C01	acadesine	NA	NA
+C01	trimetazidine	ACAA1	P09110
+C01	ibuprofen	PTGS1	P23219
+C01	ibuprofen	PTGS2	P35354
+C01	ivabradine	NA	NA
+C01	ranolazine	SCN5A	Q14524
+C01	ranolazine	PLG	P00747
+C01	regadenoson	ADORA2A	P29274
+C01	meldonium	NA	NA
+C01	tiazotic acid	NA	NA
+C02	rescinnamine	ACE	P12821
+C02	reserpine	SLC18A2	Q05940
+C02	rauwolfia alkaloids, whole root	NA	NA
+C02	deserpidine	SLC18A2	Q05940
+C02	deserpidine	ACE	P12821
+C02	methoserpidine	NA	NA
+C02	bietaserpine	NA	NA
+C02	methyldopa	ADRA2A	P08913
+C02	methyldopa	DRD2	P14416
+C02	methyldopa	ADRA2A	P08913
+C02	methyldopa	DRD2	P14416
+C02	clonidine	ADRA2C	P18825
+C02	clonidine	ADRA2A	P08913
+C02	clonidine	ADRA2B	P18089
+C02	guanfacine	ADRA2A	P08913
+C02	tolonidine	NA	NA
+C02	moxonidine	ADRA2C	P18825
+C02	moxonidine	ADRA2A	P08913
+C02	moxonidine	NISCH	Q9Y2I1
+C02	moxonidine	ADRA2B	P18089
+C02	rilmenidine	ADRA2C	P18825
+C02	trimetaphan	NA	NA
+C02	mecamylamine	CHRNA2	Q15822
+C02	prazosin	ADRA1B	P35368
+C02	prazosin	ADRA1D	P25100
+C02	prazosin	ADRA1A	P35348
+C02	indoramin	ADRA2C	P18825
+C02	indoramin	ADRA2B	P18089
+C02	indoramin	ADRA1D	P25100
+C02	trimazosin	ADRA1D	P25100
+C02	doxazosin	ADRA1B	P35368
+C02	doxazosin	ADRA1D	P25100
+C02	doxazosin	ADRA1A	P35348
+C02	urapidil	HTR1A	P08908
+C02	betanidine	NA	NA
+C02	guanethidine	SLC6A2	P23975
+C02	guanoxan	NA	NA
+C02	debrisoquine	NA	NA
+C02	guanoclor	NA	NA
+C02	guanazodine	NA	NA
+C02	guanoxabenz	NA	NA
+C02	diazoxide	KCNJ11	Q14654
+C02	diazoxide	CA2	P00918
+C02	diazoxide	CA1	P00915
+C02	dihydralazine	NA	NA
+C02	hydralazine	AOC3	Q16853
+C02	endralazine	NA	NA
+C02	cadralazine	NA	NA
+C02	minoxidil	KCNJ1	P48048
+C02	nitroprusside	ITPR2	Q14571
+C02	nitroprusside	ITPR1	Q14643
+C02	nitroprusside	ITPR3	Q14573
+C02	nitroprusside	NPR1	P16066
+C02	pinacidil	NA	NA
+C02	veratrum	NA	NA
+C02	metirosine	NA	NA
+C02	pargyline	MAOB	P27338
+C02	ketanserin	NA	NA
+C02	bosentan	EDNRA	P25101
+C02	bosentan	EDNRB	P24530
+C02	ambrisentan	EDNRA	P25101
+C02	sitaxentan	EDNRA	P25101
+C02	macitentan	EDNRA	P25101
+C02	macitentan	EDNRB	P24530
+C02	riociguat	GUCY1A2	P33402
+C03	bendroflumethiazide	SLC12A3	P55017
+C03	bendroflumethiazide	SLC12A1	Q13621
+C03	bendroflumethiazide	KCNMA1	Q12791
+C03	hydroflumethiazide	SLC12A1	Q13621
+C03	hydrochlorothiazide	SLC12A3	P55017
+C03	hydrochlorothiazide	ACE	P12821
+C03	chlorothiazide	CA4	P22748
+C03	chlorothiazide	SLC12A3	P55017
+C03	chlorothiazide	CA2	P00918
+C03	chlorothiazide	CA1	P00915
+C03	polythiazide	SLC12A3	P55017
+C03	trichlormethiazide	SLC12A1	Q13621
+C03	trichlormethiazide	ATP1A1	P05023
+C03	cyclopenthiazide	NA	NA
+C03	methyclothiazide	SLC12A1	Q13621
+C03	cyclothiazide	FXYD2	P54710
+C03	cyclothiazide	CA2	P00918
+C03	mebutizide	NA	NA
+C03	quinethazone	CA2	P00918
+C03	quinethazone	SLC12A3	P55017
+C03	quinethazone	SLC12A1	Q13621
+C03	quinethazone	SLC12A2	P55011
+C03	quinethazone	CA1	P00915
+C03	clopamide	NA	NA
+C03	chlortalidone	NA	NA
+C03	mefruside	NA	NA
+C03	clofenamide	NA	NA
+C03	metolazone	SLC12A3	P55017
+C03	meticrane	NA	NA
+C03	xipamide	NA	NA
+C03	indapamide	KCNE1	P15382
+C03	indapamide	KCNQ1	P51787
+C03	clorexolone	NA	NA
+C03	fenquizone	NA	NA
+C03	clorexolone, comb. with psycholeptics	NA	NA
+C03	mersalyl	NA	NA
+C03	theobromine	ADORA1	P30542
+C03	theobromine	ADORA2A	P29274
+C03	cicletanine	NA	NA
+C03	furosemide	SLC12A1	Q13621
+C03	bumetanide	SLC12A5	Q9H2X9
+C03	bumetanide	SLC12A4	Q9UP95
+C03	bumetanide	SLC12A1	Q13621
+C03	bumetanide	SLC12A2	P55011
+C03	piretanide	SLC12A1	Q13621
+C03	torasemide	SLC12A1	Q13621
+C03	etacrynic acid	SLC12A1	Q13621
+C03	etacrynic acid	ATP1A1	P05023
+C03	tienilic acid	NA	NA
+C03	muzolimine	NA	NA
+C03	etozolin	NA	NA
+C03	spironolactone	NR3C2	P08235
+C03	potassium canrenoate	NA	NA
+C03	canrenone	NA	NA
+C03	eplerenone	NR3C2	P08235
+C03	amiloride	SCNN1B	P51168
+C03	amiloride	SCNN1A	P37088
+C03	amiloride	SCNN1G	P51170
+C03	amiloride	SCNN1D	P51172
+C03	triamterene	SCNN1B	P51168
+C03	triamterene	SCNN1A	P37088
+C03	triamterene	SCNN1G	P51170
+C03	triamterene	SCNN1D	P51172
+C03	tolvaptan	AVPR2	P30518
+C03	conivaptan	AVPR1A	P37288
+C03	conivaptan	AVPR2	P30518
+C04	isoxsuprine	NA	NA
+C04	buphenine	NA	NA
+C04	bamethan	NA	NA
+C04	phentolamine	DRD2	P14416
+C04	phentolamine	ADRA2A	P08913
+C04	phentolamine	ADRA1A	P35348
+C04	tolazoline	DRD2	P14416
+C04	tolazoline	ADRA1A	P35348
+C04	nicotinic acid	NA	NA
+C04	nicotinyl alcohol	NA	NA
+C04	inositol nicotinate	HCAR3	P49019
+C04	inositol nicotinate	HCAR2	Q8TDS4
+C04	ciclonicate	NA	NA
+C04	pentifylline	NA	NA
+C04	xantinol nicotinate	NA	NA
+C04	pentoxifylline	PDE5A	O76074
+C04	pentoxifylline	PDE4B	Q07343
+C04	pentoxifylline	ADORA2A	P29274
+C04	pentoxifylline	TNF	P01375
+C04	pentoxifylline	ADORA1	P30542
+C04	pentoxifylline	PDE4A	P27815
+C04	etofylline nicotinate	NA	NA
+C04	ergoloid mesylates	NA	NA
+C04	nicergoline	ADRA1A	P35348
+C04	dihydroergocristine	ADRA2C	P18825
+C04	kallidinogenase	NA	NA
+C04	cyclandelate	NA	NA
+C04	phenoxybenzamine	DRD2	P14416
+C04	phenoxybenzamine	ADRA2A	P08913
+C04	phenoxybenzamine	ADRA1A	P35348
+C04	vincamine	NA	NA
+C04	moxisylyte	ADRA1D	P25100
+C04	bencyclane	NA	NA
+C04	vinburnine	CHRM1	P11229
+C04	vinburnine	CHRM3	P20309
+C04	suloctidil	NA	NA
+C04	buflomedil	NA	NA
+C04	naftidrofuryl	NA	NA
+C04	butalamine	NA	NA
+C04	visnadine	NA	NA
+C04	cetiedil	NA	NA
+C04	cinepazide	NA	NA
+C04	ifenprodil	GRIN1	Q05586
+C04	ifenprodil	GRIN2B	Q13224
+C04	azapetine	NA	NA
+C04	fasudil	ROCK1	Q13464
+C05	hydrocortisone	NR3C1	P04150
+C05	hydrocortisone	ANXA1	P04083
+C05	prednisolone	NR3C1	P04150
+C05	betamethasone	NR3C1	P04150
+C05	fluorometholone	NR3C1	P04150
+C05	fluocortolone	NA	NA
+C05	dexamethasone	NR3C1	P04150
+C05	fluocinolone acetonide	NR3C1	P04150
+C05	fluocinonide	NR3C1	P04150
+C05	triamcinolone	NR3C1	P04150
+C05	lidocaine	SCN10A	Q9Y5Y9
+C05	lidocaine	SCN9A	Q15858
+C05	lidocaine	SCN5A	Q14524
+C05	tetracaine	RYR2	Q92736
+C05	tetracaine	RYR1	P21817
+C05	tetracaine	SCN10A	Q9Y5Y9
+C05	benzocaine	SCN10A	Q9Y5Y9
+C05	benzocaine	SCN1A	P35498
+C05	cinchocaine	SCN10A	Q9Y5Y9
+C05	cinchocaine	SCN5A	Q14524
+C05	procaine	SCN10A	Q9Y5Y9
+C05	procaine	GRIN3A	Q8TCU5
+C05	procaine	SLC6A3	Q01959
+C05	procaine	HTR3A	P46098
+C05	oxetacaine	NA	NA
+C05	pramocaine	NA	NA
+C05	glyceryl trinitrate	NA	NA
+C05	isosorbide dinitrate	NPR1	P16066
+C05	diltiazem	CACNG1	Q06432
+C05	diltiazem	CACNA2D1	P54289
+C05	aluminium preparations	NA	NA
+C05	zinc preparations	NA	NA
+C05	tribenoside	NA	NA
+C05	organo-heparinoid	NA	NA
+C05	sodium apolate	NA	NA
+C05	heparin	SERPINC1	P01008
+C05	heparin	F10	P00742
+C05	pentosan polysulfate sodium	NA	NA
+C05	monoethanolamine oleate	NA	NA
+C05	polidocanol	NA	NA
+C05	invert sugar	NA	NA
+C05	sodium tetradecyl sulfate	PROS1	P07225
+C05	sodium tetradecyl sulfate	PROC	P04070
+C05	phenol	CA2	P00918
+C05	phenol	CA12	O43570
+C05	phenol	CA9	Q16790
+C05	phenol	CA4	P22748
+C05	phenol	CA1	P00915
+C05	calcium dobesilate	NA	NA
+C05	rutoside	NA	NA
+C05	monoxerutin	NA	NA
+C05	diosmin	NA	NA
+C05	troxerutin	NA	NA
+C05	hidrosmin	NA	NA
+C05	tribenoside	NA	NA
+C05	naftazone	NA	NA
+C05	hippocastani semen	NA	NA
+C07	alprenolol	HTR1A	P08908
+C07	alprenolol	ADRB1	P08588
+C07	alprenolol	ADRB2	P07550
+C07	oxprenolol	ADRB1	P08588
+C07	pindolol	ADRB2	P07550
+C07	pindolol	ADRB1	P08588
+C07	propranolol	ADRB1	P08588
+C07	timolol	ADRB2	P07550
+C07	timolol	ADRB1	P08588
+C07	sotalol	KCNH2	Q12809
+C07	sotalol	ADRB2	P07550
+C07	sotalol	ADRB1	P08588
+C07	nadolol	ADRB1	P08588
+C07	mepindolol	ADRB3	P13945
+C07	carteolol	ADRB2	P07550
+C07	carteolol	ADRB1	P08588
+C07	tertatolol	HTR1A	P08908
+C07	bopindolol	ADRB1	P08588
+C07	bopindolol	ADRB3	P13945
+C07	bupranolol	ADRB1	P08588
+C07	penbutolol	HTR1A	P08908
+C07	penbutolol	ADRB1	P08588
+C07	penbutolol	ADRB2	P07550
+C07	cloranolol	NA	NA
+C07	practolol	ADRB1	P08588
+C07	metoprolol	ADRB1	P08588
+C07	atenolol	ADRB1	P08588
+C07	acebutolol	ADRB1	P08588
+C07	betaxolol	ADRB1	P08588
+C07	bevantolol	ADRB1	P08588
+C07	bevantolol	DRD2	P14416
+C07	bisoprolol	ADRB1	P08588
+C07	celiprolol	ADRB2	P07550
+C07	celiprolol	ADRB1	P08588
+C07	esmolol	ADRB1	P08588
+C07	epanolol	ADRB3	P13945
+C07	s-atenolol	NA	NA
+C07	nebivolol	ADRB1	P08588
+C07	talinolol	NA	NA
+C07	landiolol	NA	NA
+C07	labetalol	ADRA1D	P25100
+C07	labetalol	ADRA1B	P35368
+C07	labetalol	ADRB2	P07550
+C07	labetalol	ADRB1	P08588
+C07	labetalol	ADRA1A	P35348
+C07	carvedilol	ADRB1	P08588
+C07	carvedilol	ADRA1A	P35348
+C08	amlodipine	CACNA1C	Q13936
+C08	amlodipine	CACNG1	Q06432
+C08	amlodipine	CACNA1S	Q13698
+C08	amlodipine	CACNB2	Q08289
+C08	amlodipine	CACNA2D1	P54289
+C08	amlodipine	CACNA1D	Q01668
+C08	felodipine	CACNA1C	Q13936
+C08	felodipine	CACNB2	Q08289
+C08	felodipine	CACNA1S	Q13698
+C08	felodipine	CACNA2D1	P54289
+C08	felodipine	CACNA1D	Q01668
+C08	isradipine	CACNA1C	Q13936
+C08	isradipine	CACNA1H	O95180
+C08	isradipine	CACNA1S	Q13698
+C08	isradipine	CACNA2D2	Q9NY47
+C08	isradipine	CACNB2	Q08289
+C08	isradipine	CACNA2D1	P54289
+C08	isradipine	CACNA1D	Q01668
+C08	nicardipine	CACNA1C	Q13936
+C08	nicardipine	CACNB2	Q08289
+C08	nicardipine	CACNA2D1	P54289
+C08	nicardipine	CACNA1D	Q01668
+C08	nifedipine	CACNA1C	Q13936
+C08	nifedipine	CACNB2	Q08289
+C08	nifedipine	CACNA1S	Q13698
+C08	nifedipine	CACNA2D1	P54289
+C08	nifedipine	CACNA1D	Q01668
+C08	nimodipine	CACNA1C	Q13936
+C08	nimodipine	CACNB3	P54284
+C08	nimodipine	CACNA1S	Q13698
+C08	nimodipine	CACNB4	O00305
+C08	nimodipine	CACNB1	Q02641
+C08	nimodipine	CACNB2	Q08289
+C08	nimodipine	CACNA1F	O60840
+C08	nimodipine	CACNA1D	Q01668
+C08	nisoldipine	CACNA1C	Q13936
+C08	nisoldipine	CACNB2	Q08289
+C08	nisoldipine	CACNA1S	Q13698
+C08	nisoldipine	CACNA2D1	P54289
+C08	nisoldipine	CACNA1D	Q01668
+C08	nitrendipine	CACNA1C	Q13936
+C08	nitrendipine	CACNG1	Q06432
+C08	nitrendipine	CACNA1S	Q13698
+C08	nitrendipine	CACNB2	Q08289
+C08	nitrendipine	CACNA2D1	P54289
+C08	nitrendipine	CACNA1D	Q01668
+C08	lacidipine	NA	NA
+C08	nilvadipine	CACNA1C	Q13936
+C08	nilvadipine	CACNB2	Q08289
+C08	nilvadipine	CACNA2D1	P54289
+C08	nilvadipine	CACNA1D	Q01668
+C08	manidipine	CACNA1C	Q13936
+C08	manidipine	CACNB3	P54284
+C08	manidipine	CACNA1H	O95180
+C08	manidipine	CACNA1S	Q13698
+C08	manidipine	CACNA1I	Q9P0X4
+C08	manidipine	CACNA1G	O43497
+C08	manidipine	CACNB4	O00305
+C08	manidipine	CACNB1	Q02641
+C08	manidipine	CACNA1F	O60840
+C08	manidipine	CACNB2	Q08289
+C08	manidipine	CACNA1D	Q01668
+C08	barnidipine	NA	NA
+C08	lercanidipine	CACNG1	Q06432
+C08	lercanidipine	CACNA2D1	P54289
+C08	cilnidipine	CACNA1B	Q00975
+C08	benidipine	NA	NA
+C08	clevidipine	NA	NA
+C08	mibefradil	CACNA1C	Q13936
+C08	mibefradil	CACNB3	P54284
+C08	mibefradil	CACNA1H	O95180
+C08	mibefradil	CACNA1S	Q13698
+C08	mibefradil	CACNA1I	Q9P0X4
+C08	mibefradil	CACNA1G	O43497
+C08	mibefradil	CACNB4	O00305
+C08	mibefradil	CACNB1	Q02641
+C08	mibefradil	CACNB2	Q08289
+C08	mibefradil	CACNA1F	O60840
+C08	mibefradil	CACNA1D	Q01668
+C08	verapamil	CACNA1C	Q13936
+C08	verapamil	CACNB3	P54284
+C08	verapamil	CACNA1S	Q13698
+C08	verapamil	CACNA1G	O43497
+C08	verapamil	CACNB4	O00305
+C08	verapamil	CACNB1	Q02641
+C08	verapamil	CACNB2	Q08289
+C08	verapamil	CACNA1F	O60840
+C08	verapamil	CACNA1D	Q01668
+C08	gallopamil	ATP2A2	P16615
+C08	diltiazem	CACNG1	Q06432
+C08	diltiazem	CACNA2D1	P54289
+C08	fendiline	HTR2B	P41595
+C08	bepridil	CACNA1A	O00555
+C08	bepridil	CACNA1H	O95180
+C08	bepridil	CACNA2D2	Q9NY47
+C08	lidoflazine	SLC29A1	Q99808
+C08	lidoflazine	SCN1A	P35498
+C08	perhexiline	CPT2	P23786
+C08	perhexiline	CPT1B	Q92523
+C08	perhexiline	CPT1A	P50416
+C09	captopril	ACE	P12821
+C09	enalapril	ACE	P12821
+C09	lisinopril	ACE	P12821
+C09	perindopril	ACE	P12821
+C09	ramipril	ACE	P12821
+C09	quinapril	ACE	P12821
+C09	benazepril	ACE	P12821
+C09	cilazapril	ACE	P12821
+C09	fosinopril	ACE	P12821
+C09	trandolapril	ACE	P12821
+C09	spirapril	ACE	P12821
+C09	delapril	ACE	P12821
+C09	moexipril	ACE2	Q9BYF1
+C09	moexipril	ACE	P12821
+C09	temocapril	NA	NA
+C09	zofenopril	ACE	P12821
+C09	imidapril	NA	NA
+C09	losartan	AGTR1	P30556
+C09	eprosartan	AGTR1	P30556
+C09	valsartan	AGTR1	P30556
+C09	irbesartan	AGTR1	P30556
+C09	tasosartan	AGTR1	P30556
+C09	candesartan	AGTR1	P30556
+C09	telmisartan	PPARG	P37231
+C09	telmisartan	AGTR1	P30556
+C09	olmesartan medoxomil	AGTR1	P30556
+C09	azilsartan medoxomil	AGTR1	P30556
+C09	fimasartan	AGTR1	P30556
+C09	remikiren	REN	P00797
+C09	aliskiren	REN	P00797
+C10	simvastatin	HMGCR	P04035
+C10	lovastatin	HMGCR	P04035
+C10	pravastatin	HMGCR	P04035
+C10	fluvastatin	HMGCR	P04035
+C10	atorvastatin	HMGCR	P04035
+C10	cerivastatin	HMGCR	P04035
+C10	rosuvastatin	HMGCR	P04035
+C10	pitavastatin	HMGCR	P04035
+C10	clofibrate	LPL	P06858
+C10	clofibrate	PPARA	Q07869
+C10	bezafibrate	PPARA	Q07869
+C10	bezafibrate	PPARG	P37231
+C10	bezafibrate	PPARD	Q03181
+C10	aluminium clofibrate	NA	NA
+C10	gemfibrozil	LPL	P06858
+C10	gemfibrozil	PPARA	Q07869
+C10	fenofibrate	PPARA	Q07869
+C10	simfibrate	NA	NA
+C10	ronifibrate	NA	NA
+C10	ciprofibrate	PPARA	Q07869
+C10	etofibrate	NA	NA
+C10	clofibride	NA	NA
+C10	choline fenofibrate	NA	NA
+C10	colestyramine	NA	NA
+C10	colestipol	NA	NA
+C10	colextran	NA	NA
+C10	colesevelam	NA	NA
+C10	niceritrol	NA	NA
+C10	nicotinic acid	NA	NA
+C10	nicofuranose	NA	NA
+C10	aluminium nicotinate	NA	NA
+C10	nicotinyl alcohol	NA	NA
+C10	acipimox	NA	NA
+C10	dextrothyroxine	THRA	P10827
+C10	dextrothyroxine	THRB	P10828
+C10	probucol	ABCA1	O95477
+C10	tiadenol	NA	NA
+C10	meglutol	HMGCR	P04035
+C10	magnesium pyridoxal	NA	NA
+C10	policosanol	NA	NA
+C10	ezetimibe	SOAT1	P35610
+C10	ezetimibe	NPC1L1	Q9UHC9
+C10	alipogene tiparvovec	NA	NA
+C10	mipomersen	APOB	P04114
+C10	lomitapide	MTTP	P55157
+C10	evolocumab	NA	NA
+C10	alirocumab	PCSK9	Q8NBP7
+D01	nystatin	NA	NA
+D01	natamycin	NA	NA
+D01	hachimycin	NA	NA
+D01	pecilocin	NA	NA
+D01	mepartricin	NA	NA
+D01	pyrrolnitrin	NA	NA
+D01	griseofulvin	keratin	Q16195
+D01	clotrimazole	KCNN4	O15554
+D01	clotrimazole	CXCR2	P25025
+D01	miconazole	NA	NA
+D01	econazole	NA	NA
+D01	chlormidazole	NA	NA
+D01	isoconazole	CYP17A1	P05093
+D01	tiabendazole	NA	NA
+D01	tioconazole	NA	NA
+D01	ketoconazole	NA	NA
+D01	sulconazole	NA	NA
+D01	bifonazole	NA	NA
+D01	oxiconazole	NA	NA
+D01	fenticonazole	NA	NA
+D01	omoconazole	NA	NA
+D01	sertaconazole	NA	NA
+D01	fluconazole	NA	NA
+D01	flutrimazole	NA	NA
+D01	eberconazole	NA	NA
+D01	luliconazole	NA	NA
+D01	efinaconazole	NA	NA
+D01	bromochlorosalicylanilide	NA	NA
+D01	methylrosaniline	NA	NA
+D01	tribromometacresol	NA	NA
+D01	undecylenic acid	NA	NA
+D01	polynoxylin	NA	NA
+D01	2-(4-chlorphenoxy)-ethanol	NA	NA
+D01	chlorphenesin	NA	NA
+D01	ticlatone	NA	NA
+D01	sulbentine	NA	NA
+D01	ethyl hydroxybenzoate	NA	NA
+D01	haloprogin	NA	NA
+D01	salicylic acid	PTGS1	P23219
+D01	salicylic acid	PTGS2	P35354
+D01	selenium sulfide	NA	NA
+D01	ciclopirox	ATP1A1	P05023
+D01	terbinafine	SQLE	Q14534
+D01	amorolfine	NA	NA
+D01	dimazole	NA	NA
+D01	tolnaftate	SQLE	Q14534
+D01	tolciclate	NA	NA
+D01	flucytosine	NA	NA
+D01	naftifine	SQLE	Q14534
+D01	butenafine	SQLE	Q14534
+D01	griseofulvin	keratin	Q16195
+D01	terbinafine	SQLE	Q14534
+D02	carbamide	NA	NA
+D02	aminobenzoic acid	NA	NA
+D02	octinoxate	NA	NA
+D02	betacarotene	NA	NA
+D02	afamelanotide	MC1R	Q01726
+D03	cadexomer iodine	NA	NA
+D03	dextranomer	NA	NA
+D03	dexpanthenol	CHRM3	P20309
+D03	calcium pantothenate	NA	NA
+D03	hyaluronic acid	ICAM1	P05362
+D03	hyaluronic acid	CD44	P16070
+D03	hyaluronic acid	HMMR	O75330
+D03	becaplermin	PDGFRB	P09619
+D03	crilanomer	NA	NA
+D03	enoxolone	HSD11B1	P28845
+D03	sodium chlorite	NA	NA
+D03	trolamine	NA	NA
+D03	betulae cortex	NA	NA
+D03	trypsin	NA	NA
+D03	collagenase	NA	NA
+D03	bromelains	NA	NA
+D04	thonzylamine	NA	NA
+D04	mepyramine	HRH1	P35367
+D04	thenalidine	NA	NA
+D04	tripelennamine	HRH1	P35367
+D04	chloropyramine	HRH1	P35367
+D04	promethazine	HRH1	P35367
+D04	tolpropamine	NA	NA
+D04	dimetindene	HRH1	P35367
+D04	dimetindene	CHRM2	P08172
+D04	clemastine	HRH1	P35367
+D04	bamipine	NA	NA
+D04	pheniramine	HRH1	P35367
+D04	isothipendyl	HRH1	P35367
+D04	diphenhydramine	HRH1	P35367
+D04	diphenhydramine methylbromide	NA	NA
+D04	chlorphenoxamine	NA	NA
+D04	lidocaine	SCN10A	Q9Y5Y9
+D04	lidocaine	SCN9A	Q15858
+D04	lidocaine	SCN5A	Q14524
+D04	cinchocaine	SCN10A	Q9Y5Y9
+D04	cinchocaine	SCN5A	Q14524
+D04	oxybuprocaine	SCN10A	Q9Y5Y9
+D04	oxybuprocaine	SCN1A	P35498
+D04	benzocaine	SCN10A	Q9Y5Y9
+D04	benzocaine	SCN1A	P35498
+D04	quinisocaine	NA	NA
+D04	tetracaine	RYR2	Q92736
+D04	tetracaine	RYR1	P21817
+D04	tetracaine	SCN10A	Q9Y5Y9
+D04	pramocaine	NA	NA
+D05	dithranol	NA	NA
+D05	trioxysalen	NA	NA
+D05	methoxsalen	NA	NA
+D05	fumaric acid	IFNG	P01579
+D05	calcipotriol	VDR	P11473
+D05	calcitriol	VDR	P11473
+D05	tacalcitol	NA	NA
+D05	tazarotene	RARB	P10826
+D05	tazarotene	RXRB	P28702
+D05	tazarotene	RARA	P10276
+D05	tazarotene	RARG	P13631
+D05	trioxysalen	NA	NA
+D05	methoxsalen	NA	NA
+D05	bergapten	NA	NA
+D05	etretinate	RXRA	P19793
+D05	etretinate	RXRB	P28702
+D05	etretinate	RARG	P13631
+D05	etretinate	RARB	P10826
+D05	etretinate	RARA	P10276
+D05	etretinate	RXRG	P48443
+D05	acitretin	RXRA	P19793
+D05	acitretin	STAT3	P40763
+D05	acitretin	RXRB	P28702
+D05	acitretin	RARG	P13631
+D05	acitretin	RARB	P10826
+D05	acitretin	RARA	P10276
+D05	acitretin	RXRG	P48443
+D06	demeclocycline	NA	NA
+D06	chlortetracycline	NA	NA
+D06	oxytetracycline	NA	NA
+D06	tetracycline	NA	NA
+D06	fusidic acid	NA	NA
+D06	chloramphenicol	NA	NA
+D06	neomycin	NA	NA
+D06	bacitracin	IDE	P14735
+D06	gentamicin	NA	NA
+D06	tyrothricin	NA	NA
+D06	mupirocin	NA	NA
+D06	virginiamycin	NA	NA
+D06	rifaximin	NA	NA
+D06	amikacin	NA	NA
+D06	retapamulin	NA	NA
+D06	silver sulfadiazine	NA	NA
+D06	sulfathiazole	NA	NA
+D06	mafenide	CA12	O43570
+D06	mafenide	CA6	P23280
+D06	mafenide	CA9	Q16790
+D06	mafenide	CA4	P22748
+D06	mafenide	CA2	P00918
+D06	sulfamethizole	NA	NA
+D06	sulfanilamide	NA	NA
+D06	sulfamerazine	NA	NA
+D06	idoxuridine	NA	NA
+D06	tromantadine	NA	NA
+D06	aciclovir	NA	NA
+D06	podophyllotoxin	TOP2A	P11388
+D06	podophyllotoxin	TOP2B	Q02880
+D06	inosine	NA	NA
+D06	penciclovir	NA	NA
+D06	lysozyme	NA	NA
+D06	ibacitabine	NA	NA
+D06	edoxudine	TK1	P04183
+D06	imiquimod	TLR7	Q9NYK1
+D06	docosanol	NA	NA
+D06	sinecatechins	NA	NA
+D06	metronidazole	NA	NA
+D06	ingenol mebutate	NA	NA
+D07	methylprednisolone	NR3C1	P04150
+D07	hydrocortisone	NR3C1	P04150
+D07	hydrocortisone	ANXA1	P04083
+D07	prednisolone	NR3C1	P04150
+D07	clobetasone	NR3C1	P04150
+D07	hydrocortisone butyrate	NA	NA
+D07	flumetasone	NA	NA
+D07	fluocortin	NA	NA
+D07	fluperolone	NA	NA
+D07	fluorometholone	NR3C1	P04150
+D07	fluprednidene	NA	NA
+D07	desonide	NR3C1	P04150
+D07	triamcinolone	NR3C1	P04150
+D07	alclometasone	NR3C1	P04150
+D07	alclometasone	SERPINA6	P08185
+D07	hydrocortisone buteprate	NA	NA
+D07	dexamethasone	NR3C1	P04150
+D07	clocortolone	NR3C1	P04150
+D07	clocortolone	PLA2G1B	P04054
+D07	betamethasone	NR3C1	P04150
+D07	fluclorolone	NA	NA
+D07	desoximetasone	NR3C1	P04150
+D07	fluocinolone acetonide	NR3C1	P04150
+D07	fluocortolone	NA	NA
+D07	diflucortolone	NA	NA
+D07	fludroxycortide	NA	NA
+D07	fluocinonide	NR3C1	P04150
+D07	budesonide	NR3C1	P04150
+D07	diflorasone	NR3C1	P04150
+D07	diflorasone	PLA2G1B	P04054
+D07	amcinonide	NR3C1	P04150
+D07	halometasone	NA	NA
+D07	mometasone	NR3C1	P04150
+D07	methylprednisolone aceponate	NA	NA
+D07	beclometasone	NA	NA
+D07	hydrocortisone aceponate	NA	NA
+D07	fluticasone	NR3C1	P04150
+D07	prednicarbate	NR3C1	P04150
+D07	difluprednate	NR3C1	P04150
+D07	ulobetasol	NR3C1	P04150
+D07	clobetasol	PLA2G1B	P04054
+D07	halcinonide	NA	NA
+D07	hydrocortisone	NR3C1	P04150
+D07	hydrocortisone	ANXA1	P04083
+D07	prednisolone	NR3C1	P04150
+D07	flumetasone	NA	NA
+D07	triamcinolone	NR3C1	P04150
+D07	fluprednidene	NA	NA
+D07	fluorometholone	NR3C1	P04150
+D07	dexamethasone	NR3C1	P04150
+D07	betamethasone	NR3C1	P04150
+D07	desoximetasone	NR3C1	P04150
+D07	mometasone	NR3C1	P04150
+D07	diflucortolone	NA	NA
+D07	fluocortolone	NA	NA
+D08	ethacridine lactate	NA	NA
+D08	aminoacridine	NA	NA
+D08	euflavine	NA	NA
+D08	dibrompropamidine	NA	NA
+D08	chlorhexidine	NA	NA
+D08	propamidine	NA	NA
+D08	hexamidine	NA	NA
+D08	polihexanide	NA	NA
+D08	hexachlorophene	SDHD	O14521
+D08	policresulen	NA	NA
+D08	phenol	CA2	P00918
+D08	phenol	CA12	O43570
+D08	phenol	CA9	Q16790
+D08	phenol	CA4	P22748
+D08	phenol	CA1	P00915
+D08	triclosan	NA	NA
+D08	chloroxylenol	NA	NA
+D08	biphenylol	NA	NA
+D08	nitrofural	NA	NA
+D08	iodine/octylphenoxypolyglycolether	NA	NA
+D08	povidone-iodine	NA	NA
+D08	iodine	NA	NA
+D08	diiodohydroxypropane	NA	NA
+D08	dequalinium	KCNN3	Q9UGI6
+D08	dequalinium	KCNN1	Q92952
+D08	dequalinium	XIAP	P98170
+D08	dequalinium	CNGA2	Q16280
+D08	dequalinium	CNGA1	P29973
+D08	dequalinium	KCNN2	Q9H2S1
+D08	chlorquinaldol	NA	NA
+D08	oxyquinoline	METAP2	P50579
+D08	clioquinol	OPRK1	P41145
+D08	benzalkonium	NA	NA
+D08	cetrimonium	NA	NA
+D08	cetylpyridinium	NA	NA
+D08	cetrimide	NA	NA
+D08	benzoxonium chloride	NA	NA
+D08	didecyldimethylammonium chloride	NA	NA
+D08	benzethonium chloride	NA	NA
+D08	decamethoxine	NA	NA
+D08	mercuric amidochloride	NA	NA
+D08	phenylmercuric borate	NA	NA
+D08	mercuric chloride	NA	NA
+D08	mercurochrome	NA	NA
+D08	mercury, metallic	NA	NA
+D08	thiomersal	NA	NA
+D08	mercuric iodide	NA	NA
+D08	silver nitrate	NA	NA
+D08	silver	NA	NA
+D08	hydrogen peroxide	PTPN1	P18031
+D08	eosin	NA	NA
+D08	propanol	NA	NA
+D08	tosylchloramide sodium	NA	NA
+D08	isopropanol	NA	NA
+D08	potassium permanganate	NA	NA
+D08	sodium hypochlorite	NA	NA
+D08	ethanol	GRIN3A	Q8TCU5
+D08	ethanol	GLRA1	P23415
+D08	ethanol	GLRA2	P23416
+D08	ethanol	GABRA1	P14867
+D09	framycetin	NA	NA
+D09	fusidic acid	NA	NA
+D09	nitrofural	NA	NA
+D09	phenylmercuric nitrate	NA	NA
+D09	benzododecinium	NA	NA
+D09	triclosan	NA	NA
+D09	cetylpyridinium	NA	NA
+D09	aluminium chlorohydrate	NA	NA
+D09	povidone-iodine	NA	NA
+D09	clioquinol	OPRK1	P41145
+D09	benzalkonium	NA	NA
+D09	chlorhexidine	NA	NA
+D09	iodoform	NA	NA
+D09	zinc bandage without supplements	NA	NA
+D09	zinc bandage with supplements	NA	NA
+D10	fluorometholone	NR3C1	P04150
+D10	methylprednisolone	NR3C1	P04150
+D10	dexamethasone	NR3C1	P04150
+D10	bithionol	MCL1	Q07820
+D10	bithionol	ESR2	Q92731
+D10	bithionol	ESR1	P03372
+D10	bithionol	CAPN2	P17655
+D10	sulfur	NA	NA
+D10	tioxolone	NA	NA
+D10	mesulfen	NA	NA
+D10	tretinoin	RXRB	P28702
+D10	tretinoin	RXRG	P48443
+D10	tretinoin	RARG	P13631
+D10	retinol	NA	NA
+D10	adapalene	RARB	P10826
+D10	adapalene	RXRB	P28702
+D10	adapalene	RXRG	P48443
+D10	adapalene	RARG	P13631
+D10	isotretinoin	NA	NA
+D10	motretinide	NA	NA
+D10	benzoyl peroxide	NA	NA
+D10	clindamycin	NA	NA
+D10	erythromycin	NA	NA
+D10	chloramphenicol	NA	NA
+D10	meclocycline	NA	NA
+D10	nadifloxacin	NA	NA
+D10	sulfacetamide	NA	NA
+D10	aluminium chloride	NA	NA
+D10	resorcinol	PTGS1	P23219
+D10	resorcinol	CA2	P00918
+D10	resorcinol	CA12	O43570
+D10	azelaic acid	TYR	P14679
+D10	azelaic acid	SRD5A2	P31213
+D10	azelaic acid	AKR1D1	P51857
+D10	aluminium oxide	NA	NA
+D10	dapsone	NA	NA
+D10	isotretinoin	NA	NA
+D10	ichtasol	NA	NA
+D11	cetrimide	NA	NA
+D11	cadmium compounds	NA	NA
+D11	selenium compounds	NA	NA
+D11	povidone-iodine	NA	NA
+D11	sulfur compounds	NA	NA
+D11	xenysalate	NA	NA
+D11	others	NA	NA
+D11	metandienone	NA	NA
+D11	tacrolimus	FKBP1A	P62942
+D11	pimecrolimus	MTOR	P42345
+D11	cromoglicic acid	KCNMA1	Q12791
+D11	alitretinoin	RXRA	P19793
+D11	alitretinoin	RXRB	P28702
+D11	alitretinoin	RARG	P13631
+D11	alitretinoin	RARB	P10826
+D11	alitretinoin	RARA	P10276
+D11	alitretinoin	RXRG	P48443
+D11	minoxidil	KCNJ1	P48048
+D11	gamolenic acid	NA	NA
+D11	calcium gluconate	NA	NA
+D11	lithium succinate	NA	NA
+D11	magnesium sulfate	NA	NA
+D11	mequinol	NA	NA
+D11	tiratricol	THRA	P10827
+D11	tiratricol	THRB	P10828
+D11	oxaceprol	NA	NA
+D11	finasteride	SRD5A2	P31213
+D11	hydroquinone	TYR	P14679
+D11	pyrithione zinc	NA	NA
+D11	monobenzone	TYR	P14679
+D11	eflornithine	ODC1	P11926
+D11	diclofenac	PTGS2	P35354
+D11	diclofenac	ALOX5	P09917
+D11	diclofenac	PTGS1	P23219
+D11	diclofenac	KCNQ3	O43525
+D11	diclofenac	ASIC1	P78348
+D11	diclofenac	KCNQ2	O43526
+D11	diclofenac	SCN4A	P35499
+D11	brimonidine	ADRA2C	P18825
+D11	brimonidine	ADRA2A	P08913
+D11	brimonidine	ADRA2B	P18089
+D11	ivermectin	GLRA3	O75311
+D11	aminobenzoate potassium	NA	NA
+D11	deoxycholic acid	NA	NA
+G01	nystatin	NA	NA
+G01	natamycin	NA	NA
+G01	amphotericin b	NA	NA
+G01	candicidin	NA	NA
+G01	chloramphenicol	NA	NA
+G01	hachimycin	NA	NA
+G01	oxytetracycline	NA	NA
+G01	carfecillin	NA	NA
+G01	mepartricin	NA	NA
+G01	clindamycin	NA	NA
+G01	pentamycin	NA	NA
+G01	acetarsol	NA	NA
+G01	diiodohydroxyquinoline	NA	NA
+G01	clioquinol	OPRK1	P41145
+G01	chlorquinaldol	NA	NA
+G01	dequalinium	KCNN3	Q9UGI6
+G01	dequalinium	KCNN1	Q92952
+G01	dequalinium	XIAP	P98170
+G01	dequalinium	CNGA2	Q16280
+G01	dequalinium	CNGA1	P29973
+G01	dequalinium	KCNN2	Q9H2S1
+G01	broxyquinoline	NA	NA
+G01	oxyquinoline	METAP2	P50579
+G01	lactic acid	NA	NA
+G01	acetic acid	NA	NA
+G01	ascorbic acid	NA	NA
+G01	sulfatolamide	NA	NA
+G01	metronidazole	NA	NA
+G01	clotrimazole	KCNN4	O15554
+G01	clotrimazole	CXCR2	P25025
+G01	miconazole	NA	NA
+G01	econazole	NA	NA
+G01	ornidazole	NA	NA
+G01	isoconazole	CYP17A1	P05093
+G01	tioconazole	NA	NA
+G01	ketoconazole	NA	NA
+G01	fenticonazole	NA	NA
+G01	azanidazole	NA	NA
+G01	propenidazole	NA	NA
+G01	butoconazole	NA	NA
+G01	omoconazole	NA	NA
+G01	oxiconazole	NA	NA
+G01	flutrimazole	NA	NA
+G01	sertaconazole	NA	NA
+G01	terconazole	NA	NA
+G01	clodantoin	NA	NA
+G01	inosine	NA	NA
+G01	policresulen	NA	NA
+G01	nifuratel	NA	NA
+G01	furazolidone	NA	NA
+G01	methylrosaniline	NA	NA
+G01	povidone-iodine	NA	NA
+G01	ciclopirox	ATP1A1	P05023
+G01	protiofate	NA	NA
+G01	lactobacillus fermentum	NA	NA
+G01	copper usnate	NA	NA
+G01	hexetidine	NA	NA
+G02	methylergometrine	DRD1	P21728
+G02	ergot alkaloids	NA	NA
+G02	ergometrine	NA	NA
+G02	dinoprost	NA	NA
+G02	dinoprostone	PTGER4	P35408
+G02	dinoprostone	PTGER1	P34995
+G02	dinoprostone	PTGER2	P43116
+G02	dinoprostone	PTGER3	P43115
+G02	gemeprost	PTGER3	P43115
+G02	carboprost	NA	NA
+G02	sulprostone	NA	NA
+G02	misoprostol	PTGIR	P43119
+G02	misoprostol	PTGER2	P43116
+G02	misoprostol	PTGER3	P43115
+G02	plastic iud	NA	NA
+G02	plastic iud with copper	NA	NA
+G02	plastic iud with progestogen	NA	NA
+G02	ritodrine	ADRB2	P07550
+G02	buphenine	NA	NA
+G02	fenoterol	ADRB2	P07550
+G02	bromocriptine	DRD3	P35462
+G02	bromocriptine	DRD2	P14416
+G02	lisuride	DRD4	P21917
+G02	lisuride	DRD3	P35462
+G02	lisuride	DRD2	P14416
+G02	lisuride	HTR2C	P28335
+G02	lisuride	HTR2A	P28223
+G02	cabergoline	DRD2	P14416
+G02	quinagolide	DRD2	P14416
+G02	metergoline	HTR1D	P28221
+G02	metergoline	HTR6	P50406
+G02	metergoline	HTR2A	P28223
+G02	metergoline	HTR5A	P47898
+G02	metergoline	HTR1E	P28566
+G02	metergoline	HTR1B	P28222
+G02	metergoline	HTR2B	P41595
+G02	metergoline	HTR1F	P30939
+G02	metergoline	HTR2C	P28335
+G02	metergoline	HTR7	P34969
+G02	terguride	NA	NA
+G02	ibuprofen	PTGS1	P23219
+G02	ibuprofen	PTGS2	P35354
+G02	naproxen	PTGS1	P23219
+G02	naproxen	PTGS2	P35354
+G02	benzydamine	NA	NA
+G02	flunoxaprofen	NA	NA
+G02	atosiban	AVPR1A	P37288
+G02	atosiban	AVPR1B	P47901
+G02	atosiban	OXTR	P30559
+G02	atosiban	AVPR2	P30518
+G02	flibanserin	DRD4	P21917
+G02	flibanserin	HTR1A	P08908
+G02	flibanserin	HTR2A	P28223
+G02	agni casti fructus	NA	NA
+G02	cimicifugae rhizoma	NA	NA
+G03	norethisterone	NA	NA
+G03	lynestrenol	NA	NA
+G03	levonorgestrel	SRD5A1	P18405
+G03	levonorgestrel	ESR1	P03372
+G03	levonorgestrel	PGR	P06401
+G03	quingestanol	NA	NA
+G03	megestrol	PGR	P06401
+G03	medroxyprogesterone	PGR	P06401
+G03	norgestrienone	NA	NA
+G03	etonogestrel	ESR1	P03372
+G03	etonogestrel	PGR	P06401
+G03	desogestrel	ESR1	P03372
+G03	desogestrel	PGR	P06401
+G03	drospirenone	NR3C2	P08235
+G03	drospirenone	AR	P10275
+G03	drospirenone	PGR	P06401
+G03	levonorgestrel	SRD5A1	P18405
+G03	levonorgestrel	ESR1	P03372
+G03	levonorgestrel	PGR	P06401
+G03	ulipristal	NR3C1	P04150
+G03	ulipristal	PGR	P06401
+G03	fluoxymesterone	ESR1	P03372
+G03	fluoxymesterone	AR	P10275
+G03	fluoxymesterone	PRLR	P16471
+G03	methyltestosterone	AR	P10275
+G03	testosterone	AR	P10275
+G03	mesterolone	NA	NA
+G03	androstanolone	NA	NA
+G03	ethinylestradiol	NA	NA
+G03	estradiol	ESR2	Q92731
+G03	estradiol	ESR1	P03372
+G03	estriol	ESR1	P03372
+G03	chlorotrianisene	ESR1	P03372
+G03	estrone	ESR1	P03372
+G03	promestriene	ESR1	P03372
+G03	conjugated estrogens	ESR2	Q92731
+G03	conjugated estrogens	ESR1	P03372
+G03	dienestrol	ESR1	P03372
+G03	diethylstilbestrol	ESRRG	P62508
+G03	diethylstilbestrol	ESR2	Q92731
+G03	diethylstilbestrol	ESR1	P03372
+G03	methallenestril	NA	NA
+G03	moxestrol	NA	NA
+G03	dienestrol	ESR1	P03372
+G03	methallenestril	NA	NA
+G03	estrone	ESR1	P03372
+G03	diethylstilbestrol	ESRRG	P62508
+G03	diethylstilbestrol	ESR2	Q92731
+G03	diethylstilbestrol	ESR1	P03372
+G03	estriol	ESR1	P03372
+G03	tibolone	ESR1	P03372
+G03	gestonorone	NA	NA
+G03	medroxyprogesterone	PGR	P06401
+G03	hydroxyprogesterone	NA	NA
+G03	progesterone	NR3C2	P08235
+G03	progesterone	ESR1	P03372
+G03	progesterone	PGR	P06401
+G03	dydrogesterone	PGR	P06401
+G03	megestrol	PGR	P06401
+G03	medrogestone	NA	NA
+G03	nomegestrol	NA	NA
+G03	demegestone	NA	NA
+G03	chlormadinone	NA	NA
+G03	promegestone	NA	NA
+G03	dienogest	AR	P10275
+G03	dienogest	PGR	P06401
+G03	allylestrenol	PGR	P06401
+G03	norethisterone	NA	NA
+G03	lynestrenol	NA	NA
+G03	ethisterone	TYR	P14679
+G03	etynodiol	NA	NA
+G03	methylestrenolone	NA	NA
+G03	methyltestosterone	AR	P10275
+G03	chorionic gonadotrophin	NA	NA
+G03	human menopausal gonadotrophin	NA	NA
+G03	serum gonadotrophin	NA	NA
+G03	urofollitropin	FSHR	P23945
+G03	follitropin alfa	NA	NA
+G03	follitropin beta	FSHR	P23945
+G03	lutropin alfa	LHCGR	P22888
+G03	choriogonadotropin alfa	LHCGR	P22888
+G03	choriogonadotropin alfa	FSHR	P23945
+G03	corifollitropin alfa	NA	NA
+G03	follitropin delta	NA	NA
+G03	cyclofenil	ESR1	P03372
+G03	clomifene	ESR1	P03372
+G03	epimestrol	NA	NA
+G03	cyproterone	AR	P10275
+G03	danazol	GNRHR2	Q96P88
+G03	danazol	ESR1	P03372
+G03	danazol	AR	P10275
+G03	danazol	GNRHR	P30968
+G03	danazol	PGR	P06401
+G03	gestrinone	ESR1	P03372
+G03	mifepristone	NR3C1	P04150
+G03	mifepristone	PGR	P06401
+G03	ulipristal	NR3C1	P04150
+G03	ulipristal	PGR	P06401
+G03	raloxifene	ESR2	Q92731
+G03	raloxifene	ESR1	P03372
+G03	bazedoxifene	ESR1	P03372
+G03	lasofoxifene	ESR2	Q92731
+G03	lasofoxifene	ESR1	P03372
+G03	ormeloxifen	NA	NA
+G03	ospemifene	ESR1	P03372
+G04	ammonium chloride	NA	NA
+G04	calcium chloride	NA	NA
+G04	emepronium	CHRM5	P08912
+G04	flavoxate	CHRM1	P11229
+G04	flavoxate	CHRM2	P08172
+G04	flavoxate	CHRM4	P08173
+G04	meladrazine	NA	NA
+G04	oxybutynin	CHRM1	P11229
+G04	oxybutynin	CHRM2	P08172
+G04	oxybutynin	CHRM3	P20309
+G04	terodiline	NA	NA
+G04	propiverine	CHRM5	P08912
+G04	tolterodine	CHRM1	P11229
+G04	tolterodine	CHRM5	P08912
+G04	tolterodine	CHRM4	P08173
+G04	tolterodine	CHRM2	P08172
+G04	tolterodine	CHRM3	P20309
+G04	solifenacin	CHRM3	P20309
+G04	trospium	CHRM4	P08173
+G04	darifenacin	CHRM3	P20309
+G04	fesoterodine	CHRM3	P20309
+G04	mirabegron	ADRB3	P13945
+G04	desfesoterodine	NA	NA
+G04	alprostadil	TBXA2R	P21731
+G04	alprostadil	PTGER1	P34995
+G04	alprostadil	PTGER2	P43116
+G04	papaverine	PDE4B	Q07343
+G04	papaverine	PDE5A	O76074
+G04	sildenafil	PDE5A	O76074
+G04	yohimbin	NA	NA
+G04	moxisylyte	ADRA1D	P25100
+G04	apomorphine	DRD4	P21917
+G04	apomorphine	DRD3	P35462
+G04	apomorphine	DRD2	P14416
+G04	tadalafil	PDE5A	O76074
+G04	vardenafil	PDE5A	O76074
+G04	avanafil	PDE5A	O76074
+G04	udenafil	PDE5A	O76074
+G04	magnesium hydroxide	NA	NA
+G04	acetohydroxamic acid	NA	NA
+G04	phenazopyridine	SCN1A	P35498
+G04	succinimide	NA	NA
+G04	collagen	NA	NA
+G04	phenyl salicylate	NA	NA
+G04	dimethyl sulfoxide	NA	NA
+G04	dapoxetine	NA	NA
+G04	pentosan polysulfate sodium	NA	NA
+G04	tiopronin	NA	NA
+G04	alfuzosin	ADRA1B	P35368
+G04	alfuzosin	ADRA1D	P25100
+G04	alfuzosin	ADRA1A	P35348
+G04	tamsulosin	ADRA1A	P35348
+G04	terazosin	ADRA1B	P35368
+G04	terazosin	ADRA1D	P25100
+G04	terazosin	ADRA1A	P35348
+G04	silodosin	ADRA1A	P35348
+G04	finasteride	SRD5A2	P31213
+G04	dutasteride	SRD5A1	P18405
+G04	dutasteride	SRD5A2	P31213
+G04	pygeum africanum cortex	NA	NA
+G04	serenoa repens	NA	NA
+G04	mepartricin	NA	NA
+H01	corticotropin	MC2R	Q01718
+H01	tetracosactide	MC2R	Q01718
+H01	thyrotropin alfa	TSHR	P16473
+H01	somatropin	NA	NA
+H01	somatrem	NA	NA
+H01	mecasermin	IGF1R	P08069
+H01	sermorelin	GHRHR	Q02643
+H01	mecasermin rinfabate	NA	NA
+H01	tesamorelin	GHRHR	Q02643
+H01	pegvisomant	GHR	P10912
+H01	vasopressin	AVPR1A	P37288
+H01	vasopressin	AVPR1B	P47901
+H01	vasopressin	AVPR2	P30518
+H01	desmopressin	AVPR1A	P37288
+H01	desmopressin	AVPR1B	P47901
+H01	desmopressin	AVPR2	P30518
+H01	lypressin	NA	NA
+H01	terlipressin	AVPR1A	P37288
+H01	terlipressin	AVPR2	P30518
+H01	ornipressin	NA	NA
+H01	argipressin	NA	NA
+H01	demoxytocin	NA	NA
+H01	oxytocin	OXTR	P30559
+H01	carbetocin	OXTR	P30559
+H01	gonadorelin	GNRHR2	Q96P88
+H01	gonadorelin	GNRHR	P30968
+H01	nafarelin	GNRHR2	Q96P88
+H01	nafarelin	GNRHR	P30968
+H01	somatostatin	OPRM1	P35372
+H01	somatostatin	SSTR3	P32745
+H01	somatostatin	OPRD1	P41143
+H01	somatostatin	SSTR5	P35346
+H01	somatostatin	SSTR2	P30874
+H01	somatostatin	SSTR1	P30872
+H01	somatostatin	SSTR4	P31391
+H01	octreotide	SSTR1	P30872
+H01	octreotide	SSTR2	P30874
+H01	octreotide	SSTR5	P35346
+H01	lanreotide	NA	NA
+H01	vapreotide	SSTR2	P30874
+H01	vapreotide	SSTR5	P35346
+H01	pasireotide	SSTR3	P32745
+H01	pasireotide	SSTR2	P30874
+H01	pasireotide	SSTR1	P30872
+H01	pasireotide	SSTR5	P35346
+H01	ganirelix	GNRHR	P30968
+H01	cetrorelix	GNRHR	P30968
+H02	aldosterone	SLC12A2	P55011
+H02	fludrocortisone	NR3C2	P08235
+H02	desoxycortone	NA	NA
+H02	betamethasone	NR3C1	P04150
+H02	dexamethasone	NR3C1	P04150
+H02	fluocortolone	NA	NA
+H02	methylprednisolone	NR3C1	P04150
+H02	paramethasone	NR3C1	P04150
+H02	paramethasone	SERPINA6	P08185
+H02	prednisolone	NR3C1	P04150
+H02	prednisone	NR3C1	P04150
+H02	triamcinolone	NR3C1	P04150
+H02	hydrocortisone	NR3C1	P04150
+H02	hydrocortisone	ANXA1	P04083
+H02	cortisone	NA	NA
+H02	prednylidene	NA	NA
+H02	rimexolone	NR3C1	P04150
+H02	rimexolone	ESRRA	P11474
+H02	deflazacort	NR3C1	P04150
+H02	cloprednol	NA	NA
+H02	meprednisone	NR3C1	P04150
+H02	cortivazol	NA	NA
+H02	trilostane	HSD3B2	P26439
+H02	trilostane	HSD3B1	P14060
+H02	trilostane	ESR1	P03372
+H02	trilostane	ESR2	Q92731
+H03	levothyroxine sodium	NA	NA
+H03	liothyronine sodium	NA	NA
+H03	tiratricol	THRA	P10827
+H03	tiratricol	THRB	P10828
+H03	thyroid gland preparations	NA	NA
+H03	methylthiouracil	NA	NA
+H03	propylthiouracil	DIO1	P49895
+H03	propylthiouracil	TPO	P07202
+H03	benzylthiouracil	NA	NA
+H03	carbimazole	TPO	P07202
+H03	thiamazole	TPO	P07202
+H03	potassium perchlorate	NA	NA
+H03	diiodotyrosine	NA	NA
+H03	dibromotyrosine	NA	NA
+H04	glucagon	NA	NA
+H05	parathyroid gland extract	NA	NA
+H05	teriparatide	PTH	P01270
+H05	parathyroid hormone	PTH2R	P49190
+H05	calcitonin synthetic)	NA	NA
+H05	calcitonin natural)	NA	NA
+H05	calcitonin synthetic)	NA	NA
+H05	elcatonin	NA	NA
+H05	cinacalcet	CASR	P41180
+H05	paricalcitol	VDR	P11473
+H05	doxercalciferol	VDR	P11473
+H05	etelcalcetide	CASR	P41180
+J01	demeclocycline	NA	NA
+J01	doxycycline	NA	NA
+J01	chlortetracycline	NA	NA
+J01	lymecycline	NA	NA
+J01	metacycline	NA	NA
+J01	oxytetracycline	NA	NA
+J01	tetracycline	NA	NA
+J01	minocycline	NA	NA
+J01	rolitetracycline	NA	NA
+J01	penimepicycline	NA	NA
+J01	clomocycline	NA	NA
+J01	tigecycline	NA	NA
+J01	chloramphenicol	NA	NA
+J01	thiamphenicol	NA	NA
+J01	ampicillin	NA	NA
+J01	pivampicillin	NA	NA
+J01	carbenicillin	NA	NA
+J01	amoxicillin	NA	NA
+J01	carindacillin	NA	NA
+J01	bacampicillin	NA	NA
+J01	epicillin	NA	NA
+J01	pivmecillinam	NA	NA
+J01	azlocillin	NA	NA
+J01	mezlocillin	NA	NA
+J01	mecillinam	NA	NA
+J01	piperacillin	NA	NA
+J01	ticarcillin	NA	NA
+J01	metampicillin	NA	NA
+J01	talampicillin	NA	NA
+J01	sulbenicillin	NA	NA
+J01	temocillin	NA	NA
+J01	hetacillin	NA	NA
+J01	aspoxicillin	NA	NA
+J01	benzylpenicillin	NA	NA
+J01	phenoxymethylpenicillin	NA	NA
+J01	propicillin	NA	NA
+J01	azidocillin	NA	NA
+J01	pheneticillin	NA	NA
+J01	penamecillin	NA	NA
+J01	clometocillin	NA	NA
+J01	benzathine benzylpenicillin	NA	NA
+J01	procaine benzylpenicillin	NA	NA
+J01	benzathine phenoxymethylpenicillin	NA	NA
+J01	dicloxacillin	NA	NA
+J01	cloxacillin	NA	NA
+J01	meticillin	NA	NA
+J01	oxacillin	NA	NA
+J01	flucloxacillin	NA	NA
+J01	nafcillin	NA	NA
+J01	sulbactam	NA	NA
+J01	tazobactam	NA	NA
+J01	sultamicillin	NA	NA
+J01	cefalexin	NA	NA
+J01	cefaloridine	NA	NA
+J01	cefalotin	NA	NA
+J01	cefazolin	NA	NA
+J01	cefadroxil	NA	NA
+J01	cefazedone	NA	NA
+J01	cefatrizine	NA	NA
+J01	cefapirin	NA	NA
+J01	cefradine	NA	NA
+J01	cefacetrile	NA	NA
+J01	cefroxadine	NA	NA
+J01	ceftezole	NA	NA
+J01	cefoxitin	NA	NA
+J01	cefuroxime	NA	NA
+J01	cefamandole	NA	NA
+J01	cefaclor	NA	NA
+J01	cefotetan	NA	NA
+J01	cefonicid	NA	NA
+J01	cefotiam	NA	NA
+J01	loracarbef	NA	NA
+J01	cefmetazole	NA	NA
+J01	cefprozil	NA	NA
+J01	ceforanide	NA	NA
+J01	cefminox	NA	NA
+J01	cefbuperazone	NA	NA
+J01	flomoxef	NA	NA
+J01	cefotaxime	NA	NA
+J01	ceftazidime	NA	NA
+J01	cefsulodin	NA	NA
+J01	ceftriaxone	NA	NA
+J01	cefmenoxime	NA	NA
+J01	latamoxef	NA	NA
+J01	ceftizoxime	NA	NA
+J01	cefixime	NA	NA
+J01	cefodizime	NA	NA
+J01	cefetamet	NA	NA
+J01	cefpiramide	NA	NA
+J01	cefoperazone	NA	NA
+J01	cefpodoxime	NA	NA
+J01	ceftibuten	NA	NA
+J01	cefdinir	NA	NA
+J01	cefditoren	NA	NA
+J01	cefcapene	NA	NA
+J01	cefepime	NA	NA
+J01	cefpirome	NA	NA
+J01	cefozopran	NA	NA
+J01	aztreonam	NA	NA
+J01	carumonam	NA	NA
+J01	meropenem	NA	NA
+J01	ertapenem	NA	NA
+J01	doripenem	NA	NA
+J01	biapenem	NA	NA
+J01	ceftobiprole medocaril	NA	NA
+J01	ceftaroline fosamil	NA	NA
+J01	faropenem	NA	NA
+J01	trimethoprim	DHFR	P00374
+J01	trimethoprim	TYMS	P04818
+J01	brodimoprim	NA	NA
+J01	iclaprim	NA	NA
+J01	sulfaisodimidine	NA	NA
+J01	sulfamethizole	NA	NA
+J01	sulfadimidine	NA	NA
+J01	sulfapyridine	NA	NA
+J01	sulfafurazole	NA	NA
+J01	sulfanilamide	NA	NA
+J01	sulfathiazole	NA	NA
+J01	sulfathiourea	NA	NA
+J01	sulfamethoxazole	NA	NA
+J01	sulfadiazine	NA	NA
+J01	sulfamoxole	NA	NA
+J01	sulfadimethoxine	NA	NA
+J01	sulfalene	NA	NA
+J01	sulfametomidine	NA	NA
+J01	sulfametoxydiazine	NA	NA
+J01	sulfamethoxypyridazine	NA	NA
+J01	sulfaperin	NA	NA
+J01	sulfamerazine	NA	NA
+J01	sulfaphenazole	CYP2C9	P11712
+J01	sulfamazone	NA	NA
+J01	erythromycin	NA	NA
+J01	spiramycin	NA	NA
+J01	midecamycin	NA	NA
+J01	oleandomycin	NA	NA
+J01	roxithromycin	NA	NA
+J01	josamycin	NA	NA
+J01	troleandomycin	NA	NA
+J01	clarithromycin	NA	NA
+J01	azithromycin	NA	NA
+J01	miocamycin	NA	NA
+J01	rokitamycin	NA	NA
+J01	dirithromycin	NA	NA
+J01	flurithromycin	NA	NA
+J01	telithromycin	NA	NA
+J01	solithromycin	NA	NA
+J01	clindamycin	NA	NA
+J01	lincomycin	NA	NA
+J01	pristinamycin	NA	NA
+J01	quinupristin/dalfopristin	NA	NA
+J01	streptomycin	NA	NA
+J01	streptoduocin	NA	NA
+J01	tobramycin	NA	NA
+J01	gentamicin	NA	NA
+J01	kanamycin	NA	NA
+J01	neomycin	NA	NA
+J01	amikacin	NA	NA
+J01	netilmicin	NA	NA
+J01	sisomicin	NA	NA
+J01	dibekacin	NA	NA
+J01	ribostamycin	NA	NA
+J01	isepamicin	NA	NA
+J01	arbekacin	NA	NA
+J01	bekanamycin	NA	NA
+J01	ofloxacin	NA	NA
+J01	ciprofloxacin	NA	NA
+J01	pefloxacin	TOP2A	P11388
+J01	pefloxacin	TOP2B	Q02880
+J01	enoxacin	TOP2A	P11388
+J01	enoxacin	TOP2B	Q02880
+J01	temafloxacin	NA	NA
+J01	norfloxacin	NA	NA
+J01	lomefloxacin	TOP2A	P11388
+J01	lomefloxacin	TOP2B	Q02880
+J01	fleroxacin	TOP2A	P11388
+J01	fleroxacin	TOP2B	Q02880
+J01	sparfloxacin	TOP2A	P11388
+J01	rufloxacin	NA	NA
+J01	grepafloxacin	NA	NA
+J01	levofloxacin	TOP2A	P11388
+J01	trovafloxacin	NA	NA
+J01	moxifloxacin	NA	NA
+J01	gemifloxacin	NA	NA
+J01	gatifloxacin	NA	NA
+J01	prulifloxacin	NA	NA
+J01	pazufloxacin	NA	NA
+J01	garenoxacin	TOP2A	P11388
+J01	garenoxacin	TOP2B	Q02880
+J01	sitafloxacin	NA	NA
+J01	rosoxacin	TOP2A	P11388
+J01	rosoxacin	TOP2B	Q02880
+J01	nalidixic acid	TOP2A	P11388
+J01	nalidixic acid	TOP2B	Q02880
+J01	piromidic acid	NA	NA
+J01	pipemidic acid	NA	NA
+J01	oxolinic acid	TOP2A	P11388
+J01	oxolinic acid	TOP2B	Q02880
+J01	cinoxacin	TOP2A	P11388
+J01	cinoxacin	TOP2B	Q02880
+J01	flumequine	NA	NA
+J01	nemonoxacin	NA	NA
+J01	vancomycin	NA	NA
+J01	teicoplanin	NA	NA
+J01	telavancin	CRHR1	P34998
+J01	dalbavancin	PNLIP	P16233
+J01	oritavancin	NA	NA
+J01	colistin	NA	NA
+J01	polymyxin b	NA	NA
+J01	fusidic acid	NA	NA
+J01	metronidazole	NA	NA
+J01	tinidazole	NA	NA
+J01	ornidazole	NA	NA
+J01	nitrofurantoin	NA	NA
+J01	nifurtoinol	NA	NA
+J01	furazidin	NA	NA
+J01	fosfomycin	NA	NA
+J01	xibornol	NA	NA
+J01	clofoctol	NA	NA
+J01	spectinomycin	NA	NA
+J01	methenamine	NA	NA
+J01	mandelic acid	NA	NA
+J01	nitroxoline	METAP2	P50579
+J01	linezolid	NA	NA
+J01	daptomycin	NA	NA
+J01	bacitracin	IDE	P14735
+J01	tedizolid	NA	NA
+J02	amphotericin b	NA	NA
+J02	hachimycin	NA	NA
+J02	miconazole	NA	NA
+J02	ketoconazole	NA	NA
+J02	fluconazole	NA	NA
+J02	itraconazole	CYP51A1	Q16850
+J02	voriconazole	NA	NA
+J02	posaconazole	NA	NA
+J02	isavuconazole	NA	NA
+J02	flucytosine	NA	NA
+J02	caspofungin	NA	NA
+J02	micafungin	NA	NA
+J02	anidulafungin	NA	NA
+J04	aminosalicylic acid	PTGS1	P23219
+J04	aminosalicylic acid	PTGS2	P35354
+J04	sodium aminosalicylate	NA	NA
+J04	calcium aminosalicylate	NA	NA
+J04	cycloserine	NA	NA
+J04	rifampicin	NA	NA
+J04	rifamycin	NA	NA
+J04	rifabutin	NA	NA
+J04	rifapentine	NA	NA
+J04	capreomycin	NA	NA
+J04	isoniazid	NA	NA
+J04	protionamide	NA	NA
+J04	tiocarlide	NA	NA
+J04	ethionamide	NA	NA
+J04	pyrazinamide	NA	NA
+J04	ethambutol	NA	NA
+J04	terizidone	NA	NA
+J04	morinamide	NA	NA
+J04	bedaquiline	NA	NA
+J04	delamanid	NA	NA
+J04	thioacetazone	NA	NA
+J04	clofazimine	NA	NA
+J04	dapsone	NA	NA
+J04	aldesulfone sodium	NA	NA
+J05	metisazone	NA	NA
+J05	aciclovir	NA	NA
+J05	idoxuridine	NA	NA
+J05	vidarabine	ADORA2B	P29275
+J05	ribavirin	IMPDH1	P20839
+J05	ribavirin	ADK	P55263
+J05	ganciclovir	NA	NA
+J05	famciclovir	NA	NA
+J05	valaciclovir	NA	NA
+J05	cidofovir	NA	NA
+J05	penciclovir	NA	NA
+J05	valganciclovir	NA	NA
+J05	brivudine	NA	NA
+J05	rimantadine	NA	NA
+J05	tromantadine	NA	NA
+J05	foscarnet	NA	NA
+J05	fosfonet	NA	NA
+J05	saquinavir	NA	NA
+J05	indinavir	NA	NA
+J05	ritonavir	NA	NA
+J05	nelfinavir	NA	NA
+J05	amprenavir	NA	NA
+J05	fosamprenavir	NA	NA
+J05	atazanavir	NA	NA
+J05	tipranavir	NA	NA
+J05	darunavir	NA	NA
+J05	telaprevir	NA	NA
+J05	boceprevir	NA	NA
+J05	faldaprevir	NA	NA
+J05	simeprevir	NA	NA
+J05	asunaprevir	NA	NA
+J05	zidovudine	NA	NA
+J05	didanosine	NA	NA
+J05	zalcitabine	NA	NA
+J05	stavudine	NA	NA
+J05	lamivudine	NA	NA
+J05	abacavir	NA	NA
+J05	tenofovir disoproxil	NA	NA
+J05	adefovir dipivoxil	NA	NA
+J05	emtricitabine	NA	NA
+J05	entecavir	NA	NA
+J05	telbivudine	NA	NA
+J05	clevudine	NA	NA
+J05	tenofovir alafenamide	NA	NA
+J05	nevirapine	NA	NA
+J05	delavirdine	NA	NA
+J05	efavirenz	NA	NA
+J05	etravirine	NA	NA
+J05	rilpivirine	NA	NA
+J05	zanamivir	NA	NA
+J05	oseltamivir	CES1	P23141
+J05	moroxydine	NA	NA
+J05	lysozyme	NA	NA
+J05	inosine pranobex	NA	NA
+J05	pleconaril	NA	NA
+J05	enfuvirtide	NA	NA
+J05	raltegravir	NA	NA
+J05	maraviroc	CCR5	P51681
+J05	maribavir	NA	NA
+J05	elvitegravir	NA	NA
+J05	dolutegravir	NA	NA
+J05	umifenovir	NA	NA
+J05	daclatasvir	NA	NA
+J05	sofosbuvir	NA	NA
+J05	dasabuvir	NA	NA
+J06	diphtheria antitoxin	NA	NA
+J06	tetanus antitoxin	NA	NA
+J06	snake venom antiserum	NA	NA
+J06	botulinum antitoxin	NA	NA
+J06	gas-gangrene sera	NA	NA
+J06	rabies serum	NA	NA
+J06	immunoglobulins, normal human, for extravascular adm.	NA	NA
+J06	immunoglobulins, normal human, for intravascular adm.	NA	NA
+J06	anti-d immunoglobulin	NA	NA
+J06	tetanus immunoglobulin	NA	NA
+J06	varicella/zoster immunoglobulin	NA	NA
+J06	hepatitis b immunoglobulin	NA	NA
+J06	rabies immunoglobulin	NA	NA
+J06	rubella immunoglobulin	NA	NA
+J06	vaccinia immunoglobulin	NA	NA
+J06	staphylococcus immunoglobulin	NA	NA
+J06	cytomegalovirus immunoglobulin	NA	NA
+J06	diphtheria immunoglobulin	NA	NA
+J06	hepatitis a immunoglobulin	NA	NA
+J06	encephalitis, tick borne immunoglobulin	NA	NA
+J06	pertussis immunoglobulin	NA	NA
+J06	measles immunoglobulin	NA	NA
+J06	mumps immunoglobulin	NA	NA
+J06	palivizumab	NA	NA
+J06	motavizumab	NA	NA
+J06	raxibacumab	NA	NA
+J06	anthrax immunoglobulin	NA	NA
+J06	bezlotoxumab	NA	NA
+J06	nebacumab	NA	NA
+J07	anthrax antigen	NA	NA
+J07	brucella antigen	NA	NA
+J07	cholera, inactivated, whole cell	NA	NA
+J07	cholera, live attenuated	NA	NA
+J07	diphtheria toxoid	NA	NA
+J07	hemophilus influenzae b, purified antigen conjugated	NA	NA
+J07	meningococcus a, purified polysaccharides antigen	NA	NA
+J07	other meningococcal monovalent purified polysaccharides antigen	NA	NA
+J07	meningococcus a,c, bivalent purified polysaccharides antigen	NA	NA
+J07	meningococcus a,c,y,w-135, tetravalent purified polysaccharides antigen	NA	NA
+J07	other meningococcal polyvalent purified polysaccharides antigen	NA	NA
+J07	meningococcus b, outer membrane vesicle vaccine	NA	NA
+J07	meningococcus c, purified polysaccharides antigen conjugated	NA	NA
+J07	meningococcus a,c,y,w-135, tetravalent purified polysaccharides antigen conjugated	NA	NA
+J07	meningococcus b, multicomponent vaccine	NA	NA
+J07	meningococcus a, purified polysaccharides antigen conjugated	NA	NA
+J07	pertussis, inactivated, whole cell	NA	NA
+J07	pertussis, purified antigen	NA	NA
+J07	plague, inactivated, whole cell	NA	NA
+J07	pneumococcus, purified polysaccharides antigen	NA	NA
+J07	pneumococcus, purified polysaccharides antigen conjugated	NA	NA
+J07	tetanus toxoid	NA	NA
+J07	tuberculosis, live attenuated	NA	NA
+J07	typhoid, oral, live attenuated	NA	NA
+J07	typhoid, inactivated, whole cell	NA	NA
+J07	typhoid, purified polysaccharide antigen	NA	NA
+J07	typhus exanthematicus, inactivated, whole cell	NA	NA
+J07	encephalitis, tick borne, inactivated, whole virus	NA	NA
+J07	encephalitis, japanese, inactivated, whole virus	NA	NA
+J07	encephalitis, japanese, live attenuated	NA	NA
+J07	influenza, inactivated, whole virus	NA	NA
+J07	influenza, inactivated, split virus or surface antigen	NA	NA
+J07	influenza, live attenuated	NA	NA
+J07	hepatitis b, purified antigen	NA	NA
+J07	hepatitis a, inactivated, whole virus	NA	NA
+J07	measles, live attenuated	NA	NA
+J07	mumps, live attenuated	NA	NA
+J07	poliomyelitis oral, monovalent live attenuated	NA	NA
+J07	poliomyelitis oral, trivalent, live attenuated	NA	NA
+J07	poliomyelitis, trivalent, inactivated, whole virus	NA	NA
+J07	poliomyelitis oral, bivalent live attenuated	NA	NA
+J07	rabies, inactivated, whole virus	NA	NA
+J07	rota virus, live attenuated	NA	NA
+J07	rota virus, pentavalent, live, reassorted	NA	NA
+J07	rubella, live attenuated	NA	NA
+J07	varicella, live attenuated	NA	NA
+J07	zoster, live attenuated	NA	NA
+J07	yellow fever, live attenuated	NA	NA
+J07	papillomavirus types 6, 11, 16, 18)	NA	NA
+J07	papillomavirus types 16, 18)	NA	NA
+J07	papillomavirus types 6, 11, 16, 18, 31, 33, 45, 52, 58)	NA	NA
+J07	smallpox, live attenuated	NA	NA
+J07	diphtheria-poliomyelitis-tetanus	NA	NA
+J07	diphtheria-pertussis-poliomyelitis-tetanus	NA	NA
+J07	diphtheria-rubella-tetanus	NA	NA
+J07	diphtheria-hepatitis b-pertussis-tetanus	NA	NA
+J07	diphtheria-hemophilus influenzae b-pertussis-poliomyelitis-tetanus	NA	NA
+J07	diphtheria-hepatitis b-tetanus	NA	NA
+J07	diphtheria-hemophilus influenzae b-pertussis-poliomyelitis-tetanus-hepatitis b	NA	NA
+J07	typhoid-hepatitis a	NA	NA
+J07	diphtheria-hemophilus influenzae b-pertussis-tetanus-hepatitis b	NA	NA
+J07	diphtheria-pertussis-poliomyelitis-tetanus-hepatitis b	NA	NA
+J07	diphtheria-hemophilus influenzae b-pertussis-tetanus-hepatitis b-meningococcus a + c	NA	NA
+L01	cyclophosphamide	NA	NA
+L01	chlorambucil	NA	NA
+L01	melphalan	NA	NA
+L01	chlormethine	NA	NA
+L01	ifosfamide	NA	NA
+L01	trofosfamide	NA	NA
+L01	prednimustine	NA	NA
+L01	bendamustine	NA	NA
+L01	busulfan	NA	NA
+L01	treosulfan	NA	NA
+L01	mannosulfan	NA	NA
+L01	thiotepa	NA	NA
+L01	triaziquone	NA	NA
+L01	carboquone	NA	NA
+L01	carmustine	GSR	P00390
+L01	lomustine	NA	NA
+L01	semustine	NA	NA
+L01	streptozocin	NA	NA
+L01	fotemustine	TXNRD1	Q16881
+L01	nimustine	NA	NA
+L01	ranimustine	NA	NA
+L01	etoglucid	NA	NA
+L01	mitobronitol	NA	NA
+L01	pipobroman	NA	NA
+L01	temozolomide	NA	NA
+L01	dacarbazine	NA	NA
+L01	methotrexate	DHFR	P00374
+L01	raltitrexed	TYMS	P04818
+L01	pemetrexed	GART	P22102
+L01	pemetrexed	DHFR	P00374
+L01	pemetrexed	ATIC	P31939
+L01	pemetrexed	TYMS	P04818
+L01	pralatrexate	PDF	Q9HBH1
+L01	pralatrexate	DHFR	P00374
+L01	pralatrexate	TYMS	P04818
+L01	mercaptopurine	HPRT1	P00492
+L01	tioguanine	NA	NA
+L01	cladribine	POLA1	P09884
+L01	cladribine	ADA	P00813
+L01	cladribine	RRM2B	Q7LG56
+L01	cladribine	RRM2	P31350
+L01	cladribine	POLE4	Q9NR33
+L01	cladribine	POLE3	Q9NRF9
+L01	cladribine	POLE2	P56282
+L01	cladribine	RRM1	P23921
+L01	cladribine	PNP	P00491
+L01	cladribine	POLE	Q07864
+L01	fludarabine	POLA1	P09884
+L01	fludarabine	RRM1	P23921
+L01	fludarabine	DCK	P27707
+L01	fludarabine	ADA	P00813
+L01	clofarabine	POLA1	P09884
+L01	clofarabine	RRM1	P23921
+L01	nelarabine	NA	NA
+L01	cytarabine	POLB	P06746
+L01	fluorouracil	TYMS	P04818
+L01	tegafur	NA	NA
+L01	carmofur	NA	NA
+L01	gemcitabine	RRM2	P31350
+L01	gemcitabine	RRM1	P23921
+L01	capecitabine	TYMS	P04818
+L01	azacitidine	DNMT1	P26358
+L01	decitabine	DNMT1	P26358
+L01	vinblastine	TUBD1	Q9UJT1
+L01	vinblastine	TUBA1A	Q71U36
+L01	vinblastine	TUBG1	P23258
+L01	vinblastine	TUBE1	Q9UJT0
+L01	vinblastine	TUBB	P07437
+L01	vincristine	TUBB	P07437
+L01	vindesine	TUBB1	Q9H4B7
+L01	vindesine	TUBB	P07437
+L01	vinorelbine	TUBB	P07437
+L01	vinflunine	NA	NA
+L01	vintafolide	NA	NA
+L01	etoposide	TOP2A	P11388
+L01	etoposide	TOP2B	Q02880
+L01	teniposide	TOP2A	P11388
+L01	teniposide	TOP2B	Q02880
+L01	demecolcine	NA	NA
+L01	paclitaxel	TUBB1	Q9H4B7
+L01	paclitaxel	MAP4	P27816
+L01	paclitaxel	BCL2	P10415
+L01	paclitaxel	MAP2	P11137
+L01	paclitaxel	MAPT	P10636
+L01	docetaxel	TUBB1	Q9H4B7
+L01	docetaxel	MAP4	P27816
+L01	docetaxel	MAP2	P11137
+L01	docetaxel	MAPT	P10636
+L01	paclitaxel poliglumex	NA	NA
+L01	cabazitaxel	TUBA4A	P68366
+L01	cabazitaxel	TUBB1	Q9H4B7
+L01	trabectedin	NA	NA
+L01	dactinomycin	NA	NA
+L01	doxorubicin	TOP2A	P11388
+L01	doxorubicin	TOP2B	Q02880
+L01	daunorubicin	TOP2A	P11388
+L01	daunorubicin	TOP2B	Q02880
+L01	epirubicin	TOP2A	P11388
+L01	epirubicin	CHD1	O14646
+L01	epirubicin	TOP2B	Q02880
+L01	aclarubicin	TOP2A	P11388
+L01	aclarubicin	TOP2B	Q02880
+L01	zorubicin	NA	NA
+L01	idarubicin	TOP2A	P11388
+L01	idarubicin	TOP2B	Q02880
+L01	mitoxantrone	TOP2A	P11388
+L01	mitoxantrone	TOP2B	Q02880
+L01	pirarubicin	NA	NA
+L01	valrubicin	TOP2A	P11388
+L01	valrubicin	TOP2B	Q02880
+L01	amrubicin	NA	NA
+L01	pixantrone	TOP2A	P11388
+L01	pixantrone	TOP2B	Q02880
+L01	bleomycin	NA	NA
+L01	plicamycin	NA	NA
+L01	mitomycin	NA	NA
+L01	ixabepilone	TUBB3	Q13509
+L01	cisplatin	NA	NA
+L01	carboplatin	NA	NA
+L01	oxaliplatin	NA	NA
+L01	satraplatin	NA	NA
+L01	polyplatillen	NA	NA
+L01	procarbazine	MAOB	P27338
+L01	procarbazine	MAOA	P21397
+L01	edrecolomab	NA	NA
+L01	rituximab	MS4A1	P11836
+L01	trastuzumab	ERBB2	P04626
+L01	gemtuzumab	NA	NA
+L01	cetuximab	EGFR	P00533
+L01	bevacizumab	VEGFA	P15692
+L01	panitumumab	EGFR	P00533
+L01	catumaxomab	NA	NA
+L01	ofatumumab	MS4A1	P11836
+L01	ipilimumab	CTLA4	P16410
+L01	brentuximab vedotin	TNFRSF8	P28908
+L01	pertuzumab	ERBB2	P04626
+L01	trastuzumab emtansine	ERBB2	P04626
+L01	obinutuzumab	MS4A1	P11836
+L01	dinutuximab	NA	NA
+L01	nivolumab	PDCD1	Q15116
+L01	pembrolizumab	PDCD1	Q15116
+L01	blinatumomab	CD3D	P04234
+L01	blinatumomab	CD19	P15391
+L01	ramucirumab	KDR	P35968
+L01	necitumumab	EGFR	P00533
+L01	elotuzumab	SLAMF7	Q9NQ25
+L01	daratumumab	CD38	P28907
+L01	mogamulizumab	CCR4	P51679
+L01	inotuzumab ozogamicin	CD22	P20273
+L01	porfimer sodium	LDLR	P01130
+L01	methyl aminolevulinate	FECH	P22830
+L01	aminolevulinic acid	ALAD	P13716
+L01	temoporfin	NA	NA
+L01	efaproxiral	NA	NA
+L01	imatinib	ABL1	P00519
+L01	imatinib	BCR/ABL fusion	A9UF02
+L01	imatinib	KIT	P10721
+L01	imatinib	RET	O43519
+L01	gefitinib	EGFR	P00533
+L01	erlotinib	NR1I2	O75469
+L01	erlotinib	EGFR	P00533
+L01	sunitinib	FLT3	P36888
+L01	sunitinib	CSF1R	P07333
+L01	sunitinib	PDGFRB	P09619
+L01	sunitinib	PDGFRA	P16234
+L01	sunitinib	KDR	P35968
+L01	sunitinib	FLT4	P35916
+L01	sunitinib	KIT	P10721
+L01	sunitinib	FLT1	P17948
+L01	sorafenib	FLT3	P36888
+L01	sorafenib	FGFR1	P11362
+L01	sorafenib	PDGFRB	P09619
+L01	sorafenib	RET	P07949
+L01	sorafenib	RAF1	P04049
+L01	sorafenib	KDR	P35968
+L01	sorafenib	FLT4	P35916
+L01	sorafenib	BRAF	P15056
+L01	sorafenib	KIT	P10721
+L01	sorafenib	FLT1	P17948
+L01	dasatinib	FYN	P06241
+L01	dasatinib	SRC	P12931
+L01	dasatinib	YES1	P07947
+L01	dasatinib	ABL1	P00519
+L01	dasatinib	EPHA2	P29317
+L01	dasatinib	LCK	P06239
+L01	lapatinib	ERBB2	P04626
+L01	lapatinib	EGFR	P00533
+L01	nilotinib	ABL1	P00519
+L01	temsirolimus	MTOR	P42345
+L01	everolimus	MTOR	P42345
+L01	pazopanib	PDGFRB	P09619
+L01	pazopanib	PDGFRA	P16234
+L01	pazopanib	KDR	P35968
+L01	pazopanib	FLT4	P35916
+L01	pazopanib	KIT	P10721
+L01	pazopanib	FLT1	P17948
+L01	vandetanib	EGFR	P00533
+L01	vandetanib	RET	P07949
+L01	vandetanib	KDR	P35968
+L01	afatinib	ERBB4	Q15303
+L01	afatinib	ERBB2	P04626
+L01	afatinib	EGFR	P00533
+L01	bosutinib	ABL1	P00519
+L01	bosutinib	SRC	P12931
+L01	bosutinib	BCR	P11274
+L01	vemurafenib	BRAF	P15056
+L01	crizotinib	MET	P08581
+L01	crizotinib	ALK	Q9UM73
+L01	crizotinib	ROS1	P08922
+L01	axitinib	FLT1	P17948
+L01	axitinib	FLT4	P35916
+L01	axitinib	KDR	P35968
+L01	ruxolitinib	JAK2	O60674
+L01	ruxolitinib	JAK1	P23458
+L01	ridaforolimus	MTOR	P42345
+L01	regorafenib	FGFR1	P11362
+L01	regorafenib	TEK	Q02763
+L01	regorafenib	PDGFRB	P09619
+L01	regorafenib	RET	P07949
+L01	regorafenib	RAF1	P04049
+L01	regorafenib	ABL1	P00519
+L01	regorafenib	EPHA2	P29317
+L01	regorafenib	PDGFRA	P16234
+L01	regorafenib	FRK	P42685
+L01	regorafenib	KDR	P35968
+L01	regorafenib	FLT4	P35916
+L01	regorafenib	BRAF	P15056
+L01	regorafenib	MAPK11	Q15759
+L01	regorafenib	FGFR2	P21802
+L01	regorafenib	DDR2	Q16832
+L01	regorafenib	KIT	P10721
+L01	regorafenib	NTRK1	P04629
+L01	regorafenib	FLT1	P17948
+L01	masitinib	NA	NA
+L01	dabrafenib	BRAF	P15056
+L01	dabrafenib	RAF1	P04049
+L01	ponatinib	ABL1	P00519
+L01	ponatinib	KIT	P10721
+L01	ponatinib	FLT3	P36888
+L01	ponatinib	RET	P07949
+L01	ponatinib	BCR	P11274
+L01	trametinib	MAP2K1	Q02750
+L01	trametinib	MAP2K2	P36507
+L01	cabozantinib	MET	P08581
+L01	cabozantinib	RET	P07949
+L01	cabozantinib	KDR	P35968
+L01	ibrutinib	BTK	Q06187
+L01	ceritinib	ALK	Q9UM73
+L01	lenvatinib	FGFR1	P11362
+L01	lenvatinib	FLT4	P35916
+L01	lenvatinib	KDR	P35968
+L01	lenvatinib	FGFR4	P22455
+L01	lenvatinib	FGFR3	P22607
+L01	lenvatinib	FGFR2	P21802
+L01	lenvatinib	KIT	P10721
+L01	lenvatinib	FLT1	P17948
+L01	nintedanib	FGFR1	P11362
+L01	nintedanib	FLT4	P35916
+L01	nintedanib	KDR	P35968
+L01	nintedanib	FGFR3	P22607
+L01	nintedanib	FGFR2	P21802
+L01	nintedanib	FLT1	P17948
+L01	cediranib	KDR	P35968
+L01	palbociclib	CDK6	Q00534
+L01	palbociclib	CDK4	P11802
+L01	tivozanib	FLT1	P17948
+L01	tivozanib	KDR	P35968
+L01	tivozanib	FLT4	P35916
+L01	osimertinib	EGFR	P00533
+L01	alectinib	ALK	Q9UM73
+L01	rociletinib	NA	NA
+L01	cobimetinib	MAP2K1	Q02750
+L01	midostaurin	FLT3	P36888
+L01	midostaurin	PDGFRB	P09619
+L01	midostaurin	PRKCG	P05129
+L01	midostaurin	PDGFRA	P16234
+L01	midostaurin	KDR	P35968
+L01	midostaurin	PRKCA	P17252
+L01	olmutinib	EGFR	P00533
+L01	amsacrine	TOP2A	P11388
+L01	amsacrine	TOP2B	Q02880
+L01	asparaginase	NA	NA
+L01	altretamine	NA	NA
+L01	hydroxycarbamide	NA	NA
+L01	lonidamine	NA	NA
+L01	pentostatin	ADA	P00813
+L01	miltefosine	PLA2G1B	P04054
+L01	masoprocol	ALOX5	P09917
+L01	masoprocol	ERBB2	P04626
+L01	estramustine	ESR2	Q92731
+L01	estramustine	ESR1	P03372
+L01	estramustine	MAP2	P11137
+L01	estramustine	MAP1A	P78559
+L01	tretinoin	RXRB	P28702
+L01	tretinoin	RXRG	P48443
+L01	tretinoin	RARG	P13631
+L01	mitoguazone	NA	NA
+L01	topotecan	TOP1	P11387
+L01	tiazofurine	NA	NA
+L01	irinotecan	TOP1	P11387
+L01	irinotecan	TOP1MT	Q969P6
+L01	alitretinoin	RXRA	P19793
+L01	alitretinoin	RXRB	P28702
+L01	alitretinoin	RARG	P13631
+L01	alitretinoin	RARB	P10826
+L01	alitretinoin	RARA	P10276
+L01	alitretinoin	RXRG	P48443
+L01	mitotane	ESR1	P03372
+L01	mitotane	CYP11B1	P15538
+L01	pegaspargase	NA	NA
+L01	bexarotene	RXRB	P28702
+L01	bexarotene	RXRA	P19793
+L01	bexarotene	RXRG	P48443
+L01	arsenic trioxide	MAPK1	P28482
+L01	arsenic trioxide	CCND1	P24385
+L01	arsenic trioxide	JUN	P05412
+L01	arsenic trioxide	MAPK3	P27361
+L01	arsenic trioxide	TXNRD1	Q16881
+L01	arsenic trioxide	IKBKB	O14920
+L01	denileukin diftitox	IL2RA	P01589
+L01	denileukin diftitox	IL2RB	P14784
+L01	denileukin diftitox	IL2RG	P31785
+L01	bortezomib	PSMB1	P20618
+L01	bortezomib	PSMB5	P28074
+L01	celecoxib	PTGS2	P35354
+L01	anagrelide	PDE3A	Q14432
+L01	oblimersen	BCL2	P10415
+L01	sitimagene ceradenovec	TK1	P04183
+L01	vorinostat	HDAC6	Q9UBN7
+L01	vorinostat	HDAC1	Q13547
+L01	vorinostat	HDAC2	Q92769
+L01	vorinostat	HDAC3	O15379
+L01	romidepsin	HDAC1	Q13547
+L01	romidepsin	HDAC2	Q92769
+L01	omacetaxine mepesuccinate	RPL3	P39023
+L01	eribulin	NA	NA
+L01	panobinostat	HDAC6	Q9UBN7
+L01	panobinostat	HDAC3	O15379
+L01	panobinostat	HDAC1	Q13547
+L01	panobinostat	HDAC11	Q96DB2
+L01	panobinostat	HDAC5	Q9UQL6
+L01	panobinostat	HDAC4	P56524
+L01	panobinostat	HDAC10	Q969S8
+L01	panobinostat	HDAC7	Q8WUI4
+L01	panobinostat	HDAC9	Q9UKV0
+L01	panobinostat	HDAC2	Q92769
+L01	panobinostat	HDAC8	Q9BY41
+L01	vismodegib	SMO	Q99835
+L01	aflibercept	PGF	P49763
+L01	aflibercept	VEGFB	P49765
+L01	aflibercept	VEGFA	P15692
+L01	carfilzomib	PSMB9	P28065
+L01	carfilzomib	PSMB1	P20618
+L01	carfilzomib	PSMB5	P28074
+L01	carfilzomib	PSMB8	P28062
+L01	carfilzomib	PSMB2	P49721
+L01	carfilzomib	PSMB10	P40306
+L01	olaparib	PARP3	Q9Y6F1
+L01	olaparib	PARP2	Q9UGN5
+L01	olaparib	PARP1	P09874
+L01	idelalisib	PIK3CD	O00329
+L01	sonidegib	NA	NA
+L01	belinostat	HDAC6	Q9UBN7
+L01	belinostat	HDAC3	O15379
+L01	belinostat	HDAC1	Q13547
+L01	belinostat	HDAC11	Q96DB2
+L01	belinostat	HDAC5	Q9UQL6
+L01	belinostat	HDAC4	P56524
+L01	belinostat	HDAC10	Q969S8
+L01	belinostat	HDAC7	Q8WUI4
+L01	belinostat	HDAC9	Q9UKV0
+L01	belinostat	HDAC2	Q92769
+L01	belinostat	HDAC8	Q9BY41
+L01	ixazomib	NA	NA
+L01	talimogene laherparepvec	CSF2	P04141
+L01	venetoclax	BCL2	P10415
+L01	vosaroxin	NA	NA
+L02	diethylstilbestrol	ESRRG	P62508
+L02	diethylstilbestrol	ESR2	Q92731
+L02	diethylstilbestrol	ESR1	P03372
+L02	polyestradiol phosphate	NA	NA
+L02	ethinylestradiol	NA	NA
+L02	fosfestrol	ESR1	P03372
+L02	megestrol	PGR	P06401
+L02	medroxyprogesterone	PGR	P06401
+L02	gestonorone	NA	NA
+L02	buserelin	LHCGR	P22888
+L02	buserelin	GNRHR	P30968
+L02	leuprorelin	NA	NA
+L02	goserelin	LHCGR	P22888
+L02	goserelin	GNRHR	P30968
+L02	triptorelin	GNRHR	P30968
+L02	histrelin	GNRHR	P30968
+L02	tamoxifen	ESR2	Q92731
+L02	tamoxifen	ESR1	P03372
+L02	toremifene	ESR1	P03372
+L02	fulvestrant	ESR1	P03372
+L02	flutamide	AR	P10275
+L02	nilutamide	AR	P10275
+L02	bicalutamide	AR	P10275
+L02	enzalutamide	AR	P10275
+L02	aminoglutethimide	CYP19A1	P11511
+L02	aminoglutethimide	CYP11A1	P05108
+L02	formestane	CYP19A1	P11511
+L02	anastrozole	CYP19A1	P11511
+L02	letrozole	CYP19A1	P11511
+L02	vorozole	CYP19A1	P11511
+L02	exemestane	CYP19A1	P11511
+L02	abarelix	GNRHR	P30968
+L02	degarelix	GNRHR	P30968
+L02	abiraterone	CYP17A1	P05093
+L03	filgrastim	CSF3R	Q99062
+L03	filgrastim	CSF1R	P07333
+L03	molgramostim	CSF2RA	P15509
+L03	sargramostim	CSF2RB	P32927
+L03	sargramostim	IL3RA	P26951
+L03	sargramostim	CSF2RA	P15509
+L03	lenograstim	CSF3R	Q99062
+L03	ancestim	NA	NA
+L03	pegfilgrastim	CSF3R	Q99062
+L03	pegfilgrastim	CSF1R	P07333
+L03	lipegfilgrastim	NA	NA
+L03	balugrastim	NA	NA
+L03	empegfilgrastim	NA	NA
+L03	interferon alfa natural	NA	NA
+L03	interferon beta natural	NA	NA
+L03	interferon gamma	NA	NA
+L03	interferon alfa-2a	NA	NA
+L03	interferon alfa-2b	IFNA2	P01563
+L03	interferon alfa-n1	IFNAR2	P48551
+L03	interferon alfa-n1	IFNAR1	P17181
+L03	interferon beta-1a	IFNAR2	P48551
+L03	interferon beta-1a	IFNAR1	P17181
+L03	interferon beta-1a	IFNB1	P01574
+L03	interferon beta-1b	IFNAR2	P48551
+L03	interferon beta-1b	IFNAR1	P17181
+L03	interferon alfacon-1	IFNAR2	P48551
+L03	interferon alfacon-1	IFNAR1	P17181
+L03	peginterferon alfa-2b	IFNAR2	P48551
+L03	peginterferon alfa-2b	IFNAR1	P17181
+L03	peginterferon alfa-2b	IFNA2	P01563
+L03	peginterferon alfa-2a	IFNAR2	P48551
+L03	peginterferon alfa-2a	IFNAR1	P17181
+L03	peginterferon alfa-2a	IFNA2	P01563
+L03	albinterferon alfa-2b	IFNA2	P01563
+L03	peginterferon beta-1a	NA	NA
+L03	cepeginterferon alfa-2b	NA	NA
+L03	aldesleukin	IL2RA	P01589
+L03	aldesleukin	IL2RB	P14784
+L03	aldesleukin	IL2RG	P31785
+L03	oprelvekin	IL11RA	Q14626
+L03	lentinan	NA	NA
+L03	roquinimex	NA	NA
+L03	bcg vaccine	NA	NA
+L03	pegademase	NA	NA
+L03	pidotimod	NA	NA
+L03	poly i:c	NA	NA
+L03	poly iclc	NA	NA
+L03	thymopentin	NA	NA
+L03	immunocyanin	NA	NA
+L03	tasonermin	NA	NA
+L03	melanoma vaccine	CTAG1B	P78358
+L03	melanoma vaccine	TYR	P14679
+L03	melanoma vaccine	MLANA	Q16655
+L03	melanoma vaccine	MAGEA3	P43357
+L03	melanoma vaccine	PMEL	P40967
+L03	melanoma vaccine	MAGEA1	P43355
+L03	glatiramer acetate	HLA-DRB1	P04229
+L03	histamine dihydrochloride	NA	NA
+L03	mifamurtide	NA	NA
+L03	plerixafor	CXCR4	P61073
+L03	sipuleucel-t	NA	NA
+L03	cridanimod	NA	NA
+L04	muromonab-cd3	NA	NA
+L04	antilymphocyte immunoglobulin	NA	NA
+L04	antithymocyte immunoglobulin	NA	NA
+L04	mycophenolic acid	IMPDH1	P20839
+L04	mycophenolic acid	IMPDH2	P12268
+L04	sirolimus	FKBP1A	P62942
+L04	sirolimus	FGF2	P09038
+L04	sirolimus	MTOR	P42345
+L04	leflunomide	DHODH	Q02127
+L04	alefacept	CD58	P19256
+L04	alefacept	CD2	P06729
+L04	everolimus	MTOR	P42345
+L04	gusperimus	NA	NA
+L04	efalizumab	ITGAL	P20701
+L04	abetimus	NA	NA
+L04	natalizumab	ITGA4	P13612
+L04	abatacept	CD80	P33681
+L04	abatacept	CD86	P42081
+L04	eculizumab	C5	P01031
+L04	belimumab	TNFSF13B	Q9Y275
+L04	fingolimod	S1PR1	P21453
+L04	fingolimod	S1PR5	Q9H228
+L04	belatacept	CD28	P10747
+L04	tofacitinib	JAK2	O60674
+L04	tofacitinib	JAK1	P23458
+L04	tofacitinib	JAK3	P52333
+L04	teriflunomide	NA	NA
+L04	apremilast	PDE4B	Q07343
+L04	apremilast	PDE4A	P27815
+L04	apremilast	PDE4D	Q08499
+L04	apremilast	PDE4C	Q08493
+L04	vedolizumab	ITGB7	P26010
+L04	vedolizumab	ITGA4	P13612
+L04	alemtuzumab	CD52	P31358
+L04	begelomab	NA	NA
+L04	ocrelizumab	MS4A1	P11836
+L04	baricitinib	JAK1	P23458
+L04	baricitinib	JAK2	O60674
+L04	etanercept	TNF	P01375
+L04	infliximab	TNF	P01375
+L04	afelimomab	NA	NA
+L04	adalimumab	TNF	P01375
+L04	certolizumab pegol	TNF	P01375
+L04	golimumab	TNF	P01375
+L04	daclizumab	IL2RA	P01589
+L04	daclizumab	IL2RB	P14784
+L04	basiliximab	IL2RA	P01589
+L04	anakinra	IL1R1	P14778
+L04	rilonacept	IL1B	P01584
+L04	ustekinumab	IL12B	P29460
+L04	ustekinumab	IL12A	P29459
+L04	ustekinumab	IL23A	Q9NPF7
+L04	tocilizumab	IL6ST	P40189
+L04	tocilizumab	IL6R	P08887
+L04	canakinumab	IL1B	P01584
+L04	briakinumab	NA	NA
+L04	secukinumab	IL17A	Q16552
+L04	siltuximab	IL6	P05231
+L04	brodalumab	NA	NA
+L04	ixekizumab	IL17A	Q16552
+L04	sarilumab	IL6ST	P40189
+L04	sarilumab	IL6R	P08887
+L04	ciclosporin	NA	NA
+L04	tacrolimus	FKBP1A	P62942
+L04	voclosporin	NA	NA
+L04	azathioprine	IMPDH1	P20839
+L04	azathioprine	HPRT1	P00492
+L04	thalidomide	CRBN	Q96SW2
+L04	thalidomide	NFKB1	P19838
+L04	thalidomide	TNF	P01375
+L04	thalidomide	FGFR2	P21802
+L04	methotrexate	DHFR	P00374
+L04	lenalidomide	TNFSF11	O14788
+L04	lenalidomide	TNF	P01375
+L04	lenalidomide	CRBN	Q96SW2
+L04	pirfenidone	TGFB1	P01137
+L04	pomalidomide	TNF	P01375
+L04	pomalidomide	PTGS2	P35354
+L04	pomalidomide	CRBN	Q96SW2
+M01	phenylbutazone	PTGIS	Q16647
+M01	phenylbutazone	PTGS1	P23219
+M01	phenylbutazone	PTGS2	P35354
+M01	mofebutazone	NA	NA
+M01	oxyphenbutazone	ALB	P02768
+M01	clofezone	NA	NA
+M01	kebuzone	NA	NA
+M01	indometacin	NA	NA
+M01	sulindac	AKR1B1	P15121
+M01	sulindac	PTGS2	P35354
+M01	tolmetin	PTGS2	P35354
+M01	zomepirac	NA	NA
+M01	diclofenac	PTGS2	P35354
+M01	diclofenac	ALOX5	P09917
+M01	diclofenac	PTGS1	P23219
+M01	diclofenac	KCNQ3	O43525
+M01	diclofenac	ASIC1	P78348
+M01	diclofenac	KCNQ2	O43526
+M01	diclofenac	SCN4A	P35499
+M01	alclofenac	PTGS2	P35354
+M01	bumadizone	NA	NA
+M01	etodolac	PTGS2	P35354
+M01	lonazolac	NA	NA
+M01	fentiazac	NA	NA
+M01	acemetacin	NA	NA
+M01	difenpiramide	NA	NA
+M01	oxametacin	PTGS1	P23219
+M01	oxametacin	PTGS2	P35354
+M01	proglumetacin	NA	NA
+M01	ketorolac	PTGS2	P35354
+M01	aceclofenac	PTGS1	P23219
+M01	aceclofenac	PTGS2	P35354
+M01	bufexamac	NA	NA
+M01	piroxicam	PTGS1	P23219
+M01	piroxicam	PTGS2	P35354
+M01	tenoxicam	PTGS2	P35354
+M01	droxicam	NA	NA
+M01	lornoxicam	PTGS1	P23219
+M01	lornoxicam	PTGS2	P35354
+M01	meloxicam	PTGS2	P35354
+M01	ibuprofen	PTGS1	P23219
+M01	ibuprofen	PTGS2	P35354
+M01	naproxen	PTGS1	P23219
+M01	naproxen	PTGS2	P35354
+M01	ketoprofen	PTGS2	P35354
+M01	fenoprofen	PTGS2	P35354
+M01	fenbufen	PTGS1	P23219
+M01	fenbufen	PTGS2	P35354
+M01	benoxaprofen	ACAT1	P24752
+M01	suprofen	PTGS1	P23219
+M01	suprofen	PTGS2	P35354
+M01	pirprofen	NA	NA
+M01	flurbiprofen	PTGS2	P35354
+M01	indoprofen	CXCR1	P25024
+M01	indoprofen	PTGS1	P23219
+M01	indoprofen	CXCR2	P25025
+M01	indoprofen	PTGS2	P35354
+M01	indoprofen	FABP1	P07148
+M01	tiaprofenic acid	PTGS1	P23219
+M01	tiaprofenic acid	PTGS2	P35354
+M01	oxaprozin	PTGS1	P23219
+M01	oxaprozin	PTGS2	P35354
+M01	ibuproxam	ALOX5	P09917
+M01	dexibuprofen	PTGS2	P35354
+M01	flunoxaprofen	NA	NA
+M01	alminoprofen	NA	NA
+M01	dexketoprofen	NA	NA
+M01	naproxcinod	NA	NA
+M01	mefenamic acid	PTGS2	P35354
+M01	tolfenamic acid	NA	NA
+M01	flufenamic acid	AKR1C3	P42330
+M01	flufenamic acid	PTGS1	P23219
+M01	flufenamic acid	AR	P10275
+M01	flufenamic acid	PTGS2	P35354
+M01	meclofenamic acid	ALOX5	P09917
+M01	meclofenamic acid	PTGS1	P23219
+M01	meclofenamic acid	PTGS2	P35354
+M01	celecoxib	PTGS2	P35354
+M01	rofecoxib	PTGS2	P35354
+M01	valdecoxib	PTGS2	P35354
+M01	parecoxib	LTF	P02788
+M01	parecoxib	PTGS2	P35354
+M01	etoricoxib	PTGS2	P35354
+M01	lumiracoxib	PTGS1	P23219
+M01	lumiracoxib	PTGS2	P35354
+M01	nabumetone	PTGS2	P35354
+M01	niflumic acid	PLA2G1B	P04054
+M01	niflumic acid	PTGS2	P35354
+M01	azapropazone	NA	NA
+M01	glucosamine	IL1B	P01584
+M01	glucosamine	MMP9	P14780
+M01	benzydamine	NA	NA
+M01	glucosaminoglycan polysulfate	NA	NA
+M01	proquazone	NA	NA
+M01	orgotein	NA	NA
+M01	nimesulide	LTF	P02788
+M01	nimesulide	PTGS2	P35354
+M01	feprazone	NA	NA
+M01	diacerein	IL1B	P01584
+M01	morniflumate	NA	NA
+M01	tenidap	ALOX5	P09917
+M01	oxaceprol	NA	NA
+M01	chondroitin sulfate	NA	NA
+M01	oxycinchophen	NA	NA
+M01	sodium aurothiomalate	NA	NA
+M01	sodium aurotiosulfate	NA	NA
+M01	auranofin	PRDX5	P30044
+M01	auranofin	IKBKB	O14920
+M01	aurothioglucose	NA	NA
+M01	aurotioprol	NA	NA
+M01	penicillamine	NA	NA
+M01	bucillamine	NA	NA
+M02	phenylbutazone	PTGIS	Q16647
+M02	phenylbutazone	PTGS1	P23219
+M02	phenylbutazone	PTGS2	P35354
+M02	mofebutazone	NA	NA
+M02	clofezone	NA	NA
+M02	oxyphenbutazone	ALB	P02768
+M02	benzydamine	NA	NA
+M02	etofenamate	NA	NA
+M02	piroxicam	PTGS1	P23219
+M02	piroxicam	PTGS2	P35354
+M02	felbinac	NA	NA
+M02	bufexamac	NA	NA
+M02	ketoprofen	PTGS2	P35354
+M02	bendazac	NA	NA
+M02	naproxen	PTGS1	P23219
+M02	naproxen	PTGS2	P35354
+M02	ibuprofen	PTGS1	P23219
+M02	ibuprofen	PTGS2	P35354
+M02	fentiazac	NA	NA
+M02	diclofenac	PTGS2	P35354
+M02	diclofenac	ALOX5	P09917
+M02	diclofenac	PTGS1	P23219
+M02	diclofenac	KCNQ3	O43525
+M02	diclofenac	ASIC1	P78348
+M02	diclofenac	KCNQ2	O43526
+M02	diclofenac	SCN4A	P35499
+M02	feprazone	NA	NA
+M02	niflumic acid	PLA2G1B	P04054
+M02	niflumic acid	PTGS2	P35354
+M02	meclofenamic acid	ALOX5	P09917
+M02	meclofenamic acid	PTGS1	P23219
+M02	meclofenamic acid	PTGS2	P35354
+M02	flurbiprofen	PTGS2	P35354
+M02	tolmetin	PTGS2	P35354
+M02	suxibuzone	NA	NA
+M02	indometacin	NA	NA
+M02	nifenazone	NA	NA
+M02	aceclofenac	PTGS1	P23219
+M02	aceclofenac	PTGS2	P35354
+M02	nimesulide	LTF	P02788
+M02	nimesulide	PTGS2	P35354
+M02	dexketoprofen	NA	NA
+M02	piketoprofen	NA	NA
+M02	capsaicin	TRPV1	Q8NER1
+M02	zucapsaicin	TRPV1	Q8NER1
+M02	tolazoline	DRD2	P14416
+M02	tolazoline	ADRA1A	P35348
+M02	dimethyl sulfoxide	NA	NA
+M02	idrocilamide	NA	NA
+M02	tolperisone	NA	NA
+M03	alcuronium	CHRNA7	P36544
+M03	tubocurarine	CHRNA2	Q15822
+M03	tubocurarine	HTR3A	P46098
+M03	dimethyltubocurarine	NA	NA
+M03	suxamethonium	NA	NA
+M03	pancuronium	CHRNA2	Q15822
+M03	gallamine	NA	NA
+M03	vecuronium	CHRNA2	Q15822
+M03	atracurium	NA	NA
+M03	hexafluronium	BCHE	P06276
+M03	pipecuronium bromide	NA	NA
+M03	doxacurium chloride	CHRNA2	Q15822
+M03	fazadinium bromide	NA	NA
+M03	rocuronium bromide	NA	NA
+M03	mivacurium chloride	NA	NA
+M03	cisatracurium	NA	NA
+M03	botulinum toxin	NA	NA
+M03	phenprobamate	NA	NA
+M03	carisoprodol	NA	NA
+M03	methocarbamol	NA	NA
+M03	styramate	NA	NA
+M03	febarbamate	NA	NA
+M03	chlormezanone	TSPO	P30536
+M03	chlorzoxazone	KCNN4	O15554
+M03	chlorzoxazone	KCNMA1	Q12791
+M03	orphenadrine	HRH1	P35367
+M03	orphenadrine	GRIN3B	O60391
+M03	orphenadrine	GRIN1	Q05586
+M03	orphenadrine	SLC6A2	P23975
+M03	orphenadrine	GRIN3A	Q8TCU5
+M03	orphenadrine	GRIN2D	O15399
+M03	baclofen	GABBR2	O75899
+M03	baclofen	GABBR1	Q9UBS5
+M03	tizanidine	ADRA2C	P18825
+M03	tizanidine	ADRA2B	P18089
+M03	pridinol	NA	NA
+M03	tolperisone	NA	NA
+M03	thiocolchicoside	GLRB	P48167
+M03	thiocolchicoside	GABRA6	Q16445
+M03	thiocolchicoside	GABRA2	P47869
+M03	thiocolchicoside	GABRP	O00591
+M03	thiocolchicoside	GABRB3	P28472
+M03	thiocolchicoside	GABRA3	P34903
+M03	thiocolchicoside	GABRB1	P18505
+M03	thiocolchicoside	GABRD	O14764
+M03	thiocolchicoside	GABRG2	P18507
+M03	thiocolchicoside	GLRA1	P23415
+M03	thiocolchicoside	GABRA5	P31644
+M03	thiocolchicoside	GABRE	P78334
+M03	thiocolchicoside	GABRG3	Q99928
+M03	thiocolchicoside	GABRQ	Q9UN88
+M03	thiocolchicoside	GABRA4	P48169
+M03	thiocolchicoside	GABRB2	P47870
+M03	thiocolchicoside	GABRA1	P14867
+M03	thiocolchicoside	GABRG1	Q8N1C3
+M03	mephenesin	NA	NA
+M03	tetrazepam	NA	NA
+M03	cyclobenzaprine	HTR2A	P28223
+M03	eperisone	NA	NA
+M03	fenyramidol	NA	NA
+M03	dantrolene	RYR2	Q92736
+M03	dantrolene	RYR1	P21817
+M03	dantrolene	RYR3	Q15413
+M04	allopurinol	XDH	P47989
+M04	tisopurine	NA	NA
+M04	febuxostat	XDH	P47989
+M04	probenecid	SLC22A8	Q8TCC7
+M04	probenecid	SLC22A6	Q4U2R8
+M04	probenecid	SLC22A11	Q9NSA0
+M04	sulfinpyrazone	ABCC1	P33527
+M04	sulfinpyrazone	ABCC2	Q92887
+M04	sulfinpyrazone	SLC22A12	Q96S37
+M04	benzbromarone	ABCC1	P33527
+M04	isobromindione	NA	NA
+M04	lesinurad	SLC22A12	Q96S37
+M04	lesinurad	SLC22A11	Q9NSA0
+M04	colchicine	TUBB1	Q9H4B7
+M04	colchicine	TUBB	P07437
+M04	cinchophen	NA	NA
+M04	urate oxidase	NA	NA
+M04	pegloticase	NA	NA
+M05	etidronic acid	PTPRS	Q13332
+M05	clodronic acid	SLC25A6	P12236
+M05	clodronic acid	SLC25A4	P12235
+M05	clodronic acid	SLC25A5	P05141
+M05	pamidronic acid	NA	NA
+M05	alendronic acid	FDPS	P14324
+M05	tiludronic acid	NA	NA
+M05	ibandronic acid	NA	NA
+M05	risedronic acid	NA	NA
+M05	zoledronic acid	GGPS1	O95749
+M05	zoledronic acid	FDPS	P14324
+M05	dibotermin alfa	NA	NA
+M05	eptotermin alfa	NA	NA
+M05	ipriflavone	NA	NA
+M05	aluminium chlorohydrate	NA	NA
+M05	strontium ranelate	NA	NA
+M05	denosumab	TNFSF11	O14788
+M05	burosumab	NA	NA
+M09	hydroquinine	NA	NA
+M09	chymopapain	NA	NA
+M09	collagenase clostridium histolyticum	NA	NA
+M09	bromelains	NA	NA
+M09	hyaluronic acid	ICAM1	P05362
+M09	hyaluronic acid	CD44	P16070
+M09	hyaluronic acid	HMMR	O75330
+M09	chondrocytes, autologous	NA	NA
+M09	ataluren	NA	NA
+M09	drisapersen	DMD	P11532
+M09	aceneuramic acid	NA	NA
+N01	diethyl ether	NA	NA
+N01	vinyl ether	NA	NA
+N01	halothane	GABRA6	Q16445
+N01	halothane	GABRA2	P47869
+N01	halothane	GABRP	O00591
+N01	halothane	GABRB3	P28472
+N01	halothane	GABRA3	P34903
+N01	halothane	GABRB1	P18505
+N01	halothane	GABRD	O14764
+N01	halothane	GABRG2	P18507
+N01	halothane	KCNK9	Q9NPC2
+N01	halothane	GABRA5	P31644
+N01	halothane	GABRE	P78334
+N01	halothane	GABRG3	Q99928
+N01	halothane	GABRQ	Q9UN88
+N01	halothane	GABRA4	P48169
+N01	halothane	GABRB2	P47870
+N01	halothane	KCNK3	O14649
+N01	halothane	GABRA1	P14867
+N01	halothane	GABRG1	Q8N1C3
+N01	chloroform	NA	NA
+N01	enflurane	GLRB	P48167
+N01	enflurane	GABRA6	Q16445
+N01	enflurane	GABRA2	P47869
+N01	enflurane	GABRP	O00591
+N01	enflurane	GABRB3	P28472
+N01	enflurane	ATP2C1	P98194
+N01	enflurane	GABRA3	P34903
+N01	enflurane	GABRB1	P18505
+N01	enflurane	GABRD	O14764
+N01	enflurane	GABRG2	P18507
+N01	enflurane	GLRA1	P23415
+N01	enflurane	GABRA5	P31644
+N01	enflurane	GABRE	P78334
+N01	enflurane	KCNA1	Q09470
+N01	enflurane	GABRG3	Q99928
+N01	enflurane	GABRQ	Q9UN88
+N01	enflurane	GRIA1	P42261
+N01	enflurane	GABRA4	P48169
+N01	enflurane	GABRB2	P47870
+N01	enflurane	GABRA1	P14867
+N01	enflurane	GABRG1	Q8N1C3
+N01	trichloroethylene	NA	NA
+N01	isoflurane	GABRA6	Q16445
+N01	isoflurane	GABRA2	P47869
+N01	isoflurane	GABRP	O00591
+N01	isoflurane	GABRB3	P28472
+N01	isoflurane	ATP2C1	P98194
+N01	isoflurane	GABRA3	P34903
+N01	isoflurane	GABRB1	P18505
+N01	isoflurane	GLRA1	P23415
+N01	isoflurane	GABRD	O14764
+N01	isoflurane	GABRG2	P18507
+N01	isoflurane	GABRA5	P31644
+N01	isoflurane	GABRE	P78334
+N01	isoflurane	KCNA1	Q09470
+N01	isoflurane	GABRG3	Q99928
+N01	isoflurane	GABRQ	Q9UN88
+N01	isoflurane	GRIA1	P42261
+N01	isoflurane	GABRA4	P48169
+N01	isoflurane	GABRB2	P47870
+N01	isoflurane	GABRA1	P14867
+N01	isoflurane	GABRG1	Q8N1C3
+N01	desflurane	GABRA6	Q16445
+N01	desflurane	GABRA2	P47869
+N01	desflurane	GABRP	O00591
+N01	desflurane	GABRB3	P28472
+N01	desflurane	ATP2C1	P98194
+N01	desflurane	GABRA3	P34903
+N01	desflurane	GABRB1	P18505
+N01	desflurane	GLRA1	P23415
+N01	desflurane	GABRD	O14764
+N01	desflurane	GABRG2	P18507
+N01	desflurane	GABRA5	P31644
+N01	desflurane	GABRE	P78334
+N01	desflurane	KCNA1	Q09470
+N01	desflurane	GABRG3	Q99928
+N01	desflurane	GABRQ	Q9UN88
+N01	desflurane	GRIA1	P42261
+N01	desflurane	GABRA4	P48169
+N01	desflurane	GABRB2	P47870
+N01	desflurane	GABRA1	P14867
+N01	desflurane	GABRG1	Q8N1C3
+N01	sevoflurane	GABRA6	Q16445
+N01	sevoflurane	GABRA2	P47869
+N01	sevoflurane	GABRP	O00591
+N01	sevoflurane	GABRB3	P28472
+N01	sevoflurane	ATP2C1	P98194
+N01	sevoflurane	GABRA3	P34903
+N01	sevoflurane	GABRB1	P18505
+N01	sevoflurane	GLRA1	P23415
+N01	sevoflurane	GABRD	O14764
+N01	sevoflurane	GABRG2	P18507
+N01	sevoflurane	GABRA5	P31644
+N01	sevoflurane	GABRE	P78334
+N01	sevoflurane	KCNA1	Q09470
+N01	sevoflurane	GABRG3	Q99928
+N01	sevoflurane	GABRQ	Q9UN88
+N01	sevoflurane	GRIA1	P42261
+N01	sevoflurane	GABRA4	P48169
+N01	sevoflurane	GABRB2	P47870
+N01	sevoflurane	GABRA1	P14867
+N01	sevoflurane	GABRG1	Q8N1C3
+N01	methohexital	GABRA1	P14867
+N01	hexobarbital	GABRA6	Q16445
+N01	hexobarbital	GABRA2	P47869
+N01	hexobarbital	GABRA3	P34903
+N01	hexobarbital	GABRA5	P31644
+N01	hexobarbital	GABRA4	P48169
+N01	hexobarbital	GABRA1	P14867
+N01	thiopental	GABRA6	Q16445
+N01	thiopental	GABRA2	P47869
+N01	thiopental	GABRA3	P34903
+N01	thiopental	GABRA5	P31644
+N01	thiopental	FAAH	O00519
+N01	thiopental	GABRA4	P48169
+N01	thiopental	GABRA1	P14867
+N01	narcobarbital	NA	NA
+N01	fentanyl	OPRD1	P41143
+N01	fentanyl	OPRM1	P35372
+N01	alfentanil	OPRM1	P35372
+N01	sufentanil	OPRM1	P35372
+N01	phenoperidine	NA	NA
+N01	anileridine	OPRM1	P35372
+N01	remifentanil	OPRM1	P35372
+N01	ketamine	GRIN3A	Q8TCU5
+N01	propanidid	NA	NA
+N01	alfaxalone	NA	NA
+N01	etomidate	GABRA6	Q16445
+N01	etomidate	GABRA2	P47869
+N01	etomidate	GABRP	O00591
+N01	etomidate	GABRB3	P28472
+N01	etomidate	GABRA3	P34903
+N01	etomidate	GABRB1	P18505
+N01	etomidate	GABRD	O14764
+N01	etomidate	GABRG2	P18507
+N01	etomidate	GABRA5	P31644
+N01	etomidate	GABRE	P78334
+N01	etomidate	GABRG3	Q99928
+N01	etomidate	GABRQ	Q9UN88
+N01	etomidate	GABRA4	P48169
+N01	etomidate	ADRA2B	P18089
+N01	etomidate	GABRB2	P47870
+N01	etomidate	GABRA1	P14867
+N01	etomidate	GABRG1	Q8N1C3
+N01	propofol	GABRA6	Q16445
+N01	propofol	GABRA2	P47869
+N01	propofol	GABRP	O00591
+N01	propofol	GABRB3	P28472
+N01	propofol	GABRA3	P34903
+N01	propofol	GABRB1	P18505
+N01	propofol	GABRD	O14764
+N01	propofol	GABRG2	P18507
+N01	propofol	GABRA5	P31644
+N01	propofol	GABRE	P78334
+N01	propofol	FAAH	O00519
+N01	propofol	GABRG3	Q99928
+N01	propofol	GABRQ	Q9UN88
+N01	propofol	GABRA4	P48169
+N01	propofol	GABRB2	P47870
+N01	propofol	GABRA1	P14867
+N01	propofol	GABRG1	Q8N1C3
+N01	hydroxybutyric acid	NA	NA
+N01	nitrous oxide	NA	NA
+N01	esketamine	NA	NA
+N01	xenon	NA	NA
+N01	metabutethamine	NA	NA
+N01	procaine	SCN10A	Q9Y5Y9
+N01	procaine	GRIN3A	Q8TCU5
+N01	procaine	SLC6A3	Q01959
+N01	procaine	HTR3A	P46098
+N01	tetracaine	RYR2	Q92736
+N01	tetracaine	RYR1	P21817
+N01	tetracaine	SCN10A	Q9Y5Y9
+N01	chloroprocaine	SCN10A	Q9Y5Y9
+N01	chloroprocaine	ATP1A1	P05023
+N01	benzocaine	SCN10A	Q9Y5Y9
+N01	benzocaine	SCN1A	P35498
+N01	bupivacaine	SCN10A	Q9Y5Y9
+N01	lidocaine	SCN10A	Q9Y5Y9
+N01	lidocaine	SCN9A	Q15858
+N01	lidocaine	SCN5A	Q14524
+N01	mepivacaine	SCN10A	Q9Y5Y9
+N01	mepivacaine	SCN1A	P35498
+N01	prilocaine	SCN5A	Q14524
+N01	butanilicaine	NA	NA
+N01	cinchocaine	SCN10A	Q9Y5Y9
+N01	cinchocaine	SCN5A	Q14524
+N01	etidocaine	NA	NA
+N01	articaine	NA	NA
+N01	ropivacaine	SCN10A	Q9Y5Y9
+N01	levobupivacaine	SCN10A	Q9Y5Y9
+N01	levobupivacaine	SCN1A	P35498
+N01	cocaine	SLC6A3	Q01959
+N01	cocaine	SLC6A4	P31645
+N01	cocaine	SCN5A	Q14524
+N01	cocaine	SLC6A2	P23975
+N01	ethyl chloride	NA	NA
+N01	dyclonine	SCN10A	Q9Y5Y9
+N01	dyclonine	SCN5A	Q14524
+N01	phenol	CA2	P00918
+N01	phenol	CA12	O43570
+N01	phenol	CA9	Q16790
+N01	phenol	CA4	P22748
+N01	phenol	CA1	P00915
+N01	capsaicin	TRPV1	Q8NER1
+N02	morphine	OPRK1	P41145
+N02	morphine	OPRD1	P41143
+N02	morphine	OPRM1	P35372
+N02	opium	NA	NA
+N02	hydromorphone	OPRK1	P41145
+N02	hydromorphone	OPRD1	P41143
+N02	hydromorphone	OPRM1	P35372
+N02	nicomorphine	NA	NA
+N02	oxycodone	OPRK1	P41145
+N02	oxycodone	OPRD1	P41143
+N02	oxycodone	OPRM1	P35372
+N02	dihydrocodeine	NA	NA
+N02	papaveretum	NA	NA
+N02	ketobemidone	OPRK1	P41145
+N02	ketobemidone	OPRD1	P41143
+N02	ketobemidone	OPRM1	P35372
+N02	pethidine	OPRK1	P41145
+N02	fentanyl	OPRD1	P41143
+N02	fentanyl	OPRM1	P35372
+N02	dextromoramide	NA	NA
+N02	piritramide	NA	NA
+N02	dextropropoxyphene	OPRK1	P41145
+N02	dextropropoxyphene	OPRD1	P41143
+N02	dextropropoxyphene	OPRM1	P35372
+N02	bezitramide	NA	NA
+N02	methadone, comb. excl. psycholeptics	NA	NA
+N02	dextropropoxyphene, comb. excl. psycholeptics	NA	NA
+N02	dextropropoxyphene, comb. with psycholeptics	NA	NA
+N02	pentazocine	OPRK1	P41145
+N02	pentazocine	SIGMAR1	Q99720
+N02	pentazocine	OPRM1	P35372
+N02	phenazocine	OPRK1	P41145
+N02	phenazocine	OPRM1	P35372
+N02	phenazocine	OPRD1	P41143
+N02	buprenorphine	OPRK1	P41145
+N02	buprenorphine	OPRM1	P35372
+N02	butorphanol	OPRK1	P41145
+N02	butorphanol	OPRD1	P41143
+N02	butorphanol	OPRM1	P35372
+N02	nalbuphine	OPRK1	P41145
+N02	nalbuphine	OPRD1	P41143
+N02	nalbuphine	OPRM1	P35372
+N02	tilidine	NA	NA
+N02	tramadol	SLC6A4	P31645
+N02	tramadol	HTR2C	P28335
+N02	tramadol	SLC6A2	P23975
+N02	tramadol	OPRM1	P35372
+N02	dezocine	OPRK1	P41145
+N02	dezocine	OPRM1	P35372
+N02	meptazinol	BCHE	P06276
+N02	tapentadol	SLC6A2	P23975
+N02	tapentadol	OPRM1	P35372
+N02	acetylsalicylic acid	PTGS1	P23219
+N02	acetylsalicylic acid	PTGS2	P35354
+N02	aloxiprin	NA	NA
+N02	choline salicylate	NA	NA
+N02	sodium salicylate	NA	NA
+N02	salicylamide	NA	NA
+N02	salsalate	PTGS1	P23219
+N02	salsalate	PTGS2	P35354
+N02	ethenzamide	NA	NA
+N02	morpholine salicylate	NA	NA
+N02	dipyrocetyl	NA	NA
+N02	benorilate	NA	NA
+N02	diflunisal	PTGS2	P35354
+N02	potassium salicylate	NA	NA
+N02	guacetisal	NA	NA
+N02	carbasalate calcium	NA	NA
+N02	imidazole salicylate	NA	NA
+N02	phenazone	NA	NA
+N02	metamizole sodium	NA	NA
+N02	aminophenazone	NA	NA
+N02	propyphenazone	NA	NA
+N02	nifenazone	NA	NA
+N02	paracetamol	NA	NA
+N02	phenacetin	NA	NA
+N02	bucetin	NA	NA
+N02	propacetamol	NA	NA
+N02	rimazolium	NA	NA
+N02	glafenine	NA	NA
+N02	floctafenine	NA	NA
+N02	viminol	NA	NA
+N02	nefopam	NA	NA
+N02	flupirtine	NA	NA
+N02	ziconotide	CACNA1B	Q00975
+N02	methoxyflurane	GABRA6	Q16445
+N02	methoxyflurane	GABRA2	P47869
+N02	methoxyflurane	GABRP	O00591
+N02	methoxyflurane	GABRB3	P28472
+N02	methoxyflurane	GABRA3	P34903
+N02	methoxyflurane	GABRB1	P18505
+N02	methoxyflurane	GABRD	O14764
+N02	methoxyflurane	GLRA1	P23415
+N02	methoxyflurane	GABRG2	P18507
+N02	methoxyflurane	GABRA5	P31644
+N02	methoxyflurane	GABRE	P78334
+N02	methoxyflurane	KCNA1	Q09470
+N02	methoxyflurane	GABRG3	Q99928
+N02	methoxyflurane	GABRQ	Q9UN88
+N02	methoxyflurane	GRIA1	P42261
+N02	methoxyflurane	GABRA4	P48169
+N02	methoxyflurane	GABRB2	P47870
+N02	methoxyflurane	GABRA1	P14867
+N02	methoxyflurane	GABRG1	Q8N1C3
+N02	cannabinoids	NA	NA
+N02	dihydroergotamine	HTR1D	P28221
+N02	dihydroergotamine	HTR1B	P28222
+N02	dihydroergotamine	DRD2	P14416
+N02	ergotamine	HTR1D	P28221
+N02	ergotamine	ADRA1B	P35368
+N02	ergotamine	ADRA1A	P35348
+N02	ergotamine	HTR2A	P28223
+N02	ergotamine	HTR1B	P28222
+N02	ergotamine	ADRA1D	P25100
+N02	methysergide	HTR2B	P41595
+N02	methysergide	HTR2C	P28335
+N02	methysergide	HTR1A	P08908
+N02	methysergide	HTR7	P34969
+N02	methysergide	HTR2A	P28223
+N02	lisuride	DRD4	P21917
+N02	lisuride	DRD3	P35462
+N02	lisuride	DRD2	P14416
+N02	lisuride	HTR2C	P28335
+N02	lisuride	HTR2A	P28223
+N02	flumedroxone	NA	NA
+N02	sumatriptan	HTR1D	P28221
+N02	sumatriptan	HTR1F	P30939
+N02	sumatriptan	HTR1A	P08908
+N02	sumatriptan	HTR1B	P28222
+N02	naratriptan	HTR1D	P28221
+N02	naratriptan	HTR1F	P30939
+N02	naratriptan	HTR1A	P08908
+N02	naratriptan	HTR1B	P28222
+N02	zolmitriptan	HTR1D	P28221
+N02	zolmitriptan	HTR1F	P30939
+N02	zolmitriptan	HTR1A	P08908
+N02	zolmitriptan	HTR1B	P28222
+N02	rizatriptan	HTR1D	P28221
+N02	rizatriptan	HTR1F	P30939
+N02	rizatriptan	HTR1B	P28222
+N02	almotriptan	NA	NA
+N02	eletriptan	HTR1D	P28221
+N02	eletriptan	HTR1F	P30939
+N02	eletriptan	HTR1B	P28222
+N02	frovatriptan	HTR1D	P28221
+N02	frovatriptan	HTR1B	P28222
+N02	pizotifen	NA	NA
+N02	clonidine	ADRA2C	P18825
+N02	clonidine	ADRA2A	P08913
+N02	clonidine	ADRA2B	P18089
+N02	iprazochrome	NA	NA
+N02	dimetotiazine	NA	NA
+N02	oxetorone	NA	NA
+N03	methylphenobarbital	GABRA6	Q16445
+N03	methylphenobarbital	GABRA2	P47869
+N03	methylphenobarbital	GABRA3	P34903
+N03	methylphenobarbital	GABRA5	P31644
+N03	methylphenobarbital	GABRA4	P48169
+N03	methylphenobarbital	GABRA1	P14867
+N03	phenobarbital	GABRA1	P14867
+N03	primidone	GABRA6	Q16445
+N03	primidone	GABRA2	P47869
+N03	primidone	GABRP	O00591
+N03	primidone	GABRB3	P28472
+N03	primidone	GABRA3	P34903
+N03	primidone	GABRB1	P18505
+N03	primidone	GABRD	O14764
+N03	primidone	GABRG2	P18507
+N03	primidone	GABRA5	P31644
+N03	primidone	GABRE	P78334
+N03	primidone	GABRG3	Q99928
+N03	primidone	GABRQ	Q9UN88
+N03	primidone	GABRA4	P48169
+N03	primidone	GABRB2	P47870
+N03	primidone	GABRA1	P14867
+N03	primidone	GABRG1	Q8N1C3
+N03	barbexaclone	NA	NA
+N03	metharbital	GABRA6	Q16445
+N03	metharbital	GABRA2	P47869
+N03	metharbital	GABRP	O00591
+N03	metharbital	GABRB3	P28472
+N03	metharbital	GABRA3	P34903
+N03	metharbital	GABRB1	P18505
+N03	metharbital	GABRD	O14764
+N03	metharbital	GABRG2	P18507
+N03	metharbital	GABRA5	P31644
+N03	metharbital	GABRE	P78334
+N03	metharbital	GABRG3	Q99928
+N03	metharbital	GABRQ	Q9UN88
+N03	metharbital	GABRA4	P48169
+N03	metharbital	GABRB2	P47870
+N03	metharbital	GABRA1	P14867
+N03	metharbital	GABRG1	Q8N1C3
+N03	ethotoin	SCN5A	Q14524
+N03	phenytoin	SCN5A	Q14524
+N03	phenytoin	SCN1A	P35498
+N03	amino(diphenylhydantoin) valeric acid	NA	NA
+N03	mephenytoin	SCN5A	Q14524
+N03	fosphenytoin	SCN5A	Q14524
+N03	paramethadione	CACNA1G	O43497
+N03	paramethadione	CACNA1I	Q9P0X4
+N03	trimethadione	CACNA1G	O43497
+N03	ethadione	NA	NA
+N03	ethosuximide	CACNA1G	O43497
+N03	phensuximide	NA	NA
+N03	mesuximide	NA	NA
+N03	clonazepam	GABRA6	Q16445
+N03	clonazepam	GABRA2	P47869
+N03	clonazepam	GABRP	O00591
+N03	clonazepam	GABRB3	P28472
+N03	clonazepam	GABRA3	P34903
+N03	clonazepam	GABRB1	P18505
+N03	clonazepam	GABRD	O14764
+N03	clonazepam	GABRG2	P18507
+N03	clonazepam	GABRA5	P31644
+N03	clonazepam	GABRE	P78334
+N03	clonazepam	GABRG3	Q99928
+N03	clonazepam	GABRQ	Q9UN88
+N03	clonazepam	GABRA4	P48169
+N03	clonazepam	GABRB2	P47870
+N03	clonazepam	GABRA1	P14867
+N03	clonazepam	GABRG1	Q8N1C3
+N03	carbamazepine	SCN5A	Q14524
+N03	carbamazepine	SCN1A	P35498
+N03	oxcarbazepine	SCN5A	Q14524
+N03	rufinamide	SCN1A	P35498
+N03	eslicarbazepine	SCN1A	P35498
+N03	valproic acid	ABAT	P80404
+N03	valproic acid	HDAC9	Q9UKV0
+N03	valpromide	NA	NA
+N03	aminobutyric acid	NA	NA
+N03	vigabatrin	ABAT	P80404
+N03	vigabatrin	GABBR1	Q9UBS5
+N03	progabide	GABBR2	O75899
+N03	progabide	GABBR1	Q9UBS5
+N03	progabide	GABRA1	P14867
+N03	tiagabine	SLC6A1	P30531
+N03	sultiame	NA	NA
+N03	phenacemide	SCN1A	P35498
+N03	lamotrigine	NA	NA
+N03	felbamate	GRIN3A	Q8TCU5
+N03	felbamate	GRIN2A	Q12879
+N03	felbamate	GRIN2B	Q13224
+N03	topiramate	GRIK1	P39086
+N03	topiramate	GABRA6	Q16445
+N03	topiramate	GABRA2	P47869
+N03	topiramate	CA2	P00918
+N03	topiramate	GABRB3	P28472
+N03	topiramate	GABRP	O00591
+N03	topiramate	GABRA3	P34903
+N03	topiramate	GABRB1	P18505
+N03	topiramate	GABRD	O14764
+N03	topiramate	GABRG2	P18507
+N03	topiramate	CA4	P22748
+N03	topiramate	GABRA5	P31644
+N03	topiramate	GABRE	P78334
+N03	topiramate	GABRG3	Q99928
+N03	topiramate	GABRQ	Q9UN88
+N03	topiramate	GABRA4	P48169
+N03	topiramate	GABRB2	P47870
+N03	topiramate	GABRA1	P14867
+N03	topiramate	SCN1A	P35498
+N03	topiramate	GABRG1	Q8N1C3
+N03	gabapentin	CACNA1B	Q00975
+N03	gabapentin	GABBR2	O75899
+N03	gabapentin	CACNA2D1	P54289
+N03	gabapentin	CACNA2D2	Q9NY47
+N03	pheneturide	NA	NA
+N03	levetiracetam	CACNA1B	Q00975
+N03	levetiracetam	SV2A	Q7L0J3
+N03	zonisamide	SCN2A	Q99250
+N03	zonisamide	SCN2B	O60939
+N03	zonisamide	SCN9A	Q15858
+N03	zonisamide	CACNA1H	O95180
+N03	zonisamide	CACNA1I	Q9P0X4
+N03	zonisamide	SCN3A	Q9NY46
+N03	zonisamide	CACNA1G	O43497
+N03	zonisamide	SCN11A	Q9UI33
+N03	zonisamide	SCN5A	Q14524
+N03	zonisamide	SCN1B	Q07699
+N03	zonisamide	SCN3B	Q9NY72
+N03	zonisamide	SCN1A	P35498
+N03	zonisamide	SCN4A	P35499
+N03	zonisamide	SCN4B	Q8IWT1
+N03	pregabalin	CACNA1A	O00555
+N03	pregabalin	CACNG1	Q06432
+N03	pregabalin	CACNA2D1	P54289
+N03	stiripentol	LDHB	P07195
+N03	stiripentol	GABRA6	Q16445
+N03	stiripentol	GABRA2	P47869
+N03	stiripentol	GABRP	O00591
+N03	stiripentol	GABRB3	P28472
+N03	stiripentol	GABRA3	P34903
+N03	stiripentol	GABRB1	P18505
+N03	stiripentol	LDHA	P00338
+N03	stiripentol	GABRD	O14764
+N03	stiripentol	GABRG2	P18507
+N03	stiripentol	GABRA5	P31644
+N03	stiripentol	GABRE	P78334
+N03	stiripentol	GABRG3	Q99928
+N03	stiripentol	GABRQ	Q9UN88
+N03	stiripentol	GABRA4	P48169
+N03	stiripentol	GABRB2	P47870
+N03	stiripentol	GABRA1	P14867
+N03	stiripentol	GABRG1	Q8N1C3
+N03	lacosamide	NA	NA
+N03	carisbamate	SCN1A	P35498
+N03	retigabine	KCNQ3	O43525
+N03	perampanel	GRIA1	P42261
+N03	brivaracetam	SCN2A	Q99250
+N03	brivaracetam	SCN2B	O60939
+N03	brivaracetam	SCN9A	Q15858
+N03	brivaracetam	SCN7A	Q01118
+N03	brivaracetam	SCN4B	Q8IWT1
+N03	brivaracetam	SCN3A	Q9NY46
+N03	brivaracetam	SCN11A	Q9UI33
+N03	brivaracetam	SV2A	Q7L0J3
+N03	brivaracetam	SCN5A	Q14524
+N03	brivaracetam	SCN1B	Q07699
+N03	brivaracetam	SCN10A	Q9Y5Y9
+N03	brivaracetam	SCN3B	Q9NY72
+N03	brivaracetam	SCN1A	P35498
+N03	brivaracetam	SCN4A	P35499
+N03	brivaracetam	SCN8A	Q9UQD0
+N03	beclamide	NA	NA
+N04	trihexyphenidyl	CHRM1	P11229
+N04	biperiden	CHRNA2	Q15822
+N04	biperiden	CHRM1	P11229
+N04	metixene	CHRM1	P11229
+N04	metixene	CHRM5	P08912
+N04	metixene	CHRM4	P08173
+N04	procyclidine	CHRM1	P11229
+N04	procyclidine	CHRM4	P08173
+N04	procyclidine	CHRM2	P08172
+N04	procyclidine	CHRM3	P20309
+N04	profenamine	NA	NA
+N04	dexetimide	NA	NA
+N04	phenglutarimide	NA	NA
+N04	mazaticol	NA	NA
+N04	bornaprine	NA	NA
+N04	tropatepine	NA	NA
+N04	etanautine	NA	NA
+N04	orphenadrine	HRH1	P35367
+N04	orphenadrine	GRIN3B	O60391
+N04	orphenadrine	GRIN1	Q05586
+N04	orphenadrine	SLC6A2	P23975
+N04	orphenadrine	GRIN3A	Q8TCU5
+N04	orphenadrine	GRIN2D	O15399
+N04	benzatropine	SLC6A3	Q01959
+N04	benzatropine	CHRM1	P11229
+N04	etybenzatropine	NA	NA
+N04	levodopa	DRD4	P21917
+N04	levodopa	DRD5	P21918
+N04	levodopa	DRD3	P35462
+N04	levodopa	DRD1	P21728
+N04	levodopa	DRD2	P14416
+N04	melevodopa	NA	NA
+N04	amantadine	GRIN3A	Q8TCU5
+N04	amantadine	DRD2	P14416
+N04	bromocriptine	DRD3	P35462
+N04	bromocriptine	DRD2	P14416
+N04	pergolide	DRD3	P35462
+N04	pergolide	DRD1	P21728
+N04	pergolide	DRD2	P14416
+N04	dihydroergocryptine mesylate	NA	NA
+N04	ropinirole	DRD3	P35462
+N04	ropinirole	DRD2	P14416
+N04	pramipexole	DRD4	P21917
+N04	pramipexole	DRD3	P35462
+N04	pramipexole	DRD2	P14416
+N04	cabergoline	DRD2	P14416
+N04	apomorphine	DRD4	P21917
+N04	apomorphine	DRD3	P35462
+N04	apomorphine	DRD2	P14416
+N04	piribedil	HTR1A	P08908
+N04	piribedil	ADRA2C	P18825
+N04	piribedil	DRD2	P14416
+N04	piribedil	DRD4	P21917
+N04	piribedil	HTR2B	P41595
+N04	piribedil	DRD3	P35462
+N04	rotigotine	DRD4	P21917
+N04	rotigotine	DRD3	P35462
+N04	rotigotine	DRD2	P14416
+N04	selegiline	MAOB	P27338
+N04	rasagiline	MAOB	P27338
+N04	rasagiline	BCL2	P10415
+N04	safinamide	MAOB	P27338
+N04	tolcapone	COMT	P21964
+N04	entacapone	COMT	P21964
+N04	budipine	NA	NA
+N05	chlorpromazine	DRD1	P21728
+N05	chlorpromazine	HTR1A	P08908
+N05	chlorpromazine	HRH1	P35367
+N05	chlorpromazine	ADRA1B	P35368
+N05	chlorpromazine	HTR2A	P28223
+N05	chlorpromazine	ADRA1A	P35348
+N05	chlorpromazine	DRD2	P14416
+N05	levomepromazine	DRD2	P14416
+N05	promazine	CHRM4	P08173
+N05	promazine	DRD2	P14416
+N05	acepromazine	DRD2	P14416
+N05	acepromazine	DRD1	P21728
+N05	acepromazine	HTR1A	P08908
+N05	acepromazine	HTR2A	P28223
+N05	triflupromazine	HTR2B	P41595
+N05	triflupromazine	CHRM1	P11229
+N05	triflupromazine	DRD1	P21728
+N05	triflupromazine	CHRM2	P08172
+N05	triflupromazine	DRD2	P14416
+N05	cyamemazine	HTR2C	P28335
+N05	cyamemazine	HTR1A	P08908
+N05	cyamemazine	HTR7	P34969
+N05	cyamemazine	HTR2A	P28223
+N05	chlorproethazine	NA	NA
+N05	dixyrazine	NA	NA
+N05	fluphenazine	DRD1	P21728
+N05	fluphenazine	HTR1B	P28222
+N05	fluphenazine	DRD2	P14416
+N05	perphenazine	DRD1	P21728
+N05	perphenazine	DRD2	P14416
+N05	prochlorperazine	DRD2	P14416
+N05	thiopropazate	NA	NA
+N05	trifluoperazine	DRD2	P14416
+N05	trifluoperazine	CALY	Q9NYX4
+N05	trifluoperazine	ADRA1A	P35348
+N05	acetophenazine	DRD1	P21728
+N05	acetophenazine	DRD2	P14416
+N05	thioproperazine	ADRA1A	P35348
+N05	thioproperazine	DRD2	P14416
+N05	thioproperazine	ADRA1B	P35368
+N05	thioproperazine	HTR1A	P08908
+N05	thioproperazine	HTR2A	P28223
+N05	butaperazine	NA	NA
+N05	perazine	DRD2	P14416
+N05	periciazine	NA	NA
+N05	thioridazine	ADRA1A	P35348
+N05	thioridazine	DRD2	P14416
+N05	thioridazine	ADRA1B	P35368
+N05	thioridazine	DRD1	P21728
+N05	thioridazine	HTR2A	P28223
+N05	mesoridazine	DRD2	P14416
+N05	mesoridazine	HTR2A	P28223
+N05	pipotiazine	DRD2	P14416
+N05	pipotiazine	DRD1	P21728
+N05	pipotiazine	HTR1A	P08908
+N05	pipotiazine	HTR2A	P28223
+N05	haloperidol	DRD2	P14416
+N05	trifluperidol	NA	NA
+N05	melperone	NA	NA
+N05	moperone	NA	NA
+N05	pipamperone	NA	NA
+N05	bromperidol	NA	NA
+N05	benperidol	NA	NA
+N05	droperidol	DRD2	P14416
+N05	droperidol	ADRA1A	P35348
+N05	fluanisone	HTR2A	P28223
+N05	fluanisone	ADRA1A	P35348
+N05	fluanisone	ADRA1B	P35368
+N05	fluanisone	ADRA1D	P25100
+N05	fluanisone	DRD2	P14416
+N05	oxypertine	NA	NA
+N05	molindone	DRD2	P14416
+N05	sertindole	DRD2	P14416
+N05	sertindole	HTR2C	P28335
+N05	sertindole	HTR6	P50406
+N05	sertindole	HTR2A	P28223
+N05	ziprasidone	DRD2	P14416
+N05	ziprasidone	HTR2A	P28223
+N05	lurasidone	DRD2	P14416
+N05	lurasidone	HTR2A	P28223
+N05	flupentixol	ADRA1A	P35348
+N05	flupentixol	DRD2	P14416
+N05	flupentixol	DRD1	P21728
+N05	flupentixol	HTR2A	P28223
+N05	clopenthixol	NA	NA
+N05	chlorprothixene	DRD1	P21728
+N05	chlorprothixene	DRD2	P14416
+N05	chlorprothixene	HTR2A	P28223
+N05	chlorprothixene	HTR2B	P41595
+N05	chlorprothixene	DRD3	P35462
+N05	chlorprothixene	HTR2C	P28335
+N05	tiotixene	NA	NA
+N05	zuclopenthixol	DRD5	P21918
+N05	zuclopenthixol	DRD1	P21728
+N05	zuclopenthixol	DRD2	P14416
+N05	fluspirilene	DRD2	P14416
+N05	pimozide	KCNH2	Q12809
+N05	pimozide	DRD3	P35462
+N05	pimozide	DRD2	P14416
+N05	penfluridol	CACNA1G	O43497
+N05	loxapine	DRD2	P14416
+N05	loxapine	HTR2A	P28223
+N05	clozapine	DRD2	P14416
+N05	clozapine	DRD4	P21917
+N05	clozapine	HTR2A	P28223
+N05	olanzapine	DRD2	P14416
+N05	olanzapine	HTR2A	P28223
+N05	quetiapine	DRD2	P14416
+N05	quetiapine	HTR2A	P28223
+N05	asenapine	DRD2	P14416
+N05	asenapine	HTR2A	P28223
+N05	clotiapine	NA	NA
+N05	sulpiride	DRD2	P14416
+N05	sultopride	NA	NA
+N05	tiapride	HTR3E	A5X5Y0
+N05	tiapride	HTR1B	P28222
+N05	tiapride	DRD3	P35462
+N05	tiapride	HTR2C	P28335
+N05	tiapride	ADRA2A	P08913
+N05	tiapride	DRD2	P14416
+N05	tiapride	HTR2A	P28223
+N05	tiapride	ADRA1A	P35348
+N05	tiapride	HTR1E	P28566
+N05	tiapride	HTR4	Q13639
+N05	tiapride	HTR1F	P30939
+N05	tiapride	ADRA1B	P35368
+N05	tiapride	ADRA2C	P18825
+N05	tiapride	HTR6	P50406
+N05	tiapride	HTR3A	P46098
+N05	tiapride	ADRA1D	P25100
+N05	tiapride	HTR2B	P41595
+N05	tiapride	HTR3D	Q70Z44
+N05	tiapride	HTR1D	P28221
+N05	tiapride	HRH1	P35367
+N05	tiapride	HTR1A	P08908
+N05	tiapride	HTR3B	O95264
+N05	tiapride	HTR3C	Q8WXA8
+N05	tiapride	ADRA2B	P18089
+N05	tiapride	HTR7	P34969
+N05	remoxipride	DRD2	P14416
+N05	amisulpride	HTR7	P34969
+N05	amisulpride	DRD2	P14416
+N05	veralipride	NA	NA
+N05	levosulpiride	NA	NA
+N05	lithium	NA	NA
+N05	prothipendyl	NA	NA
+N05	risperidone	DRD2	P14416
+N05	risperidone	HTR2A	P28223
+N05	mosapramine	NA	NA
+N05	zotepine	HTR2A	P28223
+N05	aripiprazole	DRD2	P14416
+N05	aripiprazole	HTR2A	P28223
+N05	paliperidone	DRD4	P21917
+N05	paliperidone	DRD3	P35462
+N05	paliperidone	DRD2	P14416
+N05	paliperidone	HTR2C	P28335
+N05	paliperidone	HTR2A	P28223
+N05	iloperidone	DRD2	P14416
+N05	iloperidone	HTR2A	P28223
+N05	cariprazine	HTR1A	P08908
+N05	cariprazine	HRH1	P35367
+N05	cariprazine	DRD2	P14416
+N05	cariprazine	HTR2A	P28223
+N05	cariprazine	HTR2B	P41595
+N05	cariprazine	DRD3	P35462
+N05	brexpiprazole	DRD2	P14416
+N05	brexpiprazole	ADRA1B	P35368
+N05	brexpiprazole	ADRA2C	P18825
+N05	brexpiprazole	HTR1A	P08908
+N05	brexpiprazole	HTR2A	P28223
+N05	pimavanserin	HTR2A	P28223
+N05	diazepam	GABRA6	Q16445
+N05	diazepam	GABRA2	P47869
+N05	diazepam	GABRP	O00591
+N05	diazepam	GABRB3	P28472
+N05	diazepam	GABRR3	A8MPY1
+N05	diazepam	GABRA3	P34903
+N05	diazepam	GABRB1	P18505
+N05	diazepam	GABRG2	P18507
+N05	diazepam	GABRD	O14764
+N05	diazepam	GABRA5	P31644
+N05	diazepam	GABRE	P78334
+N05	diazepam	GABRG3	Q99928
+N05	diazepam	GABRR1	P24046
+N05	diazepam	GABRQ	Q9UN88
+N05	diazepam	TSPO	P30536
+N05	diazepam	GABRA4	P48169
+N05	diazepam	GABRB2	P47870
+N05	diazepam	GABRA1	P14867
+N05	diazepam	GABRR2	P28476
+N05	diazepam	GABRG1	Q8N1C3
+N05	chlordiazepoxide	GABRA6	Q16445
+N05	chlordiazepoxide	GABRA2	P47869
+N05	chlordiazepoxide	GABRP	O00591
+N05	chlordiazepoxide	GABRB3	P28472
+N05	chlordiazepoxide	GABRA3	P34903
+N05	chlordiazepoxide	GABRB1	P18505
+N05	chlordiazepoxide	GABRD	O14764
+N05	chlordiazepoxide	GABRG2	P18507
+N05	chlordiazepoxide	GABRA5	P31644
+N05	chlordiazepoxide	GABRE	P78334
+N05	chlordiazepoxide	GABRG3	Q99928
+N05	chlordiazepoxide	GABRQ	Q9UN88
+N05	chlordiazepoxide	TSPO	P30536
+N05	chlordiazepoxide	GABRA4	P48169
+N05	chlordiazepoxide	GABRB2	P47870
+N05	chlordiazepoxide	GABRA1	P14867
+N05	chlordiazepoxide	GABRG1	Q8N1C3
+N05	medazepam	NA	NA
+N05	oxazepam	GABRA6	Q16445
+N05	oxazepam	GABRA2	P47869
+N05	oxazepam	GABRP	O00591
+N05	oxazepam	GABRB3	P28472
+N05	oxazepam	GABRR3	A8MPY1
+N05	oxazepam	GABRA3	P34903
+N05	oxazepam	GABRB1	P18505
+N05	oxazepam	GABRG2	P18507
+N05	oxazepam	GABRD	O14764
+N05	oxazepam	GABRA5	P31644
+N05	oxazepam	GABRE	P78334
+N05	oxazepam	GABRG3	Q99928
+N05	oxazepam	GABRR1	P24046
+N05	oxazepam	GABRQ	Q9UN88
+N05	oxazepam	TSPO	P30536
+N05	oxazepam	GABRA4	P48169
+N05	oxazepam	GABRB2	P47870
+N05	oxazepam	GABRA1	P14867
+N05	oxazepam	GABRR2	P28476
+N05	oxazepam	GABRG1	Q8N1C3
+N05	potassium clorazepate	NA	NA
+N05	lorazepam	GABRA6	Q16445
+N05	lorazepam	GABRA2	P47869
+N05	lorazepam	GABRP	O00591
+N05	lorazepam	GABRB3	P28472
+N05	lorazepam	GABRA3	P34903
+N05	lorazepam	GABRB1	P18505
+N05	lorazepam	GABRD	O14764
+N05	lorazepam	GABRG2	P18507
+N05	lorazepam	GABRA5	P31644
+N05	lorazepam	GABRE	P78334
+N05	lorazepam	GABRG3	Q99928
+N05	lorazepam	GABRQ	Q9UN88
+N05	lorazepam	TSPO	P30536
+N05	lorazepam	GABRA4	P48169
+N05	lorazepam	GABRB2	P47870
+N05	lorazepam	GABRA1	P14867
+N05	lorazepam	GABRG1	Q8N1C3
+N05	adinazolam	GABRA2	P47869
+N05	adinazolam	GABRP	O00591
+N05	adinazolam	GABRB3	P28472
+N05	adinazolam	GABRR3	A8MPY1
+N05	adinazolam	GABRA3	P34903
+N05	adinazolam	GABRB1	P18505
+N05	adinazolam	GABRG2	P18507
+N05	adinazolam	GABRD	O14764
+N05	adinazolam	GABRA5	P31644
+N05	adinazolam	GABRE	P78334
+N05	adinazolam	GABRG3	Q99928
+N05	adinazolam	GABRR1	P24046
+N05	adinazolam	TSPO	P30536
+N05	adinazolam	GABRB2	P47870
+N05	adinazolam	GABRA1	P14867
+N05	adinazolam	GABRR2	P28476
+N05	adinazolam	GABRG1	Q8N1C3
+N05	bromazepam	GABRA6	Q16445
+N05	bromazepam	GABRA2	P47869
+N05	bromazepam	GABRP	O00591
+N05	bromazepam	GABRB3	P28472
+N05	bromazepam	GABRR3	A8MPY1
+N05	bromazepam	GABRA3	P34903
+N05	bromazepam	GABRB1	P18505
+N05	bromazepam	GABRG2	P18507
+N05	bromazepam	GABRD	O14764
+N05	bromazepam	GABRA5	P31644
+N05	bromazepam	GABRE	P78334
+N05	bromazepam	GABRG3	Q99928
+N05	bromazepam	GABRR1	P24046
+N05	bromazepam	GABRQ	Q9UN88
+N05	bromazepam	GABRA4	P48169
+N05	bromazepam	GABRB2	P47870
+N05	bromazepam	GABRA1	P14867
+N05	bromazepam	GABRR2	P28476
+N05	bromazepam	GABRG1	Q8N1C3
+N05	clobazam	GABRA6	Q16445
+N05	clobazam	GABRA2	P47869
+N05	clobazam	GABRP	O00591
+N05	clobazam	GABRB3	P28472
+N05	clobazam	GABRA3	P34903
+N05	clobazam	GABRB1	P18505
+N05	clobazam	GABRD	O14764
+N05	clobazam	GABRG2	P18507
+N05	clobazam	GABRA5	P31644
+N05	clobazam	GABRE	P78334
+N05	clobazam	GABRG3	Q99928
+N05	clobazam	GABRQ	Q9UN88
+N05	clobazam	GABRA4	P48169
+N05	clobazam	GABRB2	P47870
+N05	clobazam	GABRA1	P14867
+N05	clobazam	GABRG1	Q8N1C3
+N05	ketazolam	GABRD	O14764
+N05	ketazolam	GABRB1	P18505
+N05	ketazolam	GABRE	P78334
+N05	ketazolam	TSPO	P30536
+N05	ketazolam	GABRA1	P14867
+N05	ketazolam	GABRG1	Q8N1C3
+N05	prazepam	GABRA6	Q16445
+N05	prazepam	GABRA2	P47869
+N05	prazepam	GABRP	O00591
+N05	prazepam	GABRB3	P28472
+N05	prazepam	GABRR3	A8MPY1
+N05	prazepam	GABRA3	P34903
+N05	prazepam	GABRB1	P18505
+N05	prazepam	GABRG2	P18507
+N05	prazepam	GABRD	O14764
+N05	prazepam	GABRA5	P31644
+N05	prazepam	GABRE	P78334
+N05	prazepam	GABRG3	Q99928
+N05	prazepam	GABRR1	P24046
+N05	prazepam	GABRQ	Q9UN88
+N05	prazepam	TSPO	P30536
+N05	prazepam	GABRA4	P48169
+N05	prazepam	GABRB2	P47870
+N05	prazepam	GABRA1	P14867
+N05	prazepam	GABRR2	P28476
+N05	prazepam	GABRG1	Q8N1C3
+N05	alprazolam	GABRA6	Q16445
+N05	alprazolam	GABRA2	P47869
+N05	alprazolam	GABRP	O00591
+N05	alprazolam	GABRB3	P28472
+N05	alprazolam	GABRA3	P34903
+N05	alprazolam	GABRB1	P18505
+N05	alprazolam	GABRD	O14764
+N05	alprazolam	GABRG2	P18507
+N05	alprazolam	GABRA5	P31644
+N05	alprazolam	GABRE	P78334
+N05	alprazolam	GABRG3	Q99928
+N05	alprazolam	GABRQ	Q9UN88
+N05	alprazolam	TSPO	P30536
+N05	alprazolam	GABRA4	P48169
+N05	alprazolam	GABRB2	P47870
+N05	alprazolam	GABRA1	P14867
+N05	alprazolam	GABRG1	Q8N1C3
+N05	halazepam	GABRA6	Q16445
+N05	halazepam	GABRA2	P47869
+N05	halazepam	GABRP	O00591
+N05	halazepam	GABRB3	P28472
+N05	halazepam	GABRR3	A8MPY1
+N05	halazepam	GABRA3	P34903
+N05	halazepam	GABRB1	P18505
+N05	halazepam	GABRG2	P18507
+N05	halazepam	GABRD	O14764
+N05	halazepam	GABRA5	P31644
+N05	halazepam	GABRE	P78334
+N05	halazepam	GABRG3	Q99928
+N05	halazepam	GABRR1	P24046
+N05	halazepam	GABRQ	Q9UN88
+N05	halazepam	TSPO	P30536
+N05	halazepam	GABRA4	P48169
+N05	halazepam	GABRB2	P47870
+N05	halazepam	GABRA1	P14867
+N05	halazepam	GABRR2	P28476
+N05	halazepam	GABRG1	Q8N1C3
+N05	pinazepam	NA	NA
+N05	camazepam	NA	NA
+N05	nordazepam	NA	NA
+N05	fludiazepam	GABRA2	P47869
+N05	fludiazepam	GABRP	O00591
+N05	fludiazepam	GABRB3	P28472
+N05	fludiazepam	GABRR3	A8MPY1
+N05	fludiazepam	GABRA3	P34903
+N05	fludiazepam	GABRB1	P18505
+N05	fludiazepam	GABRG2	P18507
+N05	fludiazepam	GABRD	O14764
+N05	fludiazepam	GABRA5	P31644
+N05	fludiazepam	GABRE	P78334
+N05	fludiazepam	GABRG3	Q99928
+N05	fludiazepam	GABRR1	P24046
+N05	fludiazepam	TSPO	P30536
+N05	fludiazepam	GABRB2	P47870
+N05	fludiazepam	GABRA1	P14867
+N05	fludiazepam	GABRR2	P28476
+N05	fludiazepam	GABRG1	Q8N1C3
+N05	ethyl loflazepate	NA	NA
+N05	etizolam	GABRA3	P34903
+N05	etizolam	GABRG2	P18507
+N05	etizolam	GABRA2	P47869
+N05	etizolam	GABRA1	P14867
+N05	clotiazepam	GABRA2	P47869
+N05	clotiazepam	GABRP	O00591
+N05	clotiazepam	GABRB3	P28472
+N05	clotiazepam	GABRR3	A8MPY1
+N05	clotiazepam	GABRA3	P34903
+N05	clotiazepam	GABRB1	P18505
+N05	clotiazepam	GABRG2	P18507
+N05	clotiazepam	GABRD	O14764
+N05	clotiazepam	GABRA5	P31644
+N05	clotiazepam	GABRE	P78334
+N05	clotiazepam	GABRG3	Q99928
+N05	clotiazepam	GABRR1	P24046
+N05	clotiazepam	TSPO	P30536
+N05	clotiazepam	GABRB2	P47870
+N05	clotiazepam	GABRA1	P14867
+N05	clotiazepam	GABRR2	P28476
+N05	clotiazepam	GABRG1	Q8N1C3
+N05	cloxazolam	NA	NA
+N05	tofisopam	NA	NA
+N05	bentazepam	NA	NA
+N05	hydroxyzine	HRH1	P35367
+N05	captodiame	SIGMAR1	Q99720
+N05	captodiame	DRD3	P35462
+N05	captodiame	HTR2C	P28335
+N05	meprobamate	GABRA6	Q16445
+N05	meprobamate	GABRA2	P47869
+N05	meprobamate	GABRP	O00591
+N05	meprobamate	GABRB3	P28472
+N05	meprobamate	GABRA3	P34903
+N05	meprobamate	GABRB1	P18505
+N05	meprobamate	GABRD	O14764
+N05	meprobamate	GABRG2	P18507
+N05	meprobamate	GABRA5	P31644
+N05	meprobamate	GABRE	P78334
+N05	meprobamate	GABRG3	Q99928
+N05	meprobamate	GABRQ	Q9UN88
+N05	meprobamate	GABRA4	P48169
+N05	meprobamate	GABRB2	P47870
+N05	meprobamate	GABRA1	P14867
+N05	meprobamate	GABRG1	Q8N1C3
+N05	emylcamate	NA	NA
+N05	mebutamate	NA	NA
+N05	benzoctamine	NA	NA
+N05	buspirone	HTR1A	P08908
+N05	buspirone	DRD2	P14416
+N05	mephenoxalone	NA	NA
+N05	gedocarnil	NA	NA
+N05	etifoxine	NA	NA
+N05	fabomotizole	NA	NA
+N05	pentobarbital	GABRA6	Q16445
+N05	pentobarbital	GABRA2	P47869
+N05	pentobarbital	GABRP	O00591
+N05	pentobarbital	GABRB3	P28472
+N05	pentobarbital	GABRA3	P34903
+N05	pentobarbital	GABRB1	P18505
+N05	pentobarbital	GABRD	O14764
+N05	pentobarbital	GABRG2	P18507
+N05	pentobarbital	GABRA5	P31644
+N05	pentobarbital	GABRE	P78334
+N05	pentobarbital	GABRG3	Q99928
+N05	pentobarbital	GABRQ	Q9UN88
+N05	pentobarbital	GABRA4	P48169
+N05	pentobarbital	GABRB2	P47870
+N05	pentobarbital	GABRA1	P14867
+N05	pentobarbital	GABRG1	Q8N1C3
+N05	amobarbital	GABRA6	Q16445
+N05	amobarbital	GABRA2	P47869
+N05	amobarbital	GABRA3	P34903
+N05	amobarbital	GABRA5	P31644
+N05	amobarbital	GABRA4	P48169
+N05	amobarbital	GABRA1	P14867
+N05	butobarbital	NA	NA
+N05	barbital	GABRA6	Q16445
+N05	barbital	GABRA2	P47869
+N05	barbital	GABRA3	P34903
+N05	barbital	GABRA5	P31644
+N05	barbital	GABRA4	P48169
+N05	barbital	GABRA1	P14867
+N05	aprobarbital	GABRA6	Q16445
+N05	aprobarbital	GABRA2	P47869
+N05	aprobarbital	GABRA3	P34903
+N05	aprobarbital	GABRA5	P31644
+N05	aprobarbital	GABRA4	P48169
+N05	aprobarbital	GABRB2	P47870
+N05	aprobarbital	GABRA1	P14867
+N05	secobarbital	GABRA6	Q16445
+N05	secobarbital	GABRA2	P47869
+N05	secobarbital	GABRA3	P34903
+N05	secobarbital	GABRA5	P31644
+N05	secobarbital	GABRA4	P48169
+N05	secobarbital	GABRA1	P14867
+N05	talbutal	GABRA6	Q16445
+N05	talbutal	GABRA2	P47869
+N05	talbutal	GABRP	O00591
+N05	talbutal	GABRB3	P28472
+N05	talbutal	GABRA3	P34903
+N05	talbutal	GABRB1	P18505
+N05	talbutal	GABRD	O14764
+N05	talbutal	GABRG2	P18507
+N05	talbutal	GABRA5	P31644
+N05	talbutal	GABRE	P78334
+N05	talbutal	GABRG3	Q99928
+N05	talbutal	GABRQ	Q9UN88
+N05	talbutal	GABRA4	P48169
+N05	talbutal	GABRB2	P47870
+N05	talbutal	GABRA1	P14867
+N05	talbutal	GABRG1	Q8N1C3
+N05	vinylbital	NA	NA
+N05	vinbarbital	NA	NA
+N05	cyclobarbital	NA	NA
+N05	heptabarbital	GABRA6	Q16445
+N05	heptabarbital	GABRA2	P47869
+N05	heptabarbital	GABRA3	P34903
+N05	heptabarbital	GABRA5	P31644
+N05	heptabarbital	GABRA4	P48169
+N05	heptabarbital	GABRB2	P47870
+N05	heptabarbital	GABRA1	P14867
+N05	reposal	NA	NA
+N05	methohexital	GABRA1	P14867
+N05	hexobarbital	GABRA6	Q16445
+N05	hexobarbital	GABRA2	P47869
+N05	hexobarbital	GABRA3	P34903
+N05	hexobarbital	GABRA5	P31644
+N05	hexobarbital	GABRA4	P48169
+N05	hexobarbital	GABRA1	P14867
+N05	thiopental	GABRA6	Q16445
+N05	thiopental	GABRA2	P47869
+N05	thiopental	GABRA3	P34903
+N05	thiopental	GABRA5	P31644
+N05	thiopental	FAAH	O00519
+N05	thiopental	GABRA4	P48169
+N05	thiopental	GABRA1	P14867
+N05	etallobarbital	NA	NA
+N05	allobarbital	NA	NA
+N05	proxibarbal	NA	NA
+N05	chloral hydrate	NA	NA
+N05	chloralodol	NA	NA
+N05	acetylglycinamide chloral hydrate	NA	NA
+N05	dichloralphenazone	NA	NA
+N05	paraldehyde	NA	NA
+N05	flurazepam	GABRA6	Q16445
+N05	flurazepam	GABRA2	P47869
+N05	flurazepam	GABRP	O00591
+N05	flurazepam	GABRB3	P28472
+N05	flurazepam	GABRR3	A8MPY1
+N05	flurazepam	GABRA3	P34903
+N05	flurazepam	GABRB1	P18505
+N05	flurazepam	GABRG2	P18507
+N05	flurazepam	GABRD	O14764
+N05	flurazepam	GABRA5	P31644
+N05	flurazepam	GABRE	P78334
+N05	flurazepam	GABRG3	Q99928
+N05	flurazepam	GABRR1	P24046
+N05	flurazepam	GABRQ	Q9UN88
+N05	flurazepam	TSPO	P30536
+N05	flurazepam	GABRA4	P48169
+N05	flurazepam	GABRB2	P47870
+N05	flurazepam	GABRA1	P14867
+N05	flurazepam	GABRR2	P28476
+N05	flurazepam	GABRG1	Q8N1C3
+N05	nitrazepam	GABRA6	Q16445
+N05	nitrazepam	GABRA2	P47869
+N05	nitrazepam	GABRP	O00591
+N05	nitrazepam	GABRB3	P28472
+N05	nitrazepam	GABRR3	A8MPY1
+N05	nitrazepam	GABRA3	P34903
+N05	nitrazepam	GABRB1	P18505
+N05	nitrazepam	GABRG2	P18507
+N05	nitrazepam	GABRD	O14764
+N05	nitrazepam	GABRA5	P31644
+N05	nitrazepam	GABRE	P78334
+N05	nitrazepam	GABRG3	Q99928
+N05	nitrazepam	GABRR1	P24046
+N05	nitrazepam	GABRQ	Q9UN88
+N05	nitrazepam	GABRA4	P48169
+N05	nitrazepam	GABRB2	P47870
+N05	nitrazepam	GABRA1	P14867
+N05	nitrazepam	GABRR2	P28476
+N05	nitrazepam	GABRG1	Q8N1C3
+N05	flunitrazepam	GABRA6	Q16445
+N05	flunitrazepam	GABRA2	P47869
+N05	flunitrazepam	GABRA3	P34903
+N05	flunitrazepam	GABRA5	P31644
+N05	flunitrazepam	TSPO	P30536
+N05	flunitrazepam	GABRA4	P48169
+N05	estazolam	GABRA6	Q16445
+N05	estazolam	GABRA2	P47869
+N05	estazolam	GABRP	O00591
+N05	estazolam	GABRB3	P28472
+N05	estazolam	GABRR3	A8MPY1
+N05	estazolam	GABRA3	P34903
+N05	estazolam	GABRB1	P18505
+N05	estazolam	GABRG2	P18507
+N05	estazolam	GABRD	O14764
+N05	estazolam	GABRA5	P31644
+N05	estazolam	GABRE	P78334
+N05	estazolam	GABRG3	Q99928
+N05	estazolam	GABRR1	P24046
+N05	estazolam	GABRQ	Q9UN88
+N05	estazolam	TSPO	P30536
+N05	estazolam	GABRA4	P48169
+N05	estazolam	GABRB2	P47870
+N05	estazolam	GABRA1	P14867
+N05	estazolam	GABRR2	P28476
+N05	estazolam	GABRG1	Q8N1C3
+N05	triazolam	GABRA6	Q16445
+N05	triazolam	GABRA2	P47869
+N05	triazolam	GABRP	O00591
+N05	triazolam	GABRB3	P28472
+N05	triazolam	GABRR3	A8MPY1
+N05	triazolam	GABRA3	P34903
+N05	triazolam	GABRB1	P18505
+N05	triazolam	GABRG2	P18507
+N05	triazolam	GABRD	O14764
+N05	triazolam	GABRA5	P31644
+N05	triazolam	GABRE	P78334
+N05	triazolam	GABRG3	Q99928
+N05	triazolam	GABRR1	P24046
+N05	triazolam	GABRQ	Q9UN88
+N05	triazolam	TSPO	P30536
+N05	triazolam	GABRA4	P48169
+N05	triazolam	GABRB2	P47870
+N05	triazolam	GABRA1	P14867
+N05	triazolam	GABRR2	P28476
+N05	triazolam	GABRG1	Q8N1C3
+N05	lormetazepam	GABRA3	P34903
+N05	lormetazepam	GABRG2	P18507
+N05	lormetazepam	GABRA2	P47869
+N05	lormetazepam	GABRA1	P14867
+N05	lormetazepam	GABRA5	P31644
+N05	temazepam	GABRA6	Q16445
+N05	temazepam	GABRA2	P47869
+N05	temazepam	GABRP	O00591
+N05	temazepam	GABRB3	P28472
+N05	temazepam	GABRR3	A8MPY1
+N05	temazepam	GABRA3	P34903
+N05	temazepam	GABRB1	P18505
+N05	temazepam	GABRG2	P18507
+N05	temazepam	GABRD	O14764
+N05	temazepam	GABRA5	P31644
+N05	temazepam	GABRE	P78334
+N05	temazepam	GABRG3	Q99928
+N05	temazepam	GABRR1	P24046
+N05	temazepam	GABRQ	Q9UN88
+N05	temazepam	TSPO	P30536
+N05	temazepam	GABRA4	P48169
+N05	temazepam	GABRB2	P47870
+N05	temazepam	GABRA1	P14867
+N05	temazepam	GABRR2	P28476
+N05	temazepam	GABRG1	Q8N1C3
+N05	midazolam	GABRA6	Q16445
+N05	midazolam	GABRA2	P47869
+N05	midazolam	GABRP	O00591
+N05	midazolam	GABRB3	P28472
+N05	midazolam	GABRR3	A8MPY1
+N05	midazolam	GABRA3	P34903
+N05	midazolam	GABRB1	P18505
+N05	midazolam	GABRG2	P18507
+N05	midazolam	GABRD	O14764
+N05	midazolam	GABRA5	P31644
+N05	midazolam	GABRE	P78334
+N05	midazolam	GABRG3	Q99928
+N05	midazolam	GABRR1	P24046
+N05	midazolam	GABRQ	Q9UN88
+N05	midazolam	TSPO	P30536
+N05	midazolam	GABRA4	P48169
+N05	midazolam	GABRB2	P47870
+N05	midazolam	GABRA1	P14867
+N05	midazolam	GABRR2	P28476
+N05	midazolam	GABRG1	Q8N1C3
+N05	brotizolam	NA	NA
+N05	quazepam	GABRA6	Q16445
+N05	quazepam	GABRA2	P47869
+N05	quazepam	GABRP	O00591
+N05	quazepam	GABRB3	P28472
+N05	quazepam	GABRR3	A8MPY1
+N05	quazepam	GABRA3	P34903
+N05	quazepam	GABRB1	P18505
+N05	quazepam	GABRG2	P18507
+N05	quazepam	GABRD	O14764
+N05	quazepam	GABRA5	P31644
+N05	quazepam	GABRE	P78334
+N05	quazepam	GABRG3	Q99928
+N05	quazepam	GABRR1	P24046
+N05	quazepam	GABRQ	Q9UN88
+N05	quazepam	TSPO	P30536
+N05	quazepam	GABRA4	P48169
+N05	quazepam	GABRB2	P47870
+N05	quazepam	GABRA1	P14867
+N05	quazepam	GABRR2	P28476
+N05	quazepam	GABRG1	Q8N1C3
+N05	loprazolam	NA	NA
+N05	doxefazepam	NA	NA
+N05	cinolazepam	GABRA2	P47869
+N05	cinolazepam	GABRP	O00591
+N05	cinolazepam	GABRB3	P28472
+N05	cinolazepam	GABRR3	A8MPY1
+N05	cinolazepam	GABRA3	P34903
+N05	cinolazepam	GABRB1	P18505
+N05	cinolazepam	GABRG2	P18507
+N05	cinolazepam	GABRD	O14764
+N05	cinolazepam	GABRA5	P31644
+N05	cinolazepam	GABRE	P78334
+N05	cinolazepam	GABRG3	Q99928
+N05	cinolazepam	GABRR1	P24046
+N05	cinolazepam	TSPO	P30536
+N05	cinolazepam	GABRB2	P47870
+N05	cinolazepam	GABRA1	P14867
+N05	cinolazepam	GABRR2	P28476
+N05	cinolazepam	GABRG1	Q8N1C3
+N05	glutethimide	GABRA6	Q16445
+N05	glutethimide	GABRA2	P47869
+N05	glutethimide	GABRP	O00591
+N05	glutethimide	GABRB3	P28472
+N05	glutethimide	CYP2D6	P10635
+N05	glutethimide	GABRA3	P34903
+N05	glutethimide	GABRB1	P18505
+N05	glutethimide	GABRD	O14764
+N05	glutethimide	GABRG2	P18507
+N05	glutethimide	GABRA5	P31644
+N05	glutethimide	GABRE	P78334
+N05	glutethimide	GABRG3	Q99928
+N05	glutethimide	GABRQ	Q9UN88
+N05	glutethimide	GABRA4	P48169
+N05	glutethimide	GABRB2	P47870
+N05	glutethimide	GABRA1	P14867
+N05	glutethimide	GABRG1	Q8N1C3
+N05	methyprylon	GABRA6	Q16445
+N05	methyprylon	GABRA2	P47869
+N05	methyprylon	GABRP	O00591
+N05	methyprylon	GABRB3	P28472
+N05	methyprylon	GABRA3	P34903
+N05	methyprylon	GABRB1	P18505
+N05	methyprylon	GABRD	O14764
+N05	methyprylon	GABRG2	P18507
+N05	methyprylon	GABRA5	P31644
+N05	methyprylon	GABRE	P78334
+N05	methyprylon	GABRG3	Q99928
+N05	methyprylon	GABRQ	Q9UN88
+N05	methyprylon	GABRA4	P48169
+N05	methyprylon	GABRB2	P47870
+N05	methyprylon	GABRA1	P14867
+N05	methyprylon	GABRG1	Q8N1C3
+N05	pyrithyldione	NA	NA
+N05	zopiclone	GABRA3	P34903
+N05	zopiclone	GABRB2	P47870
+N05	zopiclone	GABRA2	P47869
+N05	zopiclone	GABRA1	P14867
+N05	zopiclone	GABRA5	P31644
+N05	zolpidem	GABRA1	P14867
+N05	zaleplon	TSPO	P30536
+N05	zaleplon	GABRA1	P14867
+N05	eszopiclone	GABRA6	Q16445
+N05	eszopiclone	GABRA2	P47869
+N05	eszopiclone	GABRP	O00591
+N05	eszopiclone	GABRB3	P28472
+N05	eszopiclone	GABRA3	P34903
+N05	eszopiclone	GABRB1	P18505
+N05	eszopiclone	GABRD	O14764
+N05	eszopiclone	GABRG2	P18507
+N05	eszopiclone	GABRA5	P31644
+N05	eszopiclone	GABRE	P78334
+N05	eszopiclone	GABRG3	Q99928
+N05	eszopiclone	GABRQ	Q9UN88
+N05	eszopiclone	TSPO	P30536
+N05	eszopiclone	GABRA4	P48169
+N05	eszopiclone	GABRB2	P47870
+N05	eszopiclone	GABRA1	P14867
+N05	eszopiclone	GABRG1	Q8N1C3
+N05	melatonin	MTNR1B	P49286
+N05	melatonin	MTNR1A	P48039
+N05	ramelteon	MTNR1B	P49286
+N05	ramelteon	MTNR1A	P48039
+N05	tasimelteon	MTNR1B	P49286
+N05	tasimelteon	MTNR1A	P48039
+N05	methaqualone	NA	NA
+N05	clomethiazole	NA	NA
+N05	bromisoval	NA	NA
+N05	carbromal	NA	NA
+N05	scopolamine	CHRM1	P11229
+N05	scopolamine	CHRM2	P08172
+N05	propiomazine	HRH1	P35367
+N05	triclofos	NA	NA
+N05	ethchlorvynol	GABRA6	Q16445
+N05	ethchlorvynol	GABRA2	P47869
+N05	ethchlorvynol	GABRP	O00591
+N05	ethchlorvynol	GABRB3	P28472
+N05	ethchlorvynol	GABRA3	P34903
+N05	ethchlorvynol	GABRB1	P18505
+N05	ethchlorvynol	GABRD	O14764
+N05	ethchlorvynol	GABRG2	P18507
+N05	ethchlorvynol	GABRA5	P31644
+N05	ethchlorvynol	GABRE	P78334
+N05	ethchlorvynol	GABRG3	Q99928
+N05	ethchlorvynol	GABRQ	Q9UN88
+N05	ethchlorvynol	GABRA4	P48169
+N05	ethchlorvynol	GABRB2	P47870
+N05	ethchlorvynol	GABRA1	P14867
+N05	ethchlorvynol	GABRG1	Q8N1C3
+N05	valerian radix	NA	NA
+N05	hexapropymate	NA	NA
+N05	bromides	NA	NA
+N05	apronal	NA	NA
+N05	valnoctamide	NA	NA
+N05	methylpentynol	NA	NA
+N05	niaprazine	NA	NA
+N05	dexmedetomidine	ADRA2A	P08913
+N06	desipramine	SLC6A4	P31645
+N06	desipramine	SLC6A2	P23975
+N06	desipramine	HTR2A	P28223
+N06	imipramine	SLC6A4	P31645
+N06	imipramine	SLC6A2	P23975
+N06	imipramine oxide	NA	NA
+N06	clomipramine	HTR2B	P41595
+N06	clomipramine	SLC6A4	P31645
+N06	clomipramine	HTR2C	P28335
+N06	clomipramine	HTR2A	P28223
+N06	opipramol	NA	NA
+N06	trimipramine	SLC6A4	P31645
+N06	trimipramine	SLC6A2	P23975
+N06	lofepramine	NA	NA
+N06	dibenzepin	NA	NA
+N06	amitriptyline	SLC6A4	P31645
+N06	amitriptyline	SLC6A2	P23975
+N06	amitriptyline	HTR2A	P28223
+N06	nortriptyline	SLC6A4	P31645
+N06	nortriptyline	SLC6A2	P23975
+N06	nortriptyline	HTR2A	P28223
+N06	protriptyline	SLC6A4	P31645
+N06	protriptyline	SLC6A2	P23975
+N06	doxepin	HRH2	P25021
+N06	doxepin	HTR1A	P08908
+N06	doxepin	HRH1	P35367
+N06	doxepin	CHRM1	P11229
+N06	doxepin	SLC6A2	P23975
+N06	doxepin	HTR2A	P28223
+N06	doxepin	CHRM5	P08912
+N06	doxepin	CHRM4	P08173
+N06	doxepin	CHRM2	P08172
+N06	doxepin	CHRM3	P20309
+N06	doxepin	HTR2B	P41595
+N06	doxepin	SLC6A4	P31645
+N06	doxepin	HTR2C	P28335
+N06	iprindole	NA	NA
+N06	melitracen	NA	NA
+N06	butriptyline	SLC6A4	P31645
+N06	butriptyline	HRH1	P35367
+N06	butriptyline	HTR2A	P28223
+N06	dosulepin	HRH1	P35367
+N06	dosulepin	HTR1A	P08908
+N06	dosulepin	CHRM1	P11229
+N06	dosulepin	ADRA1B	P35368
+N06	dosulepin	ADRA2A	P08913
+N06	dosulepin	ADRA2C	P18825
+N06	dosulepin	SLC6A2	P23975
+N06	dosulepin	HTR2A	P28223
+N06	dosulepin	ADRA1A	P35348
+N06	dosulepin	CHRM5	P08912
+N06	dosulepin	CHRM4	P08173
+N06	dosulepin	CHRM2	P08172
+N06	dosulepin	CHRM3	P20309
+N06	dosulepin	ADRA1D	P25100
+N06	dosulepin	SLC6A4	P31645
+N06	dosulepin	ADRA2B	P18089
+N06	amoxapine	SLC6A4	P31645
+N06	amoxapine	SLC6A2	P23975
+N06	dimetacrine	ACHE	P22303
+N06	amineptine	NA	NA
+N06	maprotiline	SLC6A2	P23975
+N06	quinupramine	NA	NA
+N06	zimeldine	NA	NA
+N06	fluoxetine	SLC6A4	P31645
+N06	citalopram	SLC6A4	P31645
+N06	paroxetine	SLC6A4	P31645
+N06	sertraline	SLC6A4	P31645
+N06	alaproclate	NA	NA
+N06	fluvoxamine	SLC6A4	P31645
+N06	etoperidone	NA	NA
+N06	escitalopram	SLC6A4	P31645
+N06	isocarboxazid	MAOB	P27338
+N06	isocarboxazid	MAOA	P21397
+N06	nialamide	NA	NA
+N06	phenelzine	MAOB	P27338
+N06	phenelzine	MAOA	P21397
+N06	tranylcypromine	MAOB	P27338
+N06	tranylcypromine	MAOA	P21397
+N06	iproniazide	MAOB	P27338
+N06	iproniazide	MAOA	P21397
+N06	iproclozide	NA	NA
+N06	moclobemide	MAOA	P21397
+N06	toloxatone	MAOB	P27338
+N06	toloxatone	MAOA	P21397
+N06	oxitriptan	NA	NA
+N06	tryptophan	NA	NA
+N06	mianserin	NA	NA
+N06	nomifensine	DRD2	P14416
+N06	trazodone	SLC6A4	P31645
+N06	trazodone	HTR2C	P28335
+N06	trazodone	HTR1A	P08908
+N06	trazodone	HTR2A	P28223
+N06	nefazodone	SLC6A4	P31645
+N06	nefazodone	HTR2C	P28335
+N06	nefazodone	HTR1A	P08908
+N06	nefazodone	SLC6A2	P23975
+N06	nefazodone	HTR2A	P28223
+N06	minaprine	HTR2B	P41595
+N06	minaprine	HTR2A	P28223
+N06	minaprine	MAOA	P21397
+N06	minaprine	HTR2C	P28335
+N06	minaprine	ACHE	P22303
+N06	bifemelane	MAOA	P21397
+N06	viloxazine	SLC6A2	P23975
+N06	oxaflozane	NA	NA
+N06	mirtazapine	ADRA2A	P08913
+N06	mirtazapine	HTR3A	P46098
+N06	mirtazapine	HTR2C	P28335
+N06	mirtazapine	HTR2A	P28223
+N06	bupropion	SLC6A3	Q01959
+N06	bupropion	SLC6A4	P31645
+N06	bupropion	SLC6A2	P23975
+N06	medifoxamine	NA	NA
+N06	tianeptine	SLC6A4	P31645
+N06	pivagabine	NA	NA
+N06	venlafaxine	SLC6A4	P31645
+N06	venlafaxine	SLC6A2	P23975
+N06	milnacipran	SLC6A4	P31645
+N06	milnacipran	SLC6A2	P23975
+N06	reboxetine	SLC6A2	P23975
+N06	gepirone	NA	NA
+N06	duloxetine	SLC6A4	P31645
+N06	duloxetine	SLC6A2	P23975
+N06	agomelatine	MTNR1B	P49286
+N06	agomelatine	MTNR1A	P48039
+N06	agomelatine	HTR2C	P28335
+N06	desvenlafaxine	SLC6A4	P31645
+N06	desvenlafaxine	SLC6A2	P23975
+N06	vilazodone	SLC6A4	P31645
+N06	vilazodone	HTR1A	P08908
+N06	hyperici herba	NA	NA
+N06	vortioxetine	HTR1B	P28222
+N06	vortioxetine	SLC6A4	P31645
+N06	vortioxetine	HTR1A	P08908
+N06	vortioxetine	HTR3A	P46098
+N06	vortioxetine	HTR7	P34969
+N06	amfetamine	NA	NA
+N06	dexamfetamine	NA	NA
+N06	metamfetamine	NA	NA
+N06	methylphenidate	SLC6A3	Q01959
+N06	pemoline	NA	NA
+N06	fencamfamin	NA	NA
+N06	modafinil	SLC6A3	Q01959
+N06	fenozolone	NA	NA
+N06	atomoxetine	SLC6A2	P23975
+N06	fenetylline	NA	NA
+N06	dexmethylphenidate	SLC6A3	Q01959
+N06	dexmethylphenidate	SLC6A2	P23975
+N06	lisdexamfetamine	SLC6A3	Q01959
+N06	armodafinil	SLC6A3	Q01959
+N06	armodafinil	ADRA1D	P25100
+N06	caffeine	ADORA1	P30542
+N06	caffeine	ADORA2A	P29274
+N06	propentofylline	NA	NA
+N06	meclofenoxate	NA	NA
+N06	pyritinol	NA	NA
+N06	piracetam	NA	NA
+N06	deanol	NA	NA
+N06	fipexide	NA	NA
+N06	citicoline	NA	NA
+N06	oxiracetam	NA	NA
+N06	pirisudanol	NA	NA
+N06	linopirdine	KCNQ3	O43525
+N06	nizofenone	NA	NA
+N06	aniracetam	HTR2A	P28223
+N06	aniracetam	DRD2	P14416
+N06	acetylcarnitine	NA	NA
+N06	idebenone	NA	NA
+N06	prolintane	NA	NA
+N06	pipradrol	NA	NA
+N06	pramiracetam	CHRM5	P08912
+N06	adrafinil	NA	NA
+N06	vinpocetine	PDE1B	Q01064
+N06	vinpocetine	PDE1C	Q14123
+N06	vinpocetine	PDE1A	P54750
+N06	mebicar	NA	NA
+N06	phenibut	NA	NA
+N06	tacrine	BCHE	P06276
+N06	tacrine	ACHE	P22303
+N06	donepezil	ACHE	P22303
+N06	rivastigmine	BCHE	P06276
+N06	rivastigmine	ACHE	P22303
+N06	galantamine	ACHE	P22303
+N06	ipidacrine	NA	NA
+N06	memantine	GRIN3A	Q8TCU5
+N06	memantine	GRIN2A	Q12879
+N06	memantine	GRIN2B	Q13224
+N06	ginkgo folium	NA	NA
+N07	neostigmine	ACHE	P22303
+N07	pyridostigmine	BCHE	P06276
+N07	pyridostigmine	ACHE	P22303
+N07	distigmine	NA	NA
+N07	ambenonium	ACHE	P22303
+N07	carbachol	CHRNA2	Q15822
+N07	carbachol	CHRM1	P11229
+N07	carbachol	CHRM2	P08172
+N07	bethanechol	CHRM2	P08172
+N07	bethanechol	CHRM4	P08173
+N07	pilocarpine	CHRM1	P11229
+N07	pilocarpine	CHRM2	P08172
+N07	pilocarpine	CHRM4	P08173
+N07	pilocarpine	CHRM3	P20309
+N07	choline alfoscerate	CHRM5	P08912
+N07	cevimeline	CHRM1	P11229
+N07	cevimeline	CHRM3	P20309
+N07	nicotine	CHRNB2	P17787
+N07	nicotine	CHRNA4	P43681
+N07	nicotine	CHRNA7	P36544
+N07	varenicline	CHRNB2	P17787
+N07	varenicline	CHRNA4	P43681
+N07	disulfiram	DBH	P09172
+N07	disulfiram	ALDH2	P05091
+N07	disulfiram	ALDH3A2	P51648
+N07	calcium carbimide	NA	NA
+N07	acamprosate	GRIN2A	Q12879
+N07	acamprosate	GABRA6	Q16445
+N07	acamprosate	GABRD	O14764
+N07	acamprosate	GABRE	P78334
+N07	acamprosate	GRIN2D	O15399
+N07	acamprosate	GRM5	P41594
+N07	acamprosate	GABRA2	P47869
+N07	acamprosate	GABRA3	P34903
+N07	acamprosate	GRIN2B	Q13224
+N07	acamprosate	GABRA5	P31644
+N07	acamprosate	GABRQ	Q9UN88
+N07	acamprosate	GABRG1	Q8N1C3
+N07	acamprosate	GABRP	O00591
+N07	acamprosate	GABRB3	P28472
+N07	acamprosate	GABRG2	P18507
+N07	acamprosate	GABRB1	P18505
+N07	acamprosate	GRIN3B	O60391
+N07	acamprosate	GABRG3	Q99928
+N07	acamprosate	GABRB2	P47870
+N07	acamprosate	GRIN2C	Q14957
+N07	acamprosate	GRIN1	Q05586
+N07	acamprosate	GRIN3A	Q8TCU5
+N07	acamprosate	GABRA4	P48169
+N07	acamprosate	GABRA1	P14867
+N07	naltrexone	OPRK1	P41145
+N07	naltrexone	SIGMAR1	Q5T1J1
+N07	naltrexone	OPRD1	P41143
+N07	naltrexone	OPRM1	P35372
+N07	nalmefene	NA	NA
+N07	buprenorphine	OPRK1	P41145
+N07	buprenorphine	OPRM1	P35372
+N07	methadone	GRIN3A	Q8TCU5
+N07	methadone	CHRNA10	Q9GZZ6
+N07	methadone	OPRD1	P41143
+N07	methadone	OPRM1	P35372
+N07	levacetylmethadol	NA	NA
+N07	lofexidine	ADRA2A	P08913
+N07	levomethadone	NA	NA
+N07	diamorphine	NA	NA
+N07	betahistine	HRH1	P35367
+N07	betahistine	HRH3	Q9Y5N1
+N07	cinnarizine	CACNA1C	Q13936
+N07	cinnarizine	HRH1	P35367
+N07	cinnarizine	CACNA1H	O95180
+N07	cinnarizine	CACNA1S	Q13698
+N07	cinnarizine	CACNA1I	Q9P0X4
+N07	cinnarizine	CACNA1G	O43497
+N07	cinnarizine	CACNA1F	O60840
+N07	cinnarizine	CACNA1D	Q01668
+N07	flunarizine	CACNA1G	O43497
+N07	flunarizine	CACNA1H	O95180
+N07	flunarizine	CACNA1I	Q9P0X4
+N07	acetylleucine	NA	NA
+N07	tirilazad	NA	NA
+N07	riluzole	SLC7A11	Q9UPY5
+N07	riluzole	SCN5A	Q14524
+N07	xaliproden	HTR1A	P08908
+N07	hydroxybutyric acid	NA	NA
+N07	amifampridine	NA	NA
+N07	tetrabenazine	SLC18A2	Q05940
+N07	fampridine	NA	NA
+N07	tafamidis	NA	NA
+N07	dimethyl fumarate	KEAP1	Q14145
+N07	laquinimod	NA	NA
+N07	pitolisant	HRH3	Q9Y5N1
+P01	broxyquinoline	NA	NA
+P01	clioquinol	OPRK1	P41145
+P01	chlorquinaldol	NA	NA
+P01	tilbroquinol	NA	NA
+P01	metronidazole	NA	NA
+P01	tinidazole	NA	NA
+P01	ornidazole	NA	NA
+P01	azanidazole	NA	NA
+P01	propenidazole	NA	NA
+P01	nimorazole	NA	NA
+P01	secnidazole	NA	NA
+P01	diloxanide	NA	NA
+P01	clefamide	NA	NA
+P01	etofamide	NA	NA
+P01	teclozan	NA	NA
+P01	arsthinol	NA	NA
+P01	difetarsone	NA	NA
+P01	glycobiarsol	NA	NA
+P01	chiniofon	NA	NA
+P01	emetine	NA	NA
+P01	phanquinone	NA	NA
+P01	mepacrine	PLA2G1B	P04054
+P01	atovaquone	DHODH	Q02127
+P01	trimetrexate	PDF	Q9HBH1
+P01	trimetrexate	DHFR	P00374
+P01	tenonitrozole	NA	NA
+P01	dehydroemetine	NA	NA
+P01	fumagillin	METAP2	P50579
+P01	nitazoxanide	NA	NA
+P01	chloroquine	NA	NA
+P01	hydroxychloroquine	TLR7	Q9NYK1
+P01	hydroxychloroquine	TLR9	Q9NR96
+P01	primaquine	NA	NA
+P01	amodiaquine	HNMT	P50135
+P01	proguanil	PDF	Q9HBH1
+P01	proguanil	DHFR	P00374
+P01	cycloguanil embonate	NA	NA
+P01	quinine	NA	NA
+P01	mefloquine	HBA1	P69905
+P01	pyrimethamine	FOLR1	P15328
+P01	pyrimethamine	DHFR	P00374
+P01	artemisinin	DHODH	Q02127
+P01	artemether	ATP1A1	P05023
+P01	artesunate	NA	NA
+P01	artemotil	NA	NA
+P01	artenimol	NA	NA
+P01	halofantrine	KCNH2	Q12809
+P01	benznidazole	NA	NA
+P01	meglumine antimonate	NA	NA
+P01	sodium stibogluconate	TOP1	P11387
+P01	nifurtimox	NA	NA
+P01	nitrofural	NA	NA
+P01	melarsoprol	NA	NA
+P01	acetarsol	NA	NA
+P01	pentamidine isethionate	NA	NA
+P01	suramin sodium	NA	NA
+P01	eflornithine	ODC1	P11926
+P02	praziquantel	HPGDS	O60760
+P02	oxamniquine	NA	NA
+P02	metrifonate	NA	NA
+P02	bithionol	MCL1	Q07820
+P02	bithionol	ESR2	Q92731
+P02	bithionol	ESR1	P03372
+P02	bithionol	CAPN2	P17655
+P02	niridazole	NA	NA
+P02	stibophen	NA	NA
+P02	triclabendazole	NA	NA
+P02	mebendazole	TUBA1A	Q71U36
+P02	mebendazole	TUBB4B	P68371
+P02	mebendazole	TUBB	P07437
+P02	tiabendazole	NA	NA
+P02	albendazole	TUBB	P07437
+P02	ciclobendazole	NA	NA
+P02	flubendazole	NA	NA
+P02	fenbendazole	NA	NA
+P02	piperazine	GABRB3	P28472
+P02	diethylcarbamazine	ALOX5	P09917
+P02	pyrantel	NA	NA
+P02	oxantel	NA	NA
+P02	levamisole	CHRNA3	P32297
+P02	levamisole	ALPL	P05186
+P02	ivermectin	GLRA3	O75311
+P02	pyrvinium	NA	NA
+P02	bephenium	NA	NA
+P02	niclosamide	NA	NA
+P02	desaspidin	NA	NA
+P02	dichlorophen	NA	NA
+P03	dixanthogen	NA	NA
+P03	potassium polysulfide	NA	NA
+P03	mesulfen	NA	NA
+P03	disulfiram	DBH	P09172
+P03	disulfiram	ALDH2	P05091
+P03	disulfiram	ALDH3A2	P51648
+P03	thiram	NA	NA
+P03	clofenotane	NA	NA
+P03	lindane	GABRB1	P18505
+P03	lindane	GABRB2	P47870
+P03	lindane	GABRA1	P14867
+P03	lindane	GABRA2	P47869
+P03	pyrethrum	NA	NA
+P03	bioallethrin	NA	NA
+P03	phenothrin	NA	NA
+P03	permethrin	SCN1A	P35498
+P03	benzyl benzoate	LIPE	Q05469
+P03	copper oleinate	NA	NA
+P03	malathion	BCHE	P06276
+P03	malathion	ACHE	P22303
+P03	quassia	NA	NA
+P03	dimeticone	NA	NA
+P03	benzyl alcohol	NA	NA
+P03	cyfluthrin	NA	NA
+P03	cypermethrin	NA	NA
+P03	decamethrin	NA	NA
+P03	tetramethrin	NA	NA
+P03	diethyltoluamide	NA	NA
+P03	dimethylphthalate	NA	NA
+P03	dibutylphthalate	NA	NA
+P03	dibutylsuccinate	NA	NA
+P03	dimethylcarbate	NA	NA
+P03	etohexadiol	NA	NA
+R01	cyclopentamine	NA	NA
+R01	ephedrine	DRD2	P14416
+R01	phenylephrine	DRD2	P14416
+R01	phenylephrine	ADRA1B	P35368
+R01	phenylephrine	ADRA1D	P25100
+R01	phenylephrine	ADRA1A	P35348
+R01	oxymetazoline	ADRA2A	P08913
+R01	oxymetazoline	ADRA1A	P35348
+R01	tetryzoline	ADRA1A	P35348
+R01	xylometazoline	ADRA2B	P18089
+R01	xylometazoline	ADRA2A	P08913
+R01	xylometazoline	ADRA2C	P18825
+R01	xylometazoline	ADRA1A	P35348
+R01	naphazoline	DRD2	P14416
+R01	naphazoline	ADRA2A	P08913
+R01	naphazoline	ADRA1A	P35348
+R01	tramazoline	ADRA2C	P18825
+R01	tramazoline	ADRA2A	P08913
+R01	tramazoline	ADRA2B	P18089
+R01	metizoline	NA	NA
+R01	tuaminoheptane	NA	NA
+R01	fenoxazoline	NA	NA
+R01	tymazoline	NA	NA
+R01	epinephrine	ADRA1B	P35368
+R01	epinephrine	ADRA2A	P08913
+R01	epinephrine	ADRA1A	P35348
+R01	epinephrine	ADRB2	P07550
+R01	epinephrine	ADRA2B	P18089
+R01	epinephrine	ADRB1	P08588
+R01	indanazoline	NA	NA
+R01	phenylephrine	DRD2	P14416
+R01	phenylephrine	ADRA1B	P35368
+R01	phenylephrine	ADRA1D	P25100
+R01	phenylephrine	ADRA1A	P35348
+R01	naphazoline	DRD2	P14416
+R01	naphazoline	ADRA2A	P08913
+R01	naphazoline	ADRA1A	P35348
+R01	tetryzoline	ADRA1A	P35348
+R01	ephedrine	DRD2	P14416
+R01	xylometazoline	ADRA2B	P18089
+R01	xylometazoline	ADRA2A	P08913
+R01	xylometazoline	ADRA2C	P18825
+R01	xylometazoline	ADRA1A	P35348
+R01	oxymetazoline	ADRA2A	P08913
+R01	oxymetazoline	ADRA1A	P35348
+R01	tuaminoheptane	NA	NA
+R01	cromoglicic acid	KCNMA1	Q12791
+R01	levocabastine	HRH1	P35367
+R01	levocabastine	NTSR2	O95665
+R01	azelastine	HRH1	P35367
+R01	antazoline	HRH1	P35367
+R01	spaglumic acid	NA	NA
+R01	thonzylamine	NA	NA
+R01	nedocromil	CYSLTR1	Q9Y271
+R01	nedocromil	CYSLTR2	Q9NS75
+R01	olopatadine	HRH1	P35367
+R01	beclometasone	NA	NA
+R01	prednisolone	NR3C1	P04150
+R01	dexamethasone	NR3C1	P04150
+R01	flunisolide	NR3C1	P04150
+R01	budesonide	NR3C1	P04150
+R01	betamethasone	NR3C1	P04150
+R01	tixocortol	NA	NA
+R01	fluticasone	NR3C1	P04150
+R01	mometasone	NR3C1	P04150
+R01	triamcinolone	NR3C1	P04150
+R01	fluticasone furoate	NR3C1	P04150
+R01	ciclesonide	NR3C1	P04150
+R01	ciclesonide	SERPINA6	P08185
+R01	calcium hexamine thiocyanate	NA	NA
+R01	retinol	NA	NA
+R01	ipratropium bromide	CHRM1	P11229
+R01	ipratropium bromide	CHRM2	P08172
+R01	ipratropium bromide	CHRM3	P20309
+R01	ritiometan	NA	NA
+R01	mupirocin	NA	NA
+R01	hexamidine	NA	NA
+R01	framycetin	NA	NA
+R01	hyaluronic acid	ICAM1	P05362
+R01	hyaluronic acid	CD44	P16070
+R01	hyaluronic acid	HMMR	O75330
+R01	various	NA	NA
+R01	phenylpropanolamine	NA	NA
+R01	pseudoephedrine	SLC6A3	Q01959
+R01	pseudoephedrine	ADRA2A	P08913
+R01	pseudoephedrine	SLC6A2	P23975
+R01	pseudoephedrine	DRD2	P14416
+R01	pseudoephedrine	ADRA1A	P35348
+R01	pseudoephedrine	SLC6A4	P31645
+R01	phenylephrine	DRD2	P14416
+R01	phenylephrine	ADRA1B	P35368
+R01	phenylephrine	ADRA1D	P25100
+R01	phenylephrine	ADRA1A	P35348
+R02	ambazone	NA	NA
+R02	dequalinium	KCNN3	Q9UGI6
+R02	dequalinium	KCNN1	Q92952
+R02	dequalinium	XIAP	P98170
+R02	dequalinium	CNGA2	Q16280
+R02	dequalinium	CNGA1	P29973
+R02	dequalinium	KCNN2	Q9H2S1
+R02	dichlorobenzyl alcohol	NA	NA
+R02	chlorhexidine	NA	NA
+R02	cetylpyridinium	NA	NA
+R02	benzethonium	NA	NA
+R02	myristyl-benzalkonium	NA	NA
+R02	chlorquinaldol	NA	NA
+R02	hexylresorcinol	NA	NA
+R02	acriflavinium chloride	NA	NA
+R02	oxyquinoline	METAP2	P50579
+R02	povidone-iodine	NA	NA
+R02	benzalkonium	NA	NA
+R02	cetrimonium	NA	NA
+R02	hexamidine	NA	NA
+R02	phenol	CA2	P00918
+R02	phenol	CA12	O43570
+R02	phenol	CA9	Q16790
+R02	phenol	CA4	P22748
+R02	phenol	CA1	P00915
+R02	various	NA	NA
+R02	octenidine	NA	NA
+R02	neomycin	NA	NA
+R02	tyrothricin	NA	NA
+R02	fusafungine	NA	NA
+R02	bacitracin	IDE	P14735
+R02	gramicidin	NA	NA
+R02	benzocaine	SCN10A	Q9Y5Y9
+R02	benzocaine	SCN1A	P35498
+R02	lidocaine	SCN10A	Q9Y5Y9
+R02	lidocaine	SCN9A	Q15858
+R02	lidocaine	SCN5A	Q14524
+R02	cocaine	SLC6A3	Q01959
+R02	cocaine	SLC6A4	P31645
+R02	cocaine	SCN5A	Q14524
+R02	cocaine	SLC6A2	P23975
+R02	dyclonine	SCN10A	Q9Y5Y9
+R02	dyclonine	SCN5A	Q14524
+R02	flurbiprofen	PTGS2	P35354
+R02	ibuprofen	PTGS1	P23219
+R02	ibuprofen	PTGS2	P35354
+R03	epinephrine	ADRA1B	P35368
+R03	epinephrine	ADRA2A	P08913
+R03	epinephrine	ADRA1A	P35348
+R03	epinephrine	ADRB2	P07550
+R03	epinephrine	ADRA2B	P18089
+R03	epinephrine	ADRB1	P08588
+R03	isoprenaline	ADRB2	P07550
+R03	isoprenaline	ADRB1	P08588
+R03	isoprenaline	ADRB3	P13945
+R03	orciprenaline	ADRB2	P07550
+R03	salbutamol	ADRB2	P07550
+R03	terbutaline	ADRB2	P07550
+R03	fenoterol	ADRB2	P07550
+R03	rimiterol	ADRB3	P13945
+R03	hexoprenaline	NA	NA
+R03	isoetarine	ADRB1	P08588
+R03	pirbuterol	ADRB2	P07550
+R03	tretoquinol	NA	NA
+R03	carbuterol	NA	NA
+R03	tulobuterol	NA	NA
+R03	salmeterol	ADRB2	P07550
+R03	formoterol	ADRB2	P07550
+R03	clenbuterol	ADRB2	P07550
+R03	reproterol	NA	NA
+R03	procaterol	ADRB2	P07550
+R03	bitolterol	ADRB2	P07550
+R03	bitolterol	ADRB3	P13945
+R03	indacaterol	ADRB2	P07550
+R03	olodaterol	ADRB2	P07550
+R03	beclometasone	NA	NA
+R03	budesonide	NR3C1	P04150
+R03	flunisolide	NR3C1	P04150
+R03	betamethasone	NR3C1	P04150
+R03	fluticasone	NR3C1	P04150
+R03	triamcinolone	NR3C1	P04150
+R03	mometasone	NR3C1	P04150
+R03	ciclesonide	NR3C1	P04150
+R03	ciclesonide	SERPINA6	P08185
+R03	fluticasone furoate	NR3C1	P04150
+R03	ipratropium bromide	CHRM1	P11229
+R03	ipratropium bromide	CHRM2	P08172
+R03	ipratropium bromide	CHRM3	P20309
+R03	oxitropium bromide	CHRM4	P08173
+R03	stramoni preparations	NA	NA
+R03	tiotropium bromide	NA	NA
+R03	aclidinium bromide	NA	NA
+R03	glycopyrronium bromide	NA	NA
+R03	umeclidinium bromide	NA	NA
+R03	cromoglicic acid	KCNMA1	Q12791
+R03	nedocromil	CYSLTR1	Q9Y271
+R03	nedocromil	CYSLTR2	Q9NS75
+R03	fenspiride	NA	NA
+R03	ephedrine	DRD2	P14416
+R03	isoprenaline	ADRB2	P07550
+R03	isoprenaline	ADRB1	P08588
+R03	isoprenaline	ADRB3	P13945
+R03	methoxyphenamine	NA	NA
+R03	orciprenaline	ADRB2	P07550
+R03	salbutamol	ADRB2	P07550
+R03	terbutaline	ADRB2	P07550
+R03	fenoterol	ADRB2	P07550
+R03	hexoprenaline	NA	NA
+R03	isoetarine	ADRB1	P08588
+R03	pirbuterol	ADRB2	P07550
+R03	procaterol	ADRB2	P07550
+R03	tretoquinol	NA	NA
+R03	carbuterol	NA	NA
+R03	tulobuterol	NA	NA
+R03	bambuterol	ADRB2	P07550
+R03	clenbuterol	ADRB2	P07550
+R03	reproterol	NA	NA
+R03	diprophylline	NA	NA
+R03	choline theophyllinate	NA	NA
+R03	proxyphylline	NA	NA
+R03	theophylline	PDE3A	Q14432
+R03	theophylline	PDE5A	O76074
+R03	theophylline	PDE4B	Q07343
+R03	theophylline	ADORA2A	P29274
+R03	theophylline	ADORA2B	P29275
+R03	theophylline	ADORA1	P30542
+R03	theophylline	PDE4A	P27815
+R03	theophylline	HDAC2	Q92769
+R03	aminophylline	ADORA1	P30542
+R03	aminophylline	ADORA3	P0DMS8
+R03	aminophylline	PDE3A	Q14432
+R03	aminophylline	HDAC2	Q92769
+R03	etamiphylline	NA	NA
+R03	theobromine	ADORA1	P30542
+R03	theobromine	ADORA2A	P29274
+R03	bamifylline	NA	NA
+R03	acefylline piperazine	NA	NA
+R03	bufylline	NA	NA
+R03	doxofylline	NA	NA
+R03	zafirlukast	CYSLTR1	Q9Y271
+R03	pranlukast	CYSLTR1	Q9Y271
+R03	montelukast	CYSLTR1	Q9Y271
+R03	ibudilast	PDE4B	Q07343
+R03	ibudilast	IL1B	P01584
+R03	ibudilast	PDE4A	P27815
+R03	ibudilast	PDE4C	Q08493
+R03	ibudilast	IL6	P05231
+R03	amlexanox	NA	NA
+R03	eprozinol	NA	NA
+R03	fenspiride	NA	NA
+R03	omalizumab	FCER1A	P12319
+R03	omalizumab	FCER1G	P30273
+R03	omalizumab	MS4A2	Q01362
+R03	seratrodast	TBXA2R	P21731
+R03	roflumilast	PDE4B	Q07343
+R03	roflumilast	PDE4A	P27815
+R03	roflumilast	PDE4C	Q08493
+R03	roflumilast	PDE4D	Q08499
+R03	reslizumab	IL5	P05113
+R03	mepolizumab	IL5	P05113
+R05	tyloxapol	LPL	P06858
+R05	potassium iodide	NA	NA
+R05	guaifenesin	NA	NA
+R05	ipecacuanha	NA	NA
+R05	althea root	NA	NA
+R05	senega	NA	NA
+R05	antimony pentasulfide	NA	NA
+R05	creosote	NA	NA
+R05	guaiacolsulfonate	NA	NA
+R05	levoverbenone	NA	NA
+R05	hederae helicis folium	NA	NA
+R05	cineole	NA	NA
+R05	acetylcysteine	SLC7A11	Q9UPY5
+R05	acetylcysteine	GSS	P48637
+R05	bromhexine	NA	NA
+R05	carbocisteine	NA	NA
+R05	eprazinone	NA	NA
+R05	mesna	NA	NA
+R05	ambroxol	NA	NA
+R05	sobrerol	NA	NA
+R05	domiodol	NA	NA
+R05	letosteine	NA	NA
+R05	stepronin	NA	NA
+R05	dornase alfa	NA	NA
+R05	neltenexine	NA	NA
+R05	erdosteine	NA	NA
+R05	mannitol	NA	NA
+R05	ethylmorphine	OPRM1	P35372
+R05	hydrocodone	OPRD1	P41143
+R05	hydrocodone	OPRM1	P35372
+R05	codeine	OPRK1	P41145
+R05	codeine	OPRD1	P41143
+R05	codeine	OPRM1	P35372
+R05	opium alkaloids with morphine	NA	NA
+R05	normethadone	NA	NA
+R05	noscapine	NA	NA
+R05	pholcodine	NA	NA
+R05	dextromethorphan	SIGMAR1	Q99720
+R05	dextromethorphan	GRIN3A	Q8TCU5
+R05	dextromethorphan	SIGMAR1	Q5T1J1
+R05	thebacon	NA	NA
+R05	dimemorfan	SIGMAR1	Q99720
+R05	acetyldihydrocodeine	NA	NA
+R05	benzonatate	SCN5A	Q14524
+R05	benproperine	NA	NA
+R05	clobutinol	NA	NA
+R05	isoaminile	NA	NA
+R05	pentoxyverine	NA	NA
+R05	oxolamine	NA	NA
+R05	oxeladin	NA	NA
+R05	clofedanol	HRH1	P35367
+R05	pipazetate	NA	NA
+R05	bibenzonium bromide	NA	NA
+R05	butamirate	NA	NA
+R05	fedrilate	NA	NA
+R05	zipeprol	NA	NA
+R05	dibunate	NA	NA
+R05	droxypropine	NA	NA
+R05	prenoxdiazine	NA	NA
+R05	dropropizine	NA	NA
+R05	cloperastine	NA	NA
+R05	meprotixol	NA	NA
+R05	piperidione	NA	NA
+R05	tipepidine	NA	NA
+R05	morclofone	NA	NA
+R05	nepinalone	NA	NA
+R05	levodropropizine	NA	NA
+R05	dimethoxanate	NA	NA
+R06	bromazine	NA	NA
+R06	diphenhydramine	HRH1	P35367
+R06	clemastine	HRH1	P35367
+R06	chlorphenoxamine	NA	NA
+R06	diphenylpyraline	HRH1	P35367
+R06	carbinoxamine	HRH1	P35367
+R06	doxylamine	HRH1	P35367
+R06	trimethobenzamide	NA	NA
+R06	brompheniramine	HRH1	P35367
+R06	dexchlorpheniramine	NA	NA
+R06	dimetindene	HRH1	P35367
+R06	dimetindene	CHRM2	P08172
+R06	chlorphenamine	HRH1	P35367
+R06	pheniramine	HRH1	P35367
+R06	dexbrompheniramine	HRH1	P35367
+R06	talastine	NA	NA
+R06	mepyramine	HRH1	P35367
+R06	histapyrrodine	NA	NA
+R06	chloropyramine	HRH1	P35367
+R06	tripelennamine	HRH1	P35367
+R06	methapyrilene	NA	NA
+R06	thonzylamine	NA	NA
+R06	alimemazine	HRH1	P35367
+R06	promethazine	HRH1	P35367
+R06	thiethylperazine	DRD2	P14416
+R06	methdilazine	HRH1	P35367
+R06	hydroxyethylpromethazine	NA	NA
+R06	thiazinam	NA	NA
+R06	mequitazine	HRH1	P35367
+R06	oxomemazine	NA	NA
+R06	isothipendyl	HRH1	P35367
+R06	buclizine	CHRM1	P11229
+R06	buclizine	HRH1	P35367
+R06	cyclizine	HRH1	P35367
+R06	chlorcyclizine	HRH1	P35367
+R06	meclozine	NA	NA
+R06	oxatomide	HRH1	P35367
+R06	cetirizine	HRH1	P35367
+R06	levocetirizine	HRH1	P35367
+R06	bamipine	NA	NA
+R06	cyproheptadine	HTR2C	P28335
+R06	cyproheptadine	HRH1	P35367
+R06	cyproheptadine	HTR2A	P28223
+R06	thenalidine	NA	NA
+R06	phenindamine	HRH1	P35367
+R06	antazoline	HRH1	P35367
+R06	triprolidine	HRH1	P35367
+R06	pyrrobutamine	NA	NA
+R06	azatadine	HRH1	P35367
+R06	astemizole	HRH1	P35367
+R06	terfenadine	HRH1	P35367
+R06	loratadine	HRH1	P35367
+R06	mebhydrolin	NA	NA
+R06	deptropine	NA	NA
+R06	ketotifen	HRH1	P35367
+R06	acrivastine	HRH1	P35367
+R06	azelastine	HRH1	P35367
+R06	tritoqualine	NA	NA
+R06	ebastine	NA	NA
+R06	pimethixene	NA	NA
+R06	epinastine	HRH2	P25021
+R06	epinastine	HRH1	P35367
+R06	mizolastine	HRH1	P35367
+R06	fexofenadine	HRH1	P35367
+R06	desloratadine	HRH1	P35367
+R06	rupatadine	HRH1	P35367
+R06	rupatadine	PTAFR	P25105
+R06	bilastine	HRH1	P35367
+R06	quifenadine	NA	NA
+R06	sequifenadine	NA	NA
+R07	colfosceril palmitate	NA	NA
+R07	natural phospholipids	NA	NA
+R07	doxapram	KCNK3	O14649
+R07	doxapram	KCNK9	Q9NPC2
+R07	nikethamide	NA	NA
+R07	pentetrazol	NA	NA
+R07	etamivan	NA	NA
+R07	bemegride	NA	NA
+R07	prethcamide	NA	NA
+R07	almitrine	ATP1A1	P05023
+R07	dimefline	NA	NA
+R07	mepixanox	NA	NA
+R07	nitric oxide	GUCY1A2	P33402
+R07	ivacaftor	CFTR	P13569
+S01	chloramphenicol	NA	NA
+S01	chlortetracycline	NA	NA
+S01	neomycin	NA	NA
+S01	oxytetracycline	NA	NA
+S01	tyrothricin	NA	NA
+S01	framycetin	NA	NA
+S01	tetracycline	NA	NA
+S01	natamycin	NA	NA
+S01	gentamicin	NA	NA
+S01	tobramycin	NA	NA
+S01	fusidic acid	NA	NA
+S01	benzylpenicillin	NA	NA
+S01	dihydrostreptomycin	NA	NA
+S01	rifamycin	NA	NA
+S01	erythromycin	NA	NA
+S01	polymyxin b	NA	NA
+S01	ampicillin	NA	NA
+S01	amikacin	NA	NA
+S01	micronomicin	NA	NA
+S01	netilmicin	NA	NA
+S01	kanamycin	NA	NA
+S01	azidamfenicol	NA	NA
+S01	azithromycin	NA	NA
+S01	cefuroxime	NA	NA
+S01	sulfamethizole	NA	NA
+S01	sulfafurazole	NA	NA
+S01	sulfadicramide	NA	NA
+S01	sulfacetamide	NA	NA
+S01	sulfafenazol	NA	NA
+S01	idoxuridine	NA	NA
+S01	trifluridine	TYMS	P04818
+S01	aciclovir	NA	NA
+S01	interferon	NA	NA
+S01	vidarabine	ADORA2B	P29275
+S01	famciclovir	NA	NA
+S01	fomivirsen	NA	NA
+S01	ganciclovir	NA	NA
+S01	ofloxacin	NA	NA
+S01	norfloxacin	NA	NA
+S01	ciprofloxacin	NA	NA
+S01	lomefloxacin	TOP2A	P11388
+S01	lomefloxacin	TOP2B	Q02880
+S01	levofloxacin	TOP2A	P11388
+S01	gatifloxacin	NA	NA
+S01	moxifloxacin	NA	NA
+S01	besifloxacin	NA	NA
+S01	mercury compounds	NA	NA
+S01	silver compounds	NA	NA
+S01	zinc compounds	NA	NA
+S01	nitrofural	NA	NA
+S01	bibrocathol	NA	NA
+S01	resorcinol	PTGS1	P23219
+S01	resorcinol	CA2	P00918
+S01	resorcinol	CA12	O43570
+S01	sodium borate	NA	NA
+S01	hexamidine	NA	NA
+S01	chlorhexidine	NA	NA
+S01	sodium propionate	NA	NA
+S01	dibrompropamidine	NA	NA
+S01	propamidine	NA	NA
+S01	picloxydine	NA	NA
+S01	povidone-iodine	NA	NA
+S01	dexamethasone	NR3C1	P04150
+S01	hydrocortisone	NR3C1	P04150
+S01	hydrocortisone	ANXA1	P04083
+S01	cortisone	NA	NA
+S01	prednisolone	NR3C1	P04150
+S01	triamcinolone	NR3C1	P04150
+S01	betamethasone	NR3C1	P04150
+S01	fluorometholone	NR3C1	P04150
+S01	medrysone	NR3C1	P04150
+S01	clobetasone	NR3C1	P04150
+S01	alclometasone	NR3C1	P04150
+S01	alclometasone	SERPINA6	P08185
+S01	desonide	NR3C1	P04150
+S01	formocortal	NA	NA
+S01	rimexolone	NR3C1	P04150
+S01	rimexolone	ESRRA	P11474
+S01	loteprednol	NR3C1	P04150
+S01	fluocinolone acetonide	NR3C1	P04150
+S01	indometacin	NA	NA
+S01	oxyphenbutazone	ALB	P02768
+S01	diclofenac	PTGS2	P35354
+S01	diclofenac	ALOX5	P09917
+S01	diclofenac	PTGS1	P23219
+S01	diclofenac	KCNQ3	O43525
+S01	diclofenac	ASIC1	P78348
+S01	diclofenac	KCNQ2	O43526
+S01	diclofenac	SCN4A	P35499
+S01	flurbiprofen	PTGS2	P35354
+S01	ketorolac	PTGS2	P35354
+S01	piroxicam	PTGS1	P23219
+S01	piroxicam	PTGS2	P35354
+S01	bendazac	NA	NA
+S01	salicylic acid	PTGS1	P23219
+S01	salicylic acid	PTGS2	P35354
+S01	pranoprofen	NA	NA
+S01	nepafenac	NA	NA
+S01	bromfenac	PTGS1	P23219
+S01	bromfenac	PTGS2	P35354
+S01	dexamethasone	NR3C1	P04150
+S01	prednisolone	NR3C1	P04150
+S01	hydrocortisone	NR3C1	P04150
+S01	hydrocortisone	ANXA1	P04083
+S01	betamethasone	NR3C1	P04150
+S01	fluorometholone	NR3C1	P04150
+S01	epinephrine	ADRA1B	P35368
+S01	epinephrine	ADRA2A	P08913
+S01	epinephrine	ADRA1A	P35348
+S01	epinephrine	ADRB2	P07550
+S01	epinephrine	ADRA2B	P18089
+S01	epinephrine	ADRB1	P08588
+S01	dipivefrine	NA	NA
+S01	apraclonidine	ADRA2A	P08913
+S01	apraclonidine	ADRA1A	P35348
+S01	clonidine	ADRA2C	P18825
+S01	clonidine	ADRA2A	P08913
+S01	clonidine	ADRA2B	P18089
+S01	brimonidine	ADRA2C	P18825
+S01	brimonidine	ADRA2A	P08913
+S01	brimonidine	ADRA2B	P18089
+S01	pilocarpine	CHRM1	P11229
+S01	pilocarpine	CHRM2	P08172
+S01	pilocarpine	CHRM4	P08173
+S01	pilocarpine	CHRM3	P20309
+S01	carbachol	CHRNA2	Q15822
+S01	carbachol	CHRM1	P11229
+S01	carbachol	CHRM2	P08172
+S01	ecothiopate	NA	NA
+S01	demecarium	ACHE	P22303
+S01	physostigmine	ACHE	P22303
+S01	neostigmine	ACHE	P22303
+S01	fluostigmine	NA	NA
+S01	aceclidine	CHRM1	P11229
+S01	aceclidine	CHRM2	P08172
+S01	aceclidine	CHRM4	P08173
+S01	aceclidine	CHRM3	P20309
+S01	acetylcholine	NA	NA
+S01	paraoxon	CA1	P00915
+S01	paraoxon	FAAH	O00519
+S01	paraoxon	CNR1	P21554
+S01	paraoxon	CA2	P00918
+S01	paraoxon	ACHE	P22303
+S01	acetazolamide	CA2	P00918
+S01	acetazolamide	CA12	O43570
+S01	acetazolamide	CA3	P07451
+S01	acetazolamide	CA14	Q9ULX7
+S01	acetazolamide	CA4	P22748
+S01	acetazolamide	CA7	P43166
+S01	acetazolamide	CA1	P00915
+S01	diclofenamide	CA4	P22748
+S01	diclofenamide	CA7	P43166
+S01	diclofenamide	CA2	P00918
+S01	diclofenamide	CA1	P00915
+S01	dorzolamide	CA2	P00918
+S01	brinzolamide	CA2	P00918
+S01	brinzolamide	CA4	P22748
+S01	methazolamide	CA4	P22748
+S01	methazolamide	CA7	P43166
+S01	methazolamide	CA2	P00918
+S01	methazolamide	CA1	P00915
+S01	timolol	ADRB2	P07550
+S01	timolol	ADRB1	P08588
+S01	betaxolol	ADRB1	P08588
+S01	levobunolol	ADRB2	P07550
+S01	levobunolol	ADRB1	P08588
+S01	metipranolol	ADRB2	P07550
+S01	metipranolol	ADRB1	P08588
+S01	carteolol	ADRB2	P07550
+S01	carteolol	ADRB1	P08588
+S01	befunolol	NA	NA
+S01	latanoprost	PTGFR	P43088
+S01	unoprostone	NA	NA
+S01	bimatoprost	PTGER1	P34995
+S01	bimatoprost	PTGFR	P43088
+S01	bimatoprost	PTGER3	P43115
+S01	travoprost	PTGFR	P43088
+S01	tafluprost	PTGFR	P43088
+S01	guanethidine	SLC6A2	P23975
+S01	dapiprazole	DRD2	P14416
+S01	dapiprazole	ADRA1B	P35368
+S01	dapiprazole	ADRA1D	P25100
+S01	dapiprazole	ADRA1A	P35348
+S01	atropine	CHRM1	P11229
+S01	atropine	CHRM5	P08912
+S01	atropine	CHRM4	P08173
+S01	atropine	CHRM2	P08172
+S01	atropine	CHRM3	P20309
+S01	scopolamine	CHRM1	P11229
+S01	scopolamine	CHRM2	P08172
+S01	methylscopolamine	CHRM2	P08172
+S01	cyclopentolate	CHRM1	P11229
+S01	cyclopentolate	CHRM4	P08173
+S01	homatropine	NA	NA
+S01	tropicamide	CHRM4	P08173
+S01	phenylephrine	DRD2	P14416
+S01	phenylephrine	ADRA1B	P35368
+S01	phenylephrine	ADRA1D	P25100
+S01	phenylephrine	ADRA1A	P35348
+S01	ephedrine	DRD2	P14416
+S01	ibopamine	NA	NA
+S01	naphazoline	DRD2	P14416
+S01	naphazoline	ADRA2A	P08913
+S01	naphazoline	ADRA1A	P35348
+S01	tetryzoline	ADRA1A	P35348
+S01	xylometazoline	ADRA2B	P18089
+S01	xylometazoline	ADRA2A	P08913
+S01	xylometazoline	ADRA2C	P18825
+S01	xylometazoline	ADRA1A	P35348
+S01	oxymetazoline	ADRA2A	P08913
+S01	oxymetazoline	ADRA1A	P35348
+S01	phenylephrine	DRD2	P14416
+S01	phenylephrine	ADRA1B	P35368
+S01	phenylephrine	ADRA1D	P25100
+S01	phenylephrine	ADRA1A	P35348
+S01	oxedrine	NA	NA
+S01	cromoglicic acid	KCNMA1	Q12791
+S01	levocabastine	HRH1	P35367
+S01	levocabastine	NTSR2	O95665
+S01	spaglumic acid	NA	NA
+S01	nedocromil	CYSLTR1	Q9Y271
+S01	nedocromil	CYSLTR2	Q9NS75
+S01	lodoxamide	NA	NA
+S01	emedastine	HRH1	P35367
+S01	azelastine	HRH1	P35367
+S01	ketotifen	HRH1	P35367
+S01	olopatadine	HRH1	P35367
+S01	epinastine	HRH2	P25021
+S01	epinastine	HRH1	P35367
+S01	alcaftadine	HRH1	P35367
+S01	cocaine	SLC6A3	Q01959
+S01	cocaine	SLC6A4	P31645
+S01	cocaine	SCN5A	Q14524
+S01	cocaine	SLC6A2	P23975
+S01	oxybuprocaine	SCN10A	Q9Y5Y9
+S01	oxybuprocaine	SCN1A	P35498
+S01	tetracaine	RYR2	Q92736
+S01	tetracaine	RYR1	P21817
+S01	tetracaine	SCN10A	Q9Y5Y9
+S01	proxymetacaine	NA	NA
+S01	procaine	SCN10A	Q9Y5Y9
+S01	procaine	GRIN3A	Q8TCU5
+S01	procaine	SLC6A3	Q01959
+S01	procaine	HTR3A	P46098
+S01	cinchocaine	SCN10A	Q9Y5Y9
+S01	cinchocaine	SCN5A	Q14524
+S01	lidocaine	SCN10A	Q9Y5Y9
+S01	lidocaine	SCN9A	Q15858
+S01	lidocaine	SCN5A	Q14524
+S01	fluorescein	SLC22A6	Q4U2R8
+S01	rose bengal sodium	NA	NA
+S01	hyaluronic acid	ICAM1	P05362
+S01	hyaluronic acid	CD44	P16070
+S01	hyaluronic acid	HMMR	O75330
+S01	hypromellose	NA	NA
+S01	chymotrypsin	NA	NA
+S01	verteporfin	NA	NA
+S01	anecortave	NA	NA
+S01	pegaptanib	NA	NA
+S01	ranibizumab	VEGFA	P15692
+S01	ranibizumab	FLT1	P17948
+S01	aflibercept	PGF	P49763
+S01	aflibercept	VEGFB	P49765
+S01	aflibercept	VEGFA	P15692
+S01	guaiazulen	NA	NA
+S01	retinol	NA	NA
+S01	sodium chloride, hypertonic	NA	NA
+S01	potassium iodide	NA	NA
+S01	sodium edetate	NA	NA
+S01	ethylmorphine	OPRM1	P35372
+S01	alum	NA	NA
+S01	acetylcysteine	SLC7A11	Q9UPY5
+S01	acetylcysteine	GSS	P48637
+S01	iodoheparinate	NA	NA
+S01	inosine	NA	NA
+S01	nandrolone	AR	P10275
+S01	dexpanthenol	CHRM3	P20309
+S01	alteplase	PLG	P00747
+S01	alteplase	FGA	P02671
+S01	heparin	SERPINC1	P01008
+S01	heparin	F10	P00742
+S01	ascorbic acid	NA	NA
+S01	ciclosporin	NA	NA
+S01	limbal stems cells, autologous	NA	NA
+S01	mercaptamine	NA	NA
+S01	ocriplasmin	FN1	P02751
+S01	sirolimus	FKBP1A	P62942
+S01	sirolimus	FGF2	P09038
+S01	sirolimus	MTOR	P42345
+S02	chloramphenicol	NA	NA
+S02	nitrofural	NA	NA
+S02	boric acid	NA	NA
+S02	aluminium acetotartrate	NA	NA
+S02	clioquinol	OPRK1	P41145
+S02	hydrogen peroxide	PTPN1	P18031
+S02	neomycin	NA	NA
+S02	tetracycline	NA	NA
+S02	chlorhexidine	NA	NA
+S02	acetic acid	NA	NA
+S02	polymyxin b	NA	NA
+S02	rifamycin	NA	NA
+S02	miconazole	NA	NA
+S02	gentamicin	NA	NA
+S02	ciprofloxacin	NA	NA
+S02	ofloxacin	NA	NA
+S02	hydrocortisone	NR3C1	P04150
+S02	hydrocortisone	ANXA1	P04083
+S02	prednisolone	NR3C1	P04150
+S02	dexamethasone	NR3C1	P04150
+S02	betamethasone	NR3C1	P04150
+S02	fluocinolone acetonide	NR3C1	P04150
+S02	lidocaine	SCN10A	Q9Y5Y9
+S02	lidocaine	SCN9A	Q15858
+S02	lidocaine	SCN5A	Q14524
+S02	cocaine	SLC6A3	Q01959
+S02	cocaine	SLC6A4	P31645
+S02	cocaine	SCN5A	Q14524
+S02	cocaine	SLC6A2	P23975
+S02	phenazone	NA	NA
+S02	cinchocaine	SCN10A	Q9Y5Y9
+S02	cinchocaine	SCN5A	Q14524
+S03	neomycin	NA	NA
+S03	tetracycline	NA	NA
+S03	polymyxin b	NA	NA
+S03	chlorhexidine	NA	NA
+S03	hexamidine	NA	NA
+S03	gentamicin	NA	NA
+S03	ciprofloxacin	NA	NA
+S03	chloramphenicol	NA	NA
+S03	dexamethasone	NR3C1	P04150
+S03	prednisolone	NR3C1	P04150
+S03	betamethasone	NR3C1	P04150
+V01	feather	NA	NA
+V01	grass pollen	NA	NA
+V01	house dust mites	NA	NA
+V01	tree pollen	NA	NA
+V01	insects	NA	NA
+V01	food	NA	NA
+V01	textiles	NA	NA
+V01	flowers	NA	NA
+V01	animals	NA	NA
+V01	various	NA	NA
+V03	ipecacuanha	NA	NA
+V03	nalorphine	OPRK1	P41145
+V03	edetates	NA	NA
+V03	pralidoxime	BCHE	P06276
+V03	pralidoxime	ACHE	P22303
+V03	thiosulfate	NA	NA
+V03	sodium nitrite	HBB	P68871
+V03	sodium nitrite	HBA1	P69905
+V03	dimercaprol	NA	NA
+V03	obidoxime	ACHE	P22303
+V03	protamine	NA	NA
+V03	naloxone	OPRK1	P41145
+V03	naloxone	OPRD1	P41143
+V03	naloxone	OPRM1	P35372
+V03	ethanol	GRIN3A	Q8TCU5
+V03	ethanol	GLRA1	P23415
+V03	ethanol	GLRA2	P23416
+V03	ethanol	GABRA1	P14867
+V03	methylthioninium chloride	NA	NA
+V03	potassium permanganate	NA	NA
+V03	physostigmine	ACHE	P22303
+V03	copper sulfate	NA	NA
+V03	potassium iodide	NA	NA
+V03	amyl nitrite	NPR1	P16066
+V03	acetylcysteine	SLC7A11	Q9UPY5
+V03	acetylcysteine	GSS	P48637
+V03	digitalis antitoxin	NA	NA
+V03	flumazenil	GABRA6	Q16445
+V03	flumazenil	GABRA2	P47869
+V03	flumazenil	GABRP	O00591
+V03	flumazenil	GABRB3	P28472
+V03	flumazenil	GABRG2	P18507
+V03	flumazenil	GABRA3	P34903
+V03	flumazenil	GABRB1	P18505
+V03	flumazenil	GABRD	O14764
+V03	flumazenil	GABRA5	P31644
+V03	flumazenil	GABRE	P78334
+V03	flumazenil	GABRG3	Q99928
+V03	flumazenil	GABRQ	Q9UN88
+V03	flumazenil	TSPO	P30536
+V03	flumazenil	GABRA4	P48169
+V03	flumazenil	GABRB2	P47870
+V03	flumazenil	GABRA1	P14867
+V03	flumazenil	GABRG1	Q8N1C3
+V03	methionine	NA	NA
+V03	4-dimethylaminophenol	NA	NA
+V03	cholinesterase	NA	NA
+V03	prussian blue	NA	NA
+V03	glutathione	NA	NA
+V03	hydroxocobalamin	MUT	P22033
+V03	hydroxocobalamin	MTR	Q99707
+V03	fomepizole	ADH1B	P00325
+V03	fomepizole	ADH1C	P00326
+V03	fomepizole	CAT	P04040
+V03	fomepizole	ADH1A	P07327
+V03	sugammadex	NA	NA
+V03	phentolamine	DRD2	P14416
+V03	phentolamine	ADRA2A	P08913
+V03	phentolamine	ADRA1A	P35348
+V03	idarucizumab	NA	NA
+V03	deferoxamine	NA	NA
+V03	deferiprone	NA	NA
+V03	deferasirox	NA	NA
+V03	polystyrene sulfonate	NA	NA
+V03	sevelamer	NA	NA
+V03	lanthanum carbonate	NA	NA
+V03	sucroferric oxyhydroxide	NA	NA
+V03	colestilan	NA	NA
+V03	calcium acetate	NA	NA
+V03	ferric citrate	NA	NA
+V03	patiromer calcium	NA	NA
+V03	mesna	NA	NA
+V03	dexrazoxane	TOP2A	P11388
+V03	dexrazoxane	TOP2B	Q02880
+V03	calcium folinate	NA	NA
+V03	calcium levofolinate	NA	NA
+V03	amifostine	ALPPL2	P10696
+V03	sodium folinate	NA	NA
+V03	rasburicase	NA	NA
+V03	palifermin	FGFR2	P21802
+V03	glucarpidase	NA	NA
+V03	sodium levofolinate	NA	NA
+V03	sodium cellulose phosphate	NA	NA
+V03	diazoxide	KCNJ11	Q14654
+V03	diazoxide	CA2	P00918
+V03	diazoxide	CA1	P00915
+V03	oxygen	NA	NA
+V03	carbon dioxide	NA	NA
+V03	helium	NA	NA
+V03	nitrogen	NA	NA
+V03	medical air	NA	NA
+V03	nalfurafine	NA	NA
+V03	cobicistat	NA	NA
+V03	ethanol	GRIN3A	Q8TCU5
+V03	ethanol	GLRA1	P23415
+V03	ethanol	GLRA2	P23416
+V03	ethanol	GABRA1	P14867
+V04	tolbutamide	ABCC9	O60706
+V04	tolbutamide	ABCC8	Q09428
+V04	glucose	NA	NA
+V04	vitamin a concentrates	NA	NA
+V04	sorbitol	NA	NA
+V04	magnesium sulfate	NA	NA
+V04	sincalide	NA	NA
+V04	ceruletide	CCKBR	P32239
+V04	ceruletide	CCKAR	P32238
+V04	metyrapone	CYP11B1	P15538
+V04	sermorelin	GHRHR	Q02643
+V04	corticorelin	NA	NA
+V04	somatorelin	NA	NA
+V04	macimorelin	NA	NA
+V04	galactose	NA	NA
+V04	sulfobromophthalein	NA	NA
+V04	methacetin	NA	NA
+V04	tuberculin	NA	NA
+V04	cation exchange resins	NA	NA
+V04	betazole	HRH2	P25021
+V04	histamine phosphate	NA	NA
+V04	pentagastrin	CCKBR	P32239
+V04	methylthioninium chloride	NA	NA
+V04	indigo carmine	NA	NA
+V04	phenolsulfonphthalein	NA	NA
+V04	alsactide	NA	NA
+V04	aminohippuric acid	SLC22A6	Q4U2R8
+V04	thyrotropin	TSHR	P16473
+V04	protirelin	TRHR	P34981
+V04	secretin	SCT	P09683
+V04	secretin	SCTR	P47872
+V04	pancreozymin	NA	NA
+V04	bentiromide	HPN	P05981
+V04	gonadorelin	GNRHR2	Q96P88
+V04	gonadorelin	GNRHR	P30968
+V06	glucose	NA	NA
+V06	fructose	FHIT	P49789
+V08	diatrizoic acid	NA	NA
+V08	metrizoic acid	NA	NA
+V08	iodamide	NA	NA
+V08	iotalamic acid	NA	NA
+V08	ioxitalamic acid	NA	NA
+V08	ioglicic acid	NA	NA
+V08	acetrizoic acid	NA	NA
+V08	iocarmic acid	NA	NA
+V08	methiodal	NA	NA
+V08	diodone	NA	NA
+V08	metrizamide	NA	NA
+V08	iohexol	NA	NA
+V08	ioxaglic acid	NA	NA
+V08	iopamidol	NA	NA
+V08	iopromide	NA	NA
+V08	iotrolan	NA	NA
+V08	ioversol	NA	NA
+V08	iopentol	NA	NA
+V08	iodixanol	NA	NA
+V08	iomeprol	NA	NA
+V08	iobitridol	NA	NA
+V08	ioxilan	NA	NA
+V08	iodoxamic acid	NA	NA
+V08	iotroxic acid	NA	NA
+V08	ioglycamic acid	NA	NA
+V08	adipiodone	NA	NA
+V08	iobenzamic acid	NA	NA
+V08	iopanoic acid	NA	NA
+V08	iocetamic acid	NA	NA
+V08	sodium iopodate	NA	NA
+V08	tyropanoic acid	NA	NA
+V08	calcium iopodate	NA	NA
+V08	ethyl esters of iodised fatty acids	NA	NA
+V08	iopydol	NA	NA
+V08	propyliodone	NA	NA
+V08	iofendylate	NA	NA
+V08	barium sulfate with suspending agents	NA	NA
+V08	barium sulfate without suspending agents	NA	NA
+V08	gadopentetic acid	NA	NA
+V08	gadoteric acid	NA	NA
+V08	gadodiamide	NA	NA
+V08	gadoteridol	NA	NA
+V08	mangafodipir	NA	NA
+V08	gadoversetamide	NA	NA
+V08	ferric ammonium citrate	NA	NA
+V08	gadobenic acid	NA	NA
+V08	gadobutrol	NA	NA
+V08	gadoxetic acid	NA	NA
+V08	gadofosveset	ALB	P02768
+V08	ferumoxsil	NA	NA
+V08	ferristene	NA	NA
+V08	iron oxide, nanoparticles	NA	NA
+V08	perflubron	NA	NA
+V08	microspheres of human albumin	NA	NA
+V08	microparticles of galactose	NA	NA
+V08	perflenapent	NA	NA
+V08	microspheres of phospholipids	NA	NA
+V08	sulfur hexafluoride	NA	NA
+V09	technetium exametazime	NA	NA
+V09	technetium bicisate	NA	NA
+V09	iodine iofetamine	NA	NA
+V09	iodine iolopride	NA	NA
+V09	iodine ioflupane	NA	NA
+V09	indium pentetic acid	NA	NA
+V09	iodine iodophenyl)-tropane	NA	NA
+V09	flutemetamol	NA	NA
+V09	florbetapir	NA	NA
+V09	florbetaben	NA	NA
+V09	technetium oxidronic acid	NA	NA
+V09	technetium medronic acid	NA	NA
+V09	technetium pyrophosphate	NA	NA
+V09	technetium butedronic acid	NA	NA
+V09	technetium pentetic acid	NA	NA
+V09	technetium succimer	NA	NA
+V09	technetium mertiatide	NA	NA
+V09	technetium gluceptate	NA	NA
+V09	technetium gluconate	NA	NA
+V09	technetium ethylenedicysteine	NA	NA
+V09	sodium iodohippurate	NA	NA
+V09	sodium iodohippurate	NA	NA
+V09	sodium iothalamate	NA	NA
+V09	chromium edetate	NA	NA
+V09	technetium disofenin	NA	NA
+V09	technetium etifenin	NA	NA
+V09	technetium lidofenin	NA	NA
+V09	technetium mebrofenin	NA	NA
+V09	technetium galtifenin	NA	NA
+V09	technetium nanocolloid	NA	NA
+V09	technetium microcolloid	NA	NA
+V09	technetium millimicrospheres	NA	NA
+V09	technetium tin colloid	NA	NA
+V09	technetium sulfur colloid	NA	NA
+V09	technetium rheniumsulfide colloid	NA	NA
+V09	technetium phytate	NA	NA
+V09	selenium tauroselcholic acid	NA	NA
+V09	technetium pentetic acid	NA	NA
+V09	technetium technegas	NA	NA
+V09	technetium nanocolloid	NA	NA
+V09	technetium macrosalb	NA	NA
+V09	technetium microspheres	NA	NA
+V09	krypton gas	NA	NA
+V09	xenon gas	NA	NA
+V09	xenon gas	NA	NA
+V09	technetium pertechnetate	NA	NA
+V09	sodium iodide	NA	NA
+V09	sodium iodide	NA	NA
+V09	sodium iodide	NA	NA
+V09	technetium sestamibi	NA	NA
+V09	technetium tetrofosmin	NA	NA
+V09	technetium teboroxime	NA	NA
+V09	technetium human albumin	NA	NA
+V09	technetium furifosmin	NA	NA
+V09	technetium stannous agent labelled cells	NA	NA
+V09	technetium apcitide	NA	NA
+V09	fibrinogen	NA	NA
+V09	iodine human albumin	NA	NA
+V09	thallium chloride	NA	NA
+V09	indium imciromab	NA	NA
+V09	chromium chromate labelled cells	NA	NA
+V09	rubidium chloride	NA	NA
+V09	technetium human immunoglobulin	NA	NA
+V09	technetium exametazime labelled cells	NA	NA
+V09	technetium antigranulocyte antibody	NA	NA
+V09	technetium sulesomab	NA	NA
+V09	indium oxinate labelled cells	NA	NA
+V09	indium tropolonate labelled cells	NA	NA
+V09	gallium citrate	NA	NA
+V09	technetium anticarcinoembryonicantigen antibody	NA	NA
+V09	technetium antimelanoma antibody	NA	NA
+V09	technetium pentavalent succimer	NA	NA
+V09	technetium votumumab	NA	NA
+V09	technetium depreotide	NA	NA
+V09	technetium arcitumomab	NA	NA
+V09	technetium hynic-octreotide	NA	NA
+V09	technetium etarfolatide	NA	NA
+V09	technetium tilmanocept	NA	NA
+V09	indium pentetreotide	NA	NA
+V09	indium satumomab pendetide	NA	NA
+V09	indium antiovariumcarcinoma antibody	NA	NA
+V09	indium capromab pendetide	NA	NA
+V09	iobenguane	NA	NA
+V09	iobenguane	NA	NA
+V09	iodine cc49-monoclonal antibody	NA	NA
+V09	fludeoxyglucose	NA	NA
+V09	fluorodopa	NA	NA
+V09	sodium fluoride	NA	NA
+V09	fluoromethylcholine	NA	NA
+V09	fluoroethylcholine	NA	NA
+V09	gallium edotreotide	NA	NA
+V09	fluoroethyl-l-tyrosine	NA	NA
+V09	fluoroestradiol	NA	NA
+V09	fluciclovine	NA	NA
+V09	iodine norcholesterol	NA	NA
+V09	iodocholesterol	NA	NA
+V09	iodine human albumin	NA	NA
+V09	cobalt cyanocobalamine	NA	NA
+V09	cobalt cyanocobalamine	NA	NA
+V09	selenium norcholesterol	NA	NA
+V09	ferric citrate	NA	NA
+V10	yttrium citrate colloid	NA	NA
+V10	yttrium ferrihydroxide colloid	NA	NA
+V10	yttrium silicate colloid	NA	NA
+V10	phosphorous chromicphosphate colloid	NA	NA
+V10	samarium hydroxyapatite colloid	NA	NA
+V10	dysprosium colloid	NA	NA
+V10	erbium citrate colloid	NA	NA
+V10	rhenium sulfide colloid	NA	NA
+V10	gold colloidal	NA	NA
+V10	strontium chloride	NA	NA
+V10	samarium lexidronam	NA	NA
+V10	rhenium etidronic acid	NA	NA
+V10	sodium iodide	NA	NA
+V10	iobenguane	NA	NA
+V10	tositumomab/iodine tositumomab	NA	NA
+V10	sodium phosphate	NA	NA
+V10	ibritumomab tiuxetan	MS4A1	P11836
+V10	radium dichloride	NA	NA
