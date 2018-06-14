@@ -16,6 +16,7 @@ The user input is a gene list from any source of genomic studies. GREP tells you
 - argparse
 - numpy
 - pandas
+
 This software is compatible with both versions of Python: 2 and 3.
 
 ## Installation
