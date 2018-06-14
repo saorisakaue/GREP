@@ -16,6 +16,7 @@ The user input is a gene list from any source of genomic studies, and GREP tells
 - argparse
 - numpy
 - pandas
+This software is compatible with both versions of Python: 2 and 3.
 
 ## Installation
 In order to get started with `GREP`, you can clone this repo by the following commands,
@@ -72,6 +73,6 @@ C	CARDIOVASCULAR SYSTEM	1.4418238993710693	0.327034895762871	ATP2A2:gallopamil;E
 | 5 | TargetGene:DrugNames | The overpapped genes and the drugs targeting those genes (if any). |
 
 ## Licence
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/3.0/88x31.png" /></a><br />
 This software is freely available for academic users. Usage for commercial purposes is not allowed.
 Please refer to the [LICENCE](https://github.com/saorisakaue/GREP/blob/master/LICENSE.md) page.
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/3.0/88x31.png" /></a><br />
