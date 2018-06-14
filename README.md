@@ -55,4 +55,7 @@ Please refer to `./example/` directory for example genesets.
 The above command outputs two text files for `ATC` analysis, and one file for `ICD` analysis.
 The example output;
 
+## Licence
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/3.0/88x31.png" /></a><br />
+This software is freely available for academic users. Usage for commercial purposes is not allowed.
+Please refer to the [LICENCE](https://github.com/saorisakaue/GREP/blob/master/LICENSE.md) page.
