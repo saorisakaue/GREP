@@ -45,10 +45,14 @@ Please refer to `./example/` directory for example genesets.
 
 `--output`, `-o`:  This will be used as an output prefix. [Required]
 
-`--test`, `-t`:  Choose from 'ATC' or 'ICD' according to the drug categorization. [Required]
+`--test`, `-t`:  Choose from `ATC` or `ICD` according to the drug categorization. [Required]
 
 `--output-drug-name`, `-d`:  If you want to know drug names target of which overlapped with your genes, set this flag (without any arguments after that).[Optional][Default = False]
 
 `--background`, `-b`: A list of all genes in the scope of your analysis if available. This will be used as background genes.[Optional][Default = None]
+
+### Output
+The above command outputs two text files for `ATC` analysis, and one file for `ICD` analysis.
+The example output;
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/3.0/88x31.png" /></a><br />
