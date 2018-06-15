@@ -17,7 +17,7 @@ The user input is a gene list from any source of genomic studies. GREP tells you
 - numpy
 - pandas
 
-This software is compatible with both versions of Python: 2 and 3.
+This software is compatible with both versions of python: 2 and 3.
 
 ## Installation
 In order to get started with `GREP`, you can clone this repo by the following commands,
