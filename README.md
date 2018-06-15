@@ -57,10 +57,10 @@ Please have a look at `./example/` directory for example gene sets.
 
 ### Output files
 The above command generates two text files for `ATC` analysis (tests for large categories and detailed categories), and one file for `ICD` analysis with the first line being a header.
-Below is an example output from ATC analysis.
+Below is an example output from ATC analysis for large categories.
 
 ```bash
-$ head my_GREP_test.ATC.detail.txt
+$ head my_GREP_test.ATC.large.txt
 #Group	GroupName	OddsRatio	FisherExactP	TargetGene:DrugNames
 A	ALIMENTARY TRACT AND METABOLISM	0.8160667251975418	0.7076001488153763	ACACB:metformin;TRPV4:citric acid
 B	BLOOD AND BLOOD FORMING ORGANS	5.287042099507928	0.004721436181224572	F11:conestat alfa;FGA:alteplase,anistreplase,reteplase,tenecteplase;KLKB1:ecallantide,conestat alfa;PDE3A:cilostazol;PLG:streptokinase,alteplase,anistreplase,urokinase,reteplase,tenecteplase,melagatran,aminocaproic acid,tranexamic acid
