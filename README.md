@@ -51,11 +51,12 @@ Please have a look at `./example/` directory for example gene sets.
 | `--output-drug-name`, `-d` | If you want to know the drug names targeting your genes, set this flag (without any arguments after that). | No | False |
 | `--background`, `-b` | A list of all genes in the scope of your analysis if available. This will be used as background genes. | No | All the genes targeted by the drugs in the database |
 
+#### What is `ATC` and `ICD` test ?
 - *ATC*; The Anatomical Therapeutic Chemical (ATC) Classification System is used for the classification of active ingredients of drugs according to the organ or system on which they act and their therapeutic, pharmacological and chemical properties. Large annotation has 14 anatomical categories, which are further categorized into 85 detailed classes in total. Drug-category information was retrieved from [KEGG DRUG](https://www.genome.jp/kegg/drug/)  website.
 - *ICD*; The 10th revision of the International Statistical Classification of Diseases and Related Health Problems categorizes diseases into 26 large groups, which are further subdivided into ~ 200 classes. Drug-indicated disease category information was retrieved from [TTD](https://db.idrblab.org/ttd/) website.
 
 ### Output files
-The above command generates two text files for `ATC` analysis (tests for large categories and detailed categories), and one file for `ICD` analysis.
+The above command generates two text files for `ATC` analysis (tests for large categories and detailed categories), and one file for `ICD` analysis with the first line being a header.
 Below is an example output from ATC analysis.
 
 ```bash
