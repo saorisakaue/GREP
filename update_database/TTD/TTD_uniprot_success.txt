@@ -1,0 +1,473 @@
+TTDC00013	Successful target	Plasma kallikrein	P03952
+TTDC00033	Successful target	Interleukin-12	P29459
+TTDC00060	Successful target	Heparanase	Q9Y251
+TTDC00084	Successful target	Tyrosine-protein kinase JAK3	P52333
+TTDC00085	Successful target	C1 esterase	P09871
+TTDC00110	Successful target	Hepatocyte growth factor receptor	P08581
+TTDC00121	Successful target	C-X-C chemokine receptor type 4	P30991
+TTDC00121	Successful target	C-X-C chemokine receptor type 4	P61073
+TTDC00158	Successful target	Sodium/glucose cotransporter 2	P31639
+TTDC00180	Successful target	Amyloid beta A4 protein	P05067
+TTDC00184	Successful target	Beta-3 adrenergic receptor	P13945
+TTDC00205	Successful target	Glucagon-like peptide 1	P41521
+TTDC00206	Successful target	Ubiquitin-protein ligase E3 Mdm2	Q00987
+TTDC00208	Successful target	T-cell-specific surface glycoprotein CD28	P10747
+TTDC00211	Successful target	HIV integrase	O56072
+TTDC00224	Successful target	Tumor necrosis factor ligand superfamily member 11	O14788
+TTDC00258	Successful target	Sphingosine 1-phosphate receptor 1	P21453
+TTDC00259	Successful target	Cytotoxic T-lymphocyte protein 4	P16410
+TTDC00290	Successful target	Vascular endothelial growth factor receptor 3	P35916
+TTDC00304	Successful target	Sodium-dependent noradrenaline transporter	P23975
+TTDC00317	Successful target	Nicotinic acid receptor	P49019
+TTDC00317	Successful target	Nicotinic acid receptor	Q8TDS4
+TTDC00318	Successful target	High affinity nerve growth factor receptor	P04629
+TTDC00331	Successful target	Apolipoprotein B-100	P04114
+TTDNC00515	Successful target	Glucocortoid	P04150
+TTDNC00613	Successful target	MEK2	P36507
+TTDNS00536	Successful target	smoothened receptor	Q99835
+TTDNS00537	Successful target	prostaglandin F prostanoid receptor	P43088
+TTDNS00541	Successful target	PIGF	Q07326
+TTDNS00542	Successful target	VEGFA	P15692
+TTDNS00544	Successful target	Glucagon-like peptide 2 receptor	O95838
+TTDNS00564	Successful target	upregulating cAMP	P49913
+TTDNS00582	Successful target	muscarinic receptor	P11229
+TTDNS00592	Successful target	Abl	P00519
+TTDNS00593	Successful target	RET	P07949
+TTDNS00597	Successful target	ROS1	P08922
+TTDNS00605	Successful target	cystic fibrosis transmembrane conductance regulator	P13569
+TTDNS00606	Successful target	calcium activated channel anoctamin 1	Q5XXA6
+TTDNS00615	Successful target	PDE5	O76074
+TTDR00148	Successful target	Dual specificity mitogen-activated protein kinase kinase 1	Q02750
+TTDR00859	Successful target	Protective antigen	P13423
+TTDR00926	Successful target	Vascular endothelial growth factor B	P49765
+TTDR01266	Successful target	Neutrophil collagenase	P22894
+TTDS00002	Successful target	Muscarinic acetylcholine receptor M1	P11229
+TTDS00003	Successful target	Muscarinic acetylcholine receptor M2	P08172
+TTDS00004	Successful target	Muscarinic acetylcholine receptor M3	P20309
+TTDS00005	Successful target	Muscarinic acetylcholine receptor M4	P08173
+TTDS00006	Successful target	Muscarinic acetylcholine receptor M5	P08912
+TTDS00007	Successful target	Vascular endothelial growth factor receptor 1	P17948
+TTDS00008	Successful target	Vascular endothelial growth factor receptor 2	P35968
+TTDS00011	Successful target	Dopamine D1 receptor	P21728
+TTDS00012	Successful target	D(2) dopamine receptor	P14416
+TTDS00013	Successful target	D(3) dopamine receptor	P35462
+TTDS00015	Successful target	D(1B) dopamine receptor	P21918
+TTDS00017	Successful target	Sodium-dependent dopamine transporter	Q01959
+TTDS00024	Successful target	4-aminobutyrate aminotransferase, mitochondrial	P80404
+TTDS00029	Successful target	Alpha-1B adrenergic receptor	P35368
+TTDS00030	Successful target	Alpha-1D adrenergic receptor	P25100
+TTDS00032	Successful target	Alpha-2A adrenergic receptor	P08913
+TTDS00036	Successful target	Beta-1 adrenergic receptor	P08588
+TTDS00037	Successful target	Beta-2 adrenergic receptor	P07550
+TTDS00040	Successful target	Prostaglandin G/H synthase 1	P23219
+TTDS00041	Successful target	Prostaglandin G/H synthase 2	P35354
+TTDS00043	Successful target	Gastrin/cholecystokinin type B receptor	P32239
+TTDS00044	Successful target	Potassium-transporting ATPase alpha chain 1	P20648
+TTDS00045	Successful target	Sodium/potassium-transporting ATPase alpha-1 chain	P05023
+TTDS00054	Successful target	Succinate semialdehyde dehydrogenase, mitochondrial	P51649
+TTDS00055	Successful target	3-beta-hydroxysteroid dehydrogenase	P19871
+TTDS00056	Successful target	Xanthine dehydrogenase/oxidase	P47989
+TTDS00058	Successful target	Glutamate dehydrogenase	Q9NGT0
+TTDS00059	Successful target	Dihydroorotate dehydrogenase, mitochondrial	P05021
+TTDS00059	Successful target	Dihydroorotate dehydrogenase, mitochondrial	Q02127
+TTDS00059	Successful target	Dihydroorotate dehydrogenase, mitochondrial	Q08210
+TTDS00059	Successful target	Dihydroorotate dehydrogenase, mitochondrial	Q12610
+TTDS00060	Successful target	Alcohol dehydrogenase	P14550
+TTDS00062	Successful target	Inosine-5'-monophosphate dehydrogenase	O96387
+TTDS00062	Successful target	Inosine-5'-monophosphate dehydrogenase	P06981
+TTDS00062	Successful target	Inosine-5'-monophosphate dehydrogenase	P49058
+TTDS00062	Successful target	Inosine-5'-monophosphate dehydrogenase	P50097
+TTDS00063	Successful target	Inosine-5'-monophosphate dehydrogenase 2	P12268
+TTDS00065	Successful target	Phospholipase A2	P04054
+TTDS00066	Successful target	Lipoprotein lipase	P06858
+TTDS00068	Successful target	Corticosteroid-binding globulin	P08185
+TTDS00073	Successful target	Retinoic acid receptor alpha	P10276
+TTDS00075	Successful target	Retinoic acid receptor gamma	P13631
+TTDS00076	Successful target	Growth hormone receptor	P10912
+TTDS00078	Successful target	Aldehyde oxidase	Q06278
+TTDS00079	Successful target	DNA topoisomerase I	P11387
+TTDS00079	Successful target	DNA topoisomerase I	Q00313
+TTDS00080	Successful target	DNA topoisomerase II	P0AES4
+TTDS00080	Successful target	DNA topoisomerase II	P0AES6
+TTDS00080	Successful target	DNA topoisomerase II	P11388
+TTDS00080	Successful target	DNA topoisomerase II	Q02880
+TTDS00084	Successful target	Topoisomerase IV subunit A	P20082
+TTDS00084	Successful target	Topoisomerase IV subunit A	P72525
+TTDS00086	Successful target	Histamine H1 receptor	P35367
+TTDS00087	Successful target	Histamine H2 receptor	P25021
+TTDS00089	Successful target	Histamine N-methyltransferase	P50135
+TTDS00090	Successful target	FL cytokine receptor	P36888
+TTDS00091	Successful target	Myeloid cell surface antigen CD33	P20138
+TTDS00092	Successful target	Adenosine deaminase	P00813
+TTDS00093	Successful target	Dipeptidyl peptidase IV	P27487
+TTDS00095	Successful target	Histone deacetylase 1	Q13547
+TTDS00096	Successful target	CAMPATH-1 antigen	P31358
+TTDS00098	Successful target	5-hydroxytryptamine 1A receptor	P08908
+TTDS00099	Successful target	5-hydroxytryptamine 1B receptor	P28222
+TTDS00100	Successful target	5-hydroxytryptamine 1D receptor	P28221
+TTDS00103	Successful target	5-hydroxytryptamine 2A receptor	P28223
+TTDS00104	Successful target	5-hydroxytryptamine 2B receptor	P41595
+TTDS00105	Successful target	5-hydroxytryptamine 2C receptor	P28335
+TTDS00106	Successful target	5-hydroxytryptamine 3 receptor	P46098
+TTDS00107	Successful target	5-hydroxytryptamine 4 receptor	Q13639
+TTDS00109	Successful target	Vasopressin V1a receptor	P37288
+TTDS00111	Successful target	Vasopressin V2 receptor	P30518
+TTDS00112	Successful target	Arachidonate 5-lipoxygenase	P09917
+TTDS00113	Successful target	P2Y purinoceptor 12	Q9H244
+TTDS00115	Successful target	Aldose reductase	P15121
+TTDS00116	Successful target	Solute carrier family 12 member 1	Q13621
+TTDS00117	Successful target	Solute carrier family 12 member 3	P55017
+TTDS00118	Successful target	Synaptic vesicle amine transporter	Q05940
+TTDS00120	Successful target	Glutamate-gated chloride channel	Q9GQW8
+TTDS00122	Successful target	Glutamate receptor, ionotropic kainate 1	P39086
+TTDS00123	Successful target	Glutamate [NMDA] receptor subunit epsilon 1	Q12879
+TTDS00126	Successful target	Mu-type opioid receptor	P35372
+TTDS00127	Successful target	Kappa-type opioid receptor	P41145
+TTDS00128	Successful target	Delta-type opioid receptor	P41143
+TTDS00129	Successful target	Sigma(1)-type opioid receptor	Q99720
+TTDS00131	Successful target	Tumor necrosis factor	P01375
+TTDS00134	Successful target	Insulin-degrading Enzyme	P14735
+TTDS00138	Successful target	Interleukin 1 receptor	P14778
+TTDS00139	Successful target	Interleukin-2 receptor	O15163
+TTDS00139	Successful target	Interleukin-2 receptor	P01589
+TTDS00139	Successful target	Interleukin-2 receptor	P14784
+TTDS00140	Successful target	Acetylcholinesterase	P22303
+TTDS00141	Successful target	Neuronal acetylcholine receptor protein, alpha-4 chain	P43681
+TTDS00143	Successful target	Cholinesterase	P06276
+TTDS00144	Successful target	Erythropoietin Receptor	P19235
+TTDS00145	Successful target	Calcium-activated potassium channel	O15554
+TTDS00145	Successful target	Calcium-activated potassium channel	Q12791
+TTDS00147	Successful target	Potassium voltage-gated channel subfamily H member 2	Q12809
+TTDS00148	Successful target	Potassium voltage-gated channel subfamily KQT member 1	P51787
+TTDS00149	Successful target	Potassium voltage-gated channel subfamily KQT member 4	P56696
+TTDS00150	Successful target	ATP-sensitive K+ channel	P48544
+TTDS00153	Successful target	Na-K-2Cl cotransporter	P55011
+TTDS00156	Successful target	Voltage-gated sodium channel	Q8NDX3
+TTDS00157	Successful target	Voltage-gated sodium channel subunit alpha Nav1.8	Q9Y5Y9
+TTDS00158	Successful target	Amiloride-sensitive sodium channel alpha-subunit	P37088
+TTDS00161	Successful target	Voltage-dependent T-type calcium channel alpha-1G subunit	O43497
+TTDS00161	Successful target	Voltage-dependent T-type calcium channel alpha-1G subunit	Q9P0X4
+TTDS00164	Successful target	Extracellular calcium-sensing receptor	P41180
+TTDS00165	Successful target	Ryanodine receptor	P21817
+TTDS00165	Successful target	Ryanodine receptor	Q15413
+TTDS00165	Successful target	Ryanodine receptor	Q92736
+TTDS00167	Successful target	Calcium/calmodulin-dependent 3',5'-cyclic nucleotide phosphodiesterase 1	P54750
+TTDS00167	Successful target	Calcium/calmodulin-dependent 3',5'-cyclic nucleotide phosphodiesterase 1	Q01064
+TTDS00167	Successful target	Calcium/calmodulin-dependent 3',5'-cyclic nucleotide phosphodiesterase 1	Q14123
+TTDS00168	Successful target	Prostaglandin E2 receptor, EP2 subtype	P43116
+TTDS00169	Successful target	Prostaglandin F2-alpha receptor	P43088
+TTDS00170	Successful target	Prostacyclin receptor	P43119
+TTDS00171	Successful target	Fibroblast growth factor receptor 2	P21802
+TTDS00174	Successful target	Neuraminidase	P06818
+TTDS00174	Successful target	Neuraminidase	P29768
+TTDS00175	Successful target	Influenza A virus M2 protein	P06821
+TTDS00175	Successful target	Influenza A virus M2 protein	P63231
+TTDS00177	Successful target	Fatty-acid amide hydrolase	O00519
+TTDS00181	Successful target	Angiotensin-converting enzyme	P12821
+TTDS00181	Successful target	Angiotensin-converting enzyme	P22966
+TTDS00182	Successful target	D-alanyl-D-alanine carboxypeptidase	Q47746
+TTDS00183	Successful target	Cysteinyl leukotriene receptor 1	Q9Y271
+TTDS00186	Successful target	Adenosine A1 receptor	P30542
+TTDS00187	Successful target	Adenosine A2a receptor	P29274
+TTDS00188	Successful target	Adenosine A2b receptor	P29275
+TTDS00189	Successful target	Adenosine A3 receptor	P33765
+TTDS00191	Successful target	Poly [ADP-ribose] polymerase-1	P09874
+TTDS00192	Successful target	Glutathione S-transferase	P08515
+TTDS00192	Successful target	Glutathione S-transferase	P80894
+TTDS00192	Successful target	Glutathione S-transferase	Q8MU52
+TTDS00194	Successful target	Substance-P receptor	P25103
+TTDS00195	Successful target	3-hydroxy-3-methylglutaryl-coenzyme A reductase	P04035
+TTDS00198	Successful target	Endothelin-1 receptor	P25101
+TTDS00199	Successful target	Endothelin B receptor	P24530
+TTDS00202	Successful target	Thrombin	P00734
+TTDS00203	Successful target	Coagulation factor Xa	P00742
+TTDS00204	Successful target	Coagulation Factor Va	P12259
+TTDS00205	Successful target	Coagulation Factor VIIIa	P00451
+TTDS00206	Successful target	Mineralocorticoid receptor	P08235
+TTDS00208	Successful target	Dihydrofolate reductase	O33305
+TTDS00208	Successful target	Dihydrofolate reductase	P00374
+TTDS00208	Successful target	Dihydrofolate reductase	P00379
+TTDS00208	Successful target	Dihydrofolate reductase	P0ABQ4
+TTDS00208	Successful target	Dihydrofolate reductase	P13922
+TTDS00208	Successful target	Dihydrofolate reductase	P16184
+TTDS00208	Successful target	Dihydrofolate reductase	Q27793
+TTDS00208	Successful target	Dihydrofolate reductase	Q8I372
+TTDS00208	Successful target	Dihydrofolate reductase	Q9HBH1
+TTDS00211	Successful target	Penicillin binding protein 2	P08150
+TTDS00211	Successful target	Penicillin binding protein 2	P0A3M5
+TTDS00212	Successful target	Penicillin binding protein 3	P04286
+TTDS00212	Successful target	Penicillin binding protein 3	P0AD68
+TTDS00212	Successful target	Penicillin binding protein 3	P45059
+TTDS00222	Successful target	DNA-dependent RNA polymerase at the beta subunit	Q7X2I2
+TTDS00223	Successful target	Isoleucyl-tRNA synthetase (bacterial)	P00956
+TTDS00223	Successful target	Isoleucyl-tRNA synthetase (bacterial)	Q99UR8
+TTDS00226	Successful target	Plastid RNA polymerase beta-subunit	P00575
+TTDS00226	Successful target	Plastid RNA polymerase beta-subunit	P0A8V2
+TTDS00226	Successful target	Plastid RNA polymerase beta-subunit	P21421
+TTDS00228	Successful target	Beta-lactamase	P00807
+TTDS00228	Successful target	Beta-lactamase	P00811
+TTDS00230	Successful target	Dehydropeptidase I	P16444
+TTDS00233	Successful target	UDP-N-acetylglucosamine 1-carboxyvinyltransferase	P28909
+TTDS00234	Successful target	73-kDa molecular chaperone HSP73	P11142
+TTDS00235	Successful target	Enoyl-ACP reductase	P0AEK4
+TTDS00235	Successful target	Enoyl-ACP reductase	P0AEK5
+TTDS00235	Successful target	Enoyl-ACP reductase	P0AEK6
+TTDS00235	Successful target	Enoyl-ACP reductase	Q965D5
+TTDS00235	Successful target	Enoyl-ACP reductase	Q9BH77
+TTDS00237	Successful target	Dihydropteroate synthetase	P26282
+TTDS00237	Successful target	Dihydropteroate synthetase	Q8IAU3
+TTDS00237	Successful target	Dihydropteroate synthetase	Q93RQ9
+TTDS00237	Successful target	Dihydropteroate synthetase	Q96W63
+TTDS00237	Successful target	Dihydropteroate synthetase	Q9BIX9
+TTDS00241	Successful target	17 alpha-hydroxylase-C17, 20-lyase	P05093
+TTDS00242	Successful target	Estrogen receptor	P03372
+TTDS00242	Successful target	Estrogen receptor	Q13262
+TTDS00245	Successful target	Progesterone receptor	P06401
+TTDS00246	Successful target	Ribonucleoside-diphosphate reductase	P08543
+TTDS00247	Successful target	Proto-oncogene tyrosine-protein kinase SRC	P12931
+TTDS00249	Successful target	Receptor protein-tyrosine kinase erbB-2	P04626
+TTDS00250	Successful target	Estrogen receptor beta	Q92731
+TTDS00251	Successful target	Vitamin D receptor	P11473
+TTDS00252	Successful target	Cytochrome P450 19	P11511
+TTDS00254	Successful target	Lutropin-choriogonadotropic hormone receptor	P22888
+TTDS00256	Successful target	Alkaline phosphatase, tissue-nonspecific	P05186
+TTDS00258	Successful target	Parathyroid hormone/parathyroid hormone-related peptide receptor	Q03431
+TTDS00264	Successful target	Oxytocin receptor	P30559
+TTDS00265	Successful target	Serine/threonine-protein kinase mTOR	P42345
+TTDS00267	Successful target	Type-1 angiotensin II receptor	P30556
+TTDS00268	Successful target	B-lymphocyte antigen CD20	P11836
+TTDS00269	Successful target	Insulin-like growth factor I receptor	P08069
+TTDS00270	Successful target	Mast/stem cell growth factor receptor	P10721
+TTDS00272	Successful target	Bile acid receptor	Q96RI1
+TTDS00273	Successful target	Gonadotropin-releasing hormone receptor	P30968
+TTDS00274	Successful target	Heat shock protein 90	P24724
+TTDS00274	Successful target	Heat shock protein 90	Q8III6
+TTDS00275	Successful target	Signal transducer and activator of transcription 3	P40763
+TTDS00276	Successful target	Thioredoxin reductase, cytoplasmic	P46843
+TTDS00276	Successful target	Thioredoxin reductase, cytoplasmic	P61076
+TTDS00276	Successful target	Thioredoxin reductase, cytoplasmic	Q16881
+TTDS00276	Successful target	Thioredoxin reductase, cytoplasmic	Q25861
+TTDS00276	Successful target	Thioredoxin reductase, cytoplasmic	Q7Z7S3
+TTDS00276	Successful target	Thioredoxin reductase, cytoplasmic	Q8J0U0
+TTDS00278	Successful target	Bile salt export pump	O95342
+TTDS00280	Successful target	CAMP-specific 3',5'-cyclic phosphodiesterase 4A	P27815
+TTDS00283	Successful target	Glucocorticoid receptor	P04150
+TTDS00285	Successful target	Alpha-1-antitrypsin	P01009
+TTDS00286	Successful target	Adrenocorticotropic hormone receptor	Q01718
+TTDS00287	Successful target	Chloride channel protein 2	P51788
+TTDS00288	Successful target	Multidrug resistance-associated protein 1	P33527
+TTDS00289	Successful target	Amine oxidase [flavin-containing] A	P21397
+TTDS00291	Successful target	Maltase-glucoamylase, intestinal	O43451
+TTDS00292	Successful target	Insulin receptor	P06213
+TTDS00295	Successful target	Fatty acid synthase	P49327
+TTDS00296	Successful target	CGMP-specific 3',5'-cyclic phosphodiesterase	O76074
+TTDS00299	Successful target	1,3-Beta-Glucan synthase	P38631
+TTDS00299	Successful target	1,3-Beta-Glucan synthase	P38678
+TTDS00300	Successful target	Human keratin	Q16195
+TTDS00301	Successful target	Thymidylate synthase	O02604
+TTDS00301	Successful target	Thymidylate synthase	P04818
+TTDS00301	Successful target	Thymidylate synthase	P13100
+TTDS00301	Successful target	Thymidylate synthase	P13922
+TTDS00302	Successful target	Squalene monooxygenase	P32476
+TTDS00302	Successful target	Squalene monooxygenase	Q14534
+TTDS00306	Successful target	Carbonic anhydrase II	P00918
+TTDS00307	Successful target	Fumarate reductase flavoprotein subunit	O06913
+TTDS00307	Successful target	Fumarate reductase flavoprotein subunit	P00363
+TTDS00308	Successful target	Tubulin beta	P07437
+TTDS00309	Successful target	HBV polymerase	Q67889
+TTDS00310	Successful target	DNA polymerase	O39644
+TTDS00311	Successful target	Toll-like receptor 7	Q9NYK1
+TTDS00312	Successful target	DNA (cytosine-5)-methyltransferase	P11876
+TTDS00313	Successful target	Ornithine decarboxylase	O15696
+TTDS00313	Successful target	Ornithine decarboxylase	P07805
+TTDS00313	Successful target	Ornithine decarboxylase	P11926
+TTDS00314	Successful target	4-hydroxyphenylpyruvate dioxygenase	P49429
+TTDS00315	Successful target	DNA polymerase (HSV)	P04293
+TTDS00316	Successful target	DNA polymerase (HSV-2)	P07918
+TTDS00317	Successful target	HIV-1 reverse transcriptase	Q69617
+TTDS00319	Successful target	HIV-1 protease	O09807
+TTDS00319	Successful target	HIV-1 protease	O90777
+TTDS00322	Successful target	HIV-1 Tat protein	P04612
+TTDS00323	Successful target	Peptidyl-prolyl cis-trans isomerase A	P05092
+TTDS00323	Successful target	Peptidyl-prolyl cis-trans isomerase A	P62937
+TTDS00325	Successful target	Transmembrane glycoprotein gp41	O40239
+TTDS00326	Successful target	C-C chemokine receptor type 5	P51681
+TTDS00328	Successful target	Niemann-Pick C1-like protein 1	Q9UHC9
+TTDS00334	Successful target	Cannabinoid receptor 1	P21554
+TTDS00336	Successful target	Serum albumin	P02768
+TTDS00337	Successful target	Nitric oxide synthase, inducible	P35228
+TTDS00338	Successful target	Peroxisome proliferator activated receptor gamma	P37231
+TTDS00340	Successful target	Peroxisome proliferator activated receptor alpha	Q07869
+TTDS00341	Successful target	Amine oxidase [flavin-containing] B	P27338
+TTDS00342	Successful target	Delta-aminolevulinic acid dehydratase	P13716
+TTDS00346	Successful target	B-Raf proto-oncogene serine/threonine-protein kinase	P15056
+TTDS00347	Successful target	Fusion glycoprotein	P33481
+TTDS00347	Successful target	Fusion glycoprotein	P35973
+TTDS00347	Successful target	Fusion glycoprotein	Q91MJ9
+TTDS00348	Successful target	Proto-oncogene tyrosine-protein kinase receptor ret	P07949
+TTDS00350	Successful target	Proto-oncogene tyrosine-protein kinase ABL1	P00519
+TTDS00350	Successful target	Proto-oncogene tyrosine-protein kinase ABL1	P42684
+TTDS00351	Successful target	Orphan nuclear receptor NR1I3	Q14994
+TTDS00355	Successful target	Epidermal growth factor receptor	P00533
+TTDS00357	Successful target	Acetyl-CoA carboxylase 2	O00763
+TTDS00359	Successful target	Cytochrome P450 51	B3V1X5
+TTDS00359	Successful target	Cytochrome P450 51	P10613
+TTDS00359	Successful target	Cytochrome P450 51	Q16850
+TTDS00359	Successful target	Cytochrome P450 51	Q96W81
+TTDS00360	Successful target	Receptor-type protein-tyrosine phosphatase S	Q13332
+TTDS00361	Successful target	Aromatic-L-amino-acid decarboxylase	P20711
+TTDS00362	Successful target	Catechol-O-methyl-transferase	P21964
+TTDS00365	Successful target	Tyrosine 3-monooxygenase	P07101
+TTDS00367	Successful target	Androgen receptor	P10275
+TTDS00368	Successful target	T-cell surface antigen CD2	P06729
+TTDS00372	Successful target	Farnesyl pyrophosphate synthetase	P14324
+TTDS00372	Successful target	Farnesyl pyrophosphate synthetase	Q86C09
+TTDS00373	Successful target	Tyrosine oxidase	P14679
+TTDS00377	Successful target	Ceramide glucosyltransferase	Q16739
+TTDS00378	Successful target	Heparin cofactor II	P05546
+TTDS00380	Successful target	Thyroid peroxidase	P07202
+TTDS00381	Successful target	Thyroid hormone receptor alpha	P10827
+TTDS00384	Successful target	Enoyl-[acyl-carrier-protein] reductase [NADH]	P0A5Y6
+TTDS00384	Successful target	Enoyl-[acyl-carrier-protein] reductase [NADH]	P46533
+TTDS00386	Successful target	Fatty acid synthase subunit beta	P34229
+TTDS00386	Successful target	Fatty acid synthase subunit beta	P34731
+TTDS00389	Successful target	Tubulin beta-2 chain	P05217
+TTDS00390	Successful target	CGMP-inhibited 3',5'-cyclic phosphodiesterase A	Q14432
+TTDS00392	Successful target	Plasminogen	P00747
+TTDS00393	Successful target	Melatonin receptor type 1A	P48039
+TTDS00394	Successful target	Somatostatin receptor type 2	P30874
+TTDS00395	Successful target	Thromboxane A2 receptor	P21731
+TTDS00397	Successful target	Pancreatic alpha-amylase	P04746
+TTDS00398	Successful target	Vitamin K epoxide reductase complex subunit 1	Q9BQB6
+TTDS00399	Successful target	5-hydroxytryptamine receptor 3A	P46098
+TTDS00400	Successful target	Neuronal acetylcholine receptor subunit alpha-2	Q15822
+TTDS00401	Successful target	Inosine-5'-monophosphate dehydrogenase 1	P20839
+TTDS00402	Successful target	Sodium channel protein type 5 subunit alpha	Q14524
+TTDS00403	Successful target	Gamma-aminobutyric acid receptor subunit alpha-1	P14867
+TTDS00404	Successful target	Sodium channel protein type 1 subunit alpha	P35498
+TTDS00405	Successful target	Adenine nucleotide translocator 1	P12235
+TTDS00406	Successful target	Proto-oncogene tyrosine-protein kinase Fyn	P06241
+TTDS00407	Successful target	Proto-oncogene tyrosine-protein kinase LCK	P06239
+TTDS00408	Successful target	Proto-oncogene tyrosine-protein kinase Yes	P07947
+TTDS00409	Successful target	Troponin C	P63316
+TTDS00410	Successful target	Gamma-aminobutyric acid receptor subunit beta-2	P47870
+TTDS00411	Successful target	Macrophage colony-stimulating factor receptor	P07333
+TTDS00411	Successful target	Macrophage colony-stimulating factor receptor	Q99062
+TTDS00412	Successful target	Potassium voltage-gated channel subfamily D member 3	Q9UK17
+TTDS00413	Successful target	Voltage-dependent T-type calcium channel subunit alpha-1H	O95180
+TTDS00414	Successful target	Voltage-dependent L-type calcium channel subunit alpha-1C	Q13936
+TTDS00415	Successful target	Voltage-dependent calcium channel subunit alpha-2/delta-1	P54289
+TTDS00415	Successful target	Voltage-dependent calcium channel subunit alpha-2/delta-1	Q06432
+TTDS00416	Successful target	Sodium channel protein type 4 subunit alpha	P35499
+TTDS00417	Successful target	Peptidyl-prolyl cis-trans isomerase B	P23284
+TTDS00418	Successful target	Cytochrome P450 3A4	P08684
+TTDS00419	Successful target	Cytochrome P450 11A1, mitochondrial	P05108
+TTDS00420	Successful target	Cytochrome P450 11B1, mitochondrial	P15538
+TTDS00421	Successful target	Ribonucleoside-diphosphate reductase subunit M2	P31350
+TTDS00422	Successful target	Melatonin receptor type 1B	P49286
+TTDS00423	Successful target	3 beta-hydroxysteroid dehydrogenase/Delta 5-->4-isomerase	P14060
+TTDS00423	Successful target	3 beta-hydroxysteroid dehydrogenase/Delta 5-->4-isomerase	P26439
+TTDS00424	Successful target	Guanylate cyclase soluble subunit beta-1	Q02153
+TTDS00426	Successful target	Type I iodothyronine deiodinase	P49895
+TTDS00427	Successful target	Vacuolar ATP synthase catalytic subunit A	P38606
+TTDS00428	Successful target	Gamma-aminobutyric acid receptor subunit gamma-2	P18507
+TTDS00429	Successful target	Gastric triacylglycerol lipase	P07098
+TTDS00430	Successful target	Equilibrative nucleoside transporter 1	Q99808
+TTDS00430	Successful target	Equilibrative nucleoside transporter 1	Q9NIH7
+TTDS00431	Successful target	ATP-sensitive inward rectifier potassium channel 10	P78508
+TTDS00432	Successful target	Calmodulin	P02593
+TTDS00433	Successful target	Carnitine O-palmitoyltransferase I	P50416
+TTDS00433	Successful target	Carnitine O-palmitoyltransferase I	Q92523
+TTDS00435	Successful target	Complement C5	P01031
+TTDS00436	Successful target	Elongation factor G	P02996
+TTDS00436	Successful target	Elongation factor G	P0A6M8
+TTDS00436	Successful target	Elongation factor G	Q97SQ3
+TTDS00437	Successful target	Ferrochelatase	P22830
+TTDS00438	Successful target	Follicle stimulating hormone receptor	P23945
+TTDS00439	Successful target	Glucagon receptor	P47871
+TTDS00440	Successful target	Glucagon-like peptide 1 receptor	P43220
+TTDS00441	Successful target	Glutamate carboxypeptidase II	Q04609
+TTDS00442	Successful target	Granulocyte-macrophage colony-stimulating factor receptor alpha chain	P15509
+TTDS00444	Successful target	Lymphocyte function-associated antigen 1	P20701
+TTDS00444	Successful target	Lymphocyte function-associated antigen 1	Q9UBC8
+TTDS00445	Successful target	Integrin alpha-4	P13612
+TTDS00446	Successful target	Growth hormone-releasing hormone receptor	Q02643
+TTDS00447	Successful target	Interleukin-1 beta	P01584
+TTDS00448	Successful target	Leukocyte elastase	P08246
+TTDS00449	Successful target	Neprilysin	P08473
+TTDS00450	Successful target	Mannose-6-phosphate isomerase	P00946
+TTDS00450	Successful target	Mannose-6-phosphate isomerase	P34948
+TTDS00450	Successful target	Mannose-6-phosphate isomerase	P34949
+TTDS00451	Successful target	Renin, renal	P00797
+TTDS00452	Successful target	Thyrotropin receptor	P16473
+TTDS00453	Successful target	T-lymphocyte activation antigen CD80	P33681
+TTDS00454	Successful target	Peripheral-type benzodiazepine receptor	P30536
+TTDS00465	Successful target	Transient receptor potential cation channel subfamily A member 1	O75762
+TTDS00466	Successful target	Diglyceride acyltransferase	O75907
+TTDS00467	Successful target	Antithrombin-III	P01008
+TTDS00469	Successful target	NADH dehydrogenase	P03886
+TTDS00469	Successful target	NADH dehydrogenase	P03891
+TTDS00469	Successful target	NADH dehydrogenase	P03897
+TTDS00470	Successful target	Vitamin K-dependent protein C	P04070
+TTDS00471	Successful target	HLA class II histocompatibility antigen, DRB1-1	P04229
+TTDS00472	Successful target	T-cell surface glycoprotein CD1a	P06126
+TTDS00473	Successful target	T-cell surface glycoprotein CD3 epsilon chain	P07766
+TTDS00474	Successful target	D-alanine-D-alanine ligase A	P0A6J8
+TTDS00475	Successful target	Cytochrome P450 2D6	P10635
+TTDS00476	Successful target	Indoleamine 2,3-dioxygenase	P14902
+TTDS00477	Successful target	Interferon-gamma receptor	P15260
+TTDS00477	Successful target	Interferon-gamma receptor	P38484
+TTDS00478	Successful target	Atrial natriuretic peptide receptor A	P16066
+TTDS00479	Successful target	Urease	P18314
+TTDS00480	Successful target	B-cell receptor CD22	P20273
+TTDS00481	Successful target	Mannose-6-phosphate receptor	P20645
+TTDS00482	Successful target	Methylmalonyl-CoA mutase	P22033
+TTDS00483	Successful target	Vesicle-associated membrane protein	P23763
+TTDS00483	Successful target	Vesicle-associated membrane protein	P63027
+TTDS00484	Successful target	High affinity immunoglobulin epsilon receptor	P12319
+TTDS00484	Successful target	High affinity immunoglobulin epsilon receptor	P30273
+TTDS00485	Successful target	Calcitonin receptor	P30988
+TTDS00486	Successful target	Vitamin K-dependent gamma-carboxylase	P38435
+TTDS00487	Successful target	Carcinoembryonic antigen	P40198
+TTDS00489	Successful target	Folate receptor	P14207
+TTDS00489	Successful target	Folate receptor	P41439
+TTDS00490	Successful target	T-lymphocyte activation antigen CD86	P42081
+TTDS00491	Successful target	Secretin receptor	P47872
+TTDS00492	Successful target	Interferon-alpha/beta receptor	P17181
+TTDS00492	Successful target	Interferon-alpha/beta receptor	P48551
+TTDS00494	Successful target	Biliverdin reductase A	P53004
+TTDS00495	Successful target	Alpha-N-acetylglucosaminidase	P54802
+TTDS00496	Successful target	Synaptosomal-associated protein 25	P60880
+TTDS00497	Successful target	Somatostatin	P61278
+TTDS00498	Successful target	Hemoglobin	P68871
+TTDS00498	Successful target	Hemoglobin	P69905
+TTDS00499	Successful target	Type IV phosphodiesterase	Q08499
+TTDS00500	Successful target	Adenylate cyclase type 1	Q08828
+TTDS00501	Successful target	Interleukin-11 receptor alpha chain	Q14626
+TTDS00502	Successful target	Inositol 1,4,5-trisphosphate receptor	Q14571
+TTDS00502	Successful target	Inositol 1,4,5-trisphosphate receptor	Q14573
+TTDS00502	Successful target	Inositol 1,4,5-trisphosphate receptor	Q14643
+TTDS00503	Successful target	Voltage-gated sodium channel subunit alpha Nav1.7	Q15858
+TTDS00504	Successful target	Organic anion transporter 1	Q4U2R8
+TTDS00505	Successful target	Mannitol 2-dehydrogenase	Q4WQY4
+TTDS00506	Successful target	Mannitol-1-phosphate 5-dehydrogenase	Q4X1A4
+TTDS00507	Successful target	Transient receptor potential cation channel subfamily M member 8	Q7Z2W7
+TTDS00510	Successful target	Integral membrane protein LmrP	Q9CDQ3
+TTDS00511	Successful target	Cycloinulo-oligosaccharide fructanotransferase	Q9F0I5
+TTDS00512	Successful target	Gamma-hydroxybutyrate receptor	Q9HAB3
+TTDS00513	Successful target	Sodium-dependent vitamin C transporter 2	Q9UGH3
+TTDS00514	Successful target	Sodium channel protein type 10 subunit alpha	Q9Y5Y9
+TTDS00515	Successful target	Low affinity immunoglobulin gamma Fc region receptor II-A	P12318
+TTDS00516	Successful target	Acyl-CoA desaturase	O00767
+TTDS00516	Successful target	Acyl-CoA desaturase	Q6MWZ3
+TTDS00519	Successful target	HIV-1 integrase	O56072
+TTDS00520	Successful target	Neuronal acetylcholine receptor protein, alpha-7 chain	P36544
+TTDS00521	Successful target	Interleukin-6 receptor	P08887
+TTDS00521	Successful target	Interleukin-6 receptor	P40189
+TTDS00524	Successful target	Thrombopoietin Receptor	P40238
+TTDS00525	Successful target	Type-2 angiotensin II receptor	P50052
+TTDS00529	Successful target	Voltage-dependent N-type calcium channel	Q00975
+TTDS00530	Successful target	Pyruvate decarboxylase	P06958
+TTDS00531	Successful target	Diacylglycerol O-acyltransferase 2	Q96PD7
+TTDS00533	Successful target	Carbamoyl-phosphate synthetase I	P31327
+TTDS00534	Successful target	P40 subunit of interleukin-23	Q9NPF7
