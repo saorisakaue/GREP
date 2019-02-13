@@ -42,6 +42,13 @@ Please have a look at `./example/` directory for example gene sets.
 - `./example/megastroke.genes` can be used as genes identified by MEGASTROKE consortium ([*Nat Genet* 2018](https://www.nature.com/articles/s41588-018-0058-3)).
 - `./example/RA_trans.genes` can be used as genes identified in RA meta-analysis by Okada et al ([*Nature* 2014](https://www.nature.com/articles/nature12873)).
 
+#### FYI: How can I define a gene set from GWAS sumstats? 
+If your would like to perform post-GWAS analysis, and if you would like to convert SNP-level statisitcs to gene-level ones, here are some of the options.
+- A method used in MAGENTA. Reimplementation in python for the conversion is distributed [here](https://github.com/mkanai/minimgnt). Acknowledgement goes to [Masa Kanai](https://github.com/mkanai).
+- MAGMA ([external link](https://ctg.cncr.nl/software/magma))
+- PACAL ([external link](https://www2.unil.ch/cbg/index.php?title=Pascal))
+
+
 ### Options
 | Option name | Descriptions | Required | Default |
 |:-----------:|:------------|:------------:|:------------|
