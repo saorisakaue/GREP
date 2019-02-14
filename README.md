@@ -46,7 +46,7 @@ Please have a look at `./example/` directory for example gene sets.
 If your would like to perform post-GWAS analysis, and if you would like to convert SNP-level statisitcs to gene-level ones, here are some of the options.
 - A method used in MAGENTA. Reimplementation in python for the conversion is distributed [here](https://github.com/mkanai/minimgnt). Acknowledgement goes to [Masa Kanai](https://github.com/mkanai).
 - MAGMA ([external link](https://ctg.cncr.nl/software/magma))
-- PACAL ([external link](https://www2.unil.ch/cbg/index.php?title=Pascal))
+- PASCAL ([external link](https://www2.unil.ch/cbg/index.php?title=Pascal))
 
 
 ### Options
