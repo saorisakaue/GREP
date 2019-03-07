@@ -55,6 +55,7 @@ If your would like to perform post-GWAS analysis, and if you would like to conve
 - MAGMA ([external link](https://ctg.cncr.nl/software/magma))
 - PASCAL ([external link](https://www2.unil.ch/cbg/index.php?title=Pascal))
 
+To make a gene set, define P value threshold of your choice, and make a text file with a set of genes which pass that threshold using the output from the above softwares.
 
 ### Options
 | Option name | Descriptions | Required | Default |
