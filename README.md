@@ -12,6 +12,7 @@ The user input is a gene list from any source of genomic studies. GREP tells you
 
 ## Citation
 Our paper is coming soon!
+
 Sakaue S and Okada Y. GREP: Genome for REPositioning drugs. ***Bioinformatics*** In Press.
 
 Please cite this paper if you use GREP or any material in this repository.
