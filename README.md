@@ -11,9 +11,9 @@ Both can be run in a few seconds!
 The user input is a gene list from any source of genomic studies. GREP tells you (i) what kind of disease categories are pharmaco-genetically associated with the gene set and (ii) what kind of medications can have a potential for being repositioned to another indication.
 
 ## Publication/Citation
-Our paper is coming soon!
+**Our paper is out!!!**
 
-Sakaue S and Okada Y. GREP: Genome for REPositioning drugs. *Bioinformatics.* In Press.
+Sakaue S and Okada Y. [GREP: Genome for REPositioning drugs.](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btz166/5374757) *Bioinformatics.* 2019
 
 Please cite this paper if you use GREP or any material in this repository.
 
