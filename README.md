@@ -99,4 +99,4 @@ Please refer to the [LICENCE](https://github.com/saorisakaue/GREP/blob/master/LI
 We thank [Masa Kanai](https://github.com/mkanai) for helping us refactor the software implementation.
 
 ## Contact
-Any questions? Saori Sakaue (saori.sakaue\[at\]riken.jp)
+Any questions? Saori Sakaue (ssakaue\[at\]sg.med.osaka-u.ac.jp)
