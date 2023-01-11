@@ -32,6 +32,12 @@ parser.add_argument('--output-drug-name', '-d', default=False, action='store_tru
     help='If you want to know drug names target of which overlapped with your genes, set this flag.',
     required=False)
 
+# Try if TargetGene is not empty
+def try_iloc(value, number):
+    try:
+        return value.TargetGene.iloc[number] + ':' + ','.join(value.Drug.unique())
+    except:
+        return np.nan
 
 # fisher exact test function
 def grep(target, key, annot, out_drug=False):
@@ -49,8 +55,8 @@ def grep(target, key, annot, out_drug=False):
     if out_drug:
         out_cols.append('TargetGene:DrugNames')
         gene_druglist = target[target.TargetGene.isin(joined_genes)].groupby('TargetGene').apply(
-            lambda x: x.TargetGene.iloc[0] + ':' + ','.join(x.Drug.unique()))
-        drugnames = ";".join(gene_druglist)
+            lambda x: try_iloc(x, 0))
+        drugnames = ";".join(gene_druglist) if not gene_druglist.empty else np.nan
         ret = [group, annot.Annot[group], oddsratio, pvalue, drugnames]
     else:
         ret = [group, annot.Annot[group], oddsratio, pvalue]
